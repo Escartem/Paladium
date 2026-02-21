@@ -1,0 +1,61 @@
+package fr.paladium.palapass.client.ui.popup.reward;
+
+import fr.paladium.paladiumui.kit.background.BackgroundNode;
+import fr.paladium.paladiumui.kit.button.TextButtonNode;
+import fr.paladium.paladiumui.kit.button.impl.CloseButtonNode;
+import fr.paladium.paladiumui.kit.constant.ColorConstant;
+import fr.paladium.paladiumui.kit.constant.ResourceConstant;
+import fr.paladium.paladiumui.kit.font.PaladiumFont;
+import fr.paladium.paladiumui.kit.text.PaladiumText;
+import fr.paladium.palapass.client.ui.UIPalapass;
+import fr.paladium.palapass.common.constants.PalapassTranslateEnum;
+import fr.paladium.palapass.common.network.packet.server.CSPacketPalapassBuyNextStep;
+import fr.paladium.palapass.common.pojo.reward.RewardLevel;
+import fr.paladium.translate.common.texttotranslate.TTT;
+import fr.paladium.zephyrui.internal.mod.client.utils.ZUI;
+import fr.paladium.zephyrui.lib.color.Color;
+import fr.paladium.zephyrui.lib.draw.text.builder.Text;
+import fr.paladium.zephyrui.lib.font.dto.font.IFont;
+import fr.paladium.zephyrui.lib.font.dto.text.TextInfo;
+import fr.paladium.zephyrui.lib.ui.core.UI;
+import fr.paladium.zephyrui.lib.ui.core.data.UIData;
+import fr.paladium.zephyrui.lib.ui.core.data.popup.UIDataPopup;
+import fr.paladium.zephyrui.lib.ui.node.Node;
+import fr.paladium.zephyrui.lib.ui.node.impl.design.image.ImageNode;
+import fr.paladium.zephyrui.lib.ui.node.impl.design.shape.RectNode;
+import fr.paladium.zephyrui.lib.ui.node.impl.design.text.TextNode;
+import fr.paladium.zephyrui.lib.ui.node.impl.structure.flex.FlexNode;
+import fr.paladium.zephyrui.lib.utils.align.Align;
+import fr.paladium.zephyrui.lib.utils.click.ClickType;
+import fr.paladium.zephyrui.lib.utils.signal.Signal;
+
+@UIData(zlevel = 100.0D)
+@UIDataPopup(active = true)
+public class UIPalapassRewardPopup extends UI {
+  private final int level;
+  
+  private final RewardLevel reward;
+  
+  public UIPalapassRewardPopup(int level, RewardLevel reward) {
+    this.level = level;
+    this.reward = reward;
+  }
+  
+  public void init() {
+    BackgroundNode.create(901.0D, 398.0D)
+      .body(background -> {
+          CloseButtonNode.create(background.aw(-35.0D), 15.0D).onClick(()).attach(background);
+          FlexNode.horizontal(background.dw(2.0D), 42.0D, PaladiumText.TITLE.getHeight()).anchorX(Align.CENTER).body(()).attach(background);
+          TextNode.create(background.dw(2.0D), 110.0D).text(Text.create(PalapassTranslateEnum.UNLOCK_REWARD_PROMPT.textOrDefault("vous débloquerez la récompense suivante :").toUpperCase(), TextInfo.create((IFont)PaladiumFont.MONTSERRAT_MEDIUM, 15.0F, Color.WHITE), Align.CENTER)).anchorX(Align.CENTER).attach(background);
+          TextNode.create(background.dw(2.0D), 152.0D).text(Text.create(TTT.format(this.reward.getText(), new Object[0]), TextInfo.create((IFont)PaladiumFont.MINECRAFT_DUNGEONS, 25.0F, ColorConstant.PRIMARY), Align.CENTER)).anchorX(Align.CENTER).attach(background);
+          FlexNode.horizontal(background.dw(2.0D), 230.0D, TextInfo.create((IFont)PaladiumFont.MONTSERRAT_BOLD, 28.0F, Color.WHITE).getHeight()).anchorX(Align.CENTER).body(()).attach(background);
+          FlexNode.horizontal(background.dw(2.0D), 328.0D, 60.0D).margin(40.0D).align(Align.CENTER).body(()).attach(background);
+        }).attach(this);
+  }
+}
+
+
+/* Location:              E:\Paladium\!\fr\paladium\palapass\clien\\ui\popup\reward\UIPalapassRewardPopup.class
+ * Java compiler version: 8 (52.0)
+ * JD-Core Version:       1.1.3
+ */

@@ -1,0 +1,132 @@
+package fr.paladium.palamod.modules.argus.strings;
+
+class null {
+  int IIiiiIii;
+  
+  public String toString() {
+    byte[] iiiiiiiI = new byte[58];
+    this.IIiiiIii = 1559973081;
+    iiiiiiiI[0] = (byte)(this.IIiiiIii >>> 11);
+    this.IIiiiIii = 1639716684;
+    iiiiiiiI[1] = (byte)(this.IIiiiIii >>> 24);
+    this.IIiiiIii = -1017822238;
+    iiiiiiiI[2] = (byte)(this.IIiiiIii >>> 12);
+    this.IIiiiIii = 1490549305;
+    iiiiiiiI[3] = (byte)(this.IIiiiIii >>> 18);
+    this.IIiiiIii = -979931119;
+    iiiiiiiI[4] = (byte)(this.IIiiiIii >>> 18);
+    this.IIiiiIii = -549029210;
+    iiiiiiiI[5] = (byte)(this.IIiiiIii >>> 16);
+    this.IIiiiIii = 671124949;
+    iiiiiiiI[6] = (byte)(this.IIiiiIii >>> 21);
+    this.IIiiiIii = -1438212064;
+    iiiiiiiI[7] = (byte)(this.IIiiiIii >>> 12);
+    this.IIiiiIii = 1988095543;
+    iiiiiiiI[8] = (byte)(this.IIiiiIii >>> 20);
+    this.IIiiiIii = 1878109456;
+    iiiiiiiI[9] = (byte)(this.IIiiiIii >>> 5);
+    this.IIiiiIii = 700454697;
+    iiiiiiiI[10] = (byte)(this.IIiiiIii >>> 23);
+    this.IIiiiIii = -234824477;
+    iiiiiiiI[11] = (byte)(this.IIiiiIii >>> 19);
+    this.IIiiiIii = -1298071843;
+    iiiiiiiI[12] = (byte)(this.IIiiiIii >>> 23);
+    this.IIiiiIii = 630062493;
+    iiiiiiiI[13] = (byte)(this.IIiiiIii >>> 14);
+    this.IIiiiIii = 1773534314;
+    iiiiiiiI[14] = (byte)(this.IIiiiIii >>> 19);
+    this.IIiiiIii = 405122824;
+    iiiiiiiI[15] = (byte)(this.IIiiiIii >>> 12);
+    this.IIiiiIii = 275326653;
+    iiiiiiiI[16] = (byte)(this.IIiiiIii >>> 10);
+    this.IIiiiIii = 2089161229;
+    iiiiiiiI[17] = (byte)(this.IIiiiIii >>> 3);
+    this.IIiiiIii = 1396332347;
+    iiiiiiiI[18] = (byte)(this.IIiiiIii >>> 19);
+    this.IIiiiIii = -802095661;
+    iiiiiiiI[19] = (byte)(this.IIiiiIii >>> 22);
+    this.IIiiiIii = -597389355;
+    iiiiiiiI[20] = (byte)(this.IIiiiIii >>> 9);
+    this.IIiiiIii = 1144758926;
+    iiiiiiiI[21] = (byte)(this.IIiiiIii >>> 15);
+    this.IIiiiIii = 616731195;
+    iiiiiiiI[22] = (byte)(this.IIiiiIii >>> 12);
+    this.IIiiiIii = -948009852;
+    iiiiiiiI[23] = (byte)(this.IIiiiIii >>> 4);
+    this.IIiiiIii = 357231656;
+    iiiiiiiI[24] = (byte)(this.IIiiiIii >>> 9);
+    this.IIiiiIii = -848955849;
+    iiiiiiiI[25] = (byte)(this.IIiiiIii >>> 16);
+    this.IIiiiIii = -584676682;
+    iiiiiiiI[26] = (byte)(this.IIiiiIii >>> 15);
+    this.IIiiiIii = 323019630;
+    iiiiiiiI[27] = (byte)(this.IIiiiIii >>> 3);
+    this.IIiiiIii = -216786848;
+    iiiiiiiI[28] = (byte)(this.IIiiiIii >>> 7);
+    this.IIiiiIii = 498063837;
+    iiiiiiiI[29] = (byte)(this.IIiiiIii >>> 18);
+    this.IIiiiIii = 103179601;
+    iiiiiiiI[30] = (byte)(this.IIiiiIii >>> 15);
+    this.IIiiiIii = -1455928754;
+    iiiiiiiI[31] = (byte)(this.IIiiiIii >>> 21);
+    this.IIiiiIii = -595834485;
+    iiiiiiiI[32] = (byte)(this.IIiiiIii >>> 6);
+    this.IIiiiIii = 1914062830;
+    iiiiiiiI[33] = (byte)(this.IIiiiIii >>> 20);
+    this.IIiiiIii = -1575628166;
+    iiiiiiiI[34] = (byte)(this.IIiiiIii >>> 10);
+    this.IIiiiIii = 1320200106;
+    iiiiiiiI[35] = (byte)(this.IIiiiIii >>> 4);
+    this.IIiiiIii = 1355183902;
+    iiiiiiiI[36] = (byte)(this.IIiiiIii >>> 12);
+    this.IIiiiIii = 83967884;
+    iiiiiiiI[37] = (byte)(this.IIiiiIii >>> 18);
+    this.IIiiiIii = 82885494;
+    iiiiiiiI[38] = (byte)(this.IIiiiIii >>> 3);
+    this.IIiiiIii = 1627643369;
+    iiiiiiiI[39] = (byte)(this.IIiiiIii >>> 2);
+    this.IIiiiIii = 1113860899;
+    iiiiiiiI[40] = (byte)(this.IIiiiIii >>> 3);
+    this.IIiiiIii = 1009982483;
+    iiiiiiiI[41] = (byte)(this.IIiiiIii >>> 15);
+    this.IIiiiIii = 1035080567;
+    iiiiiiiI[42] = (byte)(this.IIiiiIii >>> 7);
+    this.IIiiiIii = 1083232031;
+    iiiiiiiI[43] = (byte)(this.IIiiiIii >>> 9);
+    this.IIiiiIii = -1655662141;
+    iiiiiiiI[44] = (byte)(this.IIiiiIii >>> 22);
+    this.IIiiiIii = -1776733143;
+    iiiiiiiI[45] = (byte)(this.IIiiiIii >>> 14);
+    this.IIiiiIii = 726777869;
+    iiiiiiiI[46] = (byte)(this.IIiiiIii >>> 14);
+    this.IIiiiIii = -496340217;
+    iiiiiiiI[47] = (byte)(this.IIiiiIii >>> 16);
+    this.IIiiiIii = -2006123324;
+    iiiiiiiI[48] = (byte)(this.IIiiiIii >>> 21);
+    this.IIiiiIii = 724799699;
+    iiiiiiiI[49] = (byte)(this.IIiiiIii >>> 11);
+    this.IIiiiIii = -1725058189;
+    iiiiiiiI[50] = (byte)(this.IIiiiIii >>> 4);
+    this.IIiiiIii = 837892937;
+    iiiiiiiI[51] = (byte)(this.IIiiiIii >>> 7);
+    this.IIiiiIii = -1341607912;
+    iiiiiiiI[52] = (byte)(this.IIiiiIii >>> 9);
+    this.IIiiiIii = 338364791;
+    iiiiiiiI[53] = (byte)(this.IIiiiIii >>> 22);
+    this.IIiiiIii = 87395681;
+    iiiiiiiI[54] = (byte)(this.IIiiiIii >>> 20);
+    this.IIiiiIii = 776922924;
+    iiiiiiiI[55] = (byte)(this.IIiiiIii >>> 13);
+    this.IIiiiIii = -1545199343;
+    iiiiiiiI[56] = (byte)(this.IIiiiIii >>> 23);
+    this.IIiiiIii = 448177092;
+    iiiiiiiI[57] = (byte)(this.IIiiiIii >>> 22);
+    return new String(iiiiiiiI);
+  }
+}
+
+
+/* Location:              E:\Paladium\!\fr\paladium\palamod\modules\argus\strings\StringActiveModList$21.class
+ * Java compiler version: 8 (52.0)
+ * JD-Core Version:       1.1.3
+ */

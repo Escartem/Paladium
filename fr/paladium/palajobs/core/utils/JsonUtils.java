@@ -1,0 +1,29 @@
+package fr.paladium.palajobs.core.utils;
+
+import com.google.gson.Gson;
+import fr.paladium.palajobs.PalaJobs;
+import java.io.File;
+import java.io.InputStream;
+import java.lang.reflect.Type;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import org.apache.commons.io.IOUtils;
+
+public class JsonUtils {
+  private static final Gson gson = new Gson();
+  
+  public static Object getFileObject(String fileName, Type clazz) throws Exception {
+    String content = new String(Files.readAllBytes(Paths.get(PalaJobs.getServer().getConfigDirectory().getAbsolutePath() + File.separator + fileName, new String[0])));
+    return gson.fromJson(content, clazz);
+  }
+  
+  public static Object getObjectFromInputStream(InputStream inputStream, Type clazz) throws Exception {
+    return gson.fromJson(IOUtils.toString(inputStream), clazz);
+  }
+}
+
+
+/* Location:              E:\Paladium\!\fr\paladium\palajobs\cor\\utils\JsonUtils.class
+ * Java compiler version: 8 (52.0)
+ * JD-Core Version:       1.1.3
+ */

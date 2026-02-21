@@ -1,0 +1,29 @@
+package fr.paladium.palamod.modules.luckyblock.luckyevents;
+
+import fr.paladium.cresus.server.api.async.CresusCallback;
+import fr.paladium.cresus.server.managers.CresusManager;
+import fr.paladium.cresus.server.responses.CresusResponse;
+import fr.paladium.palamod.modules.luckyblock.utils.PlayerUtils;
+import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.entity.player.EntityPlayerMP;
+
+class null implements CresusCallback<Double> {
+  public void onFail(Double arg0, Throwable arg1) {}
+  
+  public void onSuccess(Double arg0) {
+    final double toDeposit = arg0.doubleValue() / 10.0D;
+    CresusManager.getInstance().depositPlayerAsync(player.func_110124_au(), toDeposit, "ALuckyEvent AddMoney", new CresusCallback<CresusResponse>() {
+          public void onSuccess(CresusResponse arg0) {
+            PlayerUtils.sendMessage((EntityPlayer)player, "§aVous venez de gagner §e" + (int)toDeposit + "$");
+          }
+          
+          public void onFail(CresusResponse arg0, Throwable arg1) {}
+        });
+  }
+}
+
+
+/* Location:              E:\Paladium\!\fr\paladium\palamod\modules\luckyblock\luckyevents\AddMoney$1.class
+ * Java compiler version: 8 (52.0)
+ * JD-Core Version:       1.1.3
+ */

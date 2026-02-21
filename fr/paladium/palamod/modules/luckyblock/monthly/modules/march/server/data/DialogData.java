@@ -1,0 +1,70 @@
+package fr.paladium.palamod.modules.luckyblock.monthly.modules.march.server.data;
+
+import java.util.Arrays;
+
+public class DialogData {
+  private int id;
+  
+  private final String dialog;
+  
+  private final String[] answers;
+  
+  DialogData(int id, String dialog, String[] answers) {
+    this.id = id;
+    this.dialog = dialog;
+    this.answers = answers;
+  }
+  
+  public static DialogDataBuilder builder() {
+    return new DialogDataBuilder();
+  }
+  
+  public static class DialogDataBuilder {
+    private int id;
+    
+    private String dialog;
+    
+    private String[] answers;
+    
+    public DialogDataBuilder id(int id) {
+      this.id = id;
+      return this;
+    }
+    
+    public DialogDataBuilder dialog(String dialog) {
+      this.dialog = dialog;
+      return this;
+    }
+    
+    public DialogDataBuilder answers(String[] answers) {
+      this.answers = answers;
+      return this;
+    }
+    
+    public DialogData build() {
+      return new DialogData(this.id, this.dialog, this.answers);
+    }
+    
+    public String toString() {
+      return "DialogData.DialogDataBuilder(id=" + this.id + ", dialog=" + this.dialog + ", answers=" + Arrays.deepToString((Object[])this.answers) + ")";
+    }
+  }
+  
+  public int getId() {
+    return this.id;
+  }
+  
+  public String getDialog() {
+    return this.dialog;
+  }
+  
+  public String[] getAnswers() {
+    return this.answers;
+  }
+}
+
+
+/* Location:              E:\Paladium\!\fr\paladium\palamod\modules\luckyblock\monthly\modules\march\server\data\DialogData.class
+ * Java compiler version: 8 (52.0)
+ * JD-Core Version:       1.1.3
+ */
