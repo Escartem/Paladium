@@ -1,0 +1,2773 @@
+################
+### Discord
+################
+
+discord.details.loading=Loading...
+discord.details.mainmenu=On the Main Menu
+discord.details.playsolo=Playing on SinglePlayer
+discord.details.playpaladium=Playing on Paladium
+
+################
+### Helios
+################
+module.currentspell.name=current spell
+module.currentspell.description=customize the current spell display.
+
+module.legendary_power.name=power cooldown
+module.legendary_power.description=customize the legendary stone of power display.
+
+module.omniscience.name=omniscience
+module.omniscience.description=customize the omniscience spell inventory display.
+
+module.unclaim_finder.name=unclaim finder
+module.unclaim_finder.description=customize the unclaim finder display.
+
+module.spawner_finder.name=spawner finder
+module.spawner_finder.description=customize the spawner finder display.
+
+module.luckyevent.name=lucky event
+module.luckyevent.description=displays the description of the current lucky event.
+
+module.setting.showAllSticks.name=show all cooldowns
+module.setting.showAllSticks.description=
+
+################
+### Gui
+################
+
+### Main Menu
+menu.title.news_button=News
+menu.title.store_button=Store
+menu.title.options_button=Options
+menu.title.connect_button=Login
+
+menu.title.online_label=Players online
+menu.title.maintenance_label=Maintenance...
+
+### Ingame Menu
+menu.ingame.leave_button.waits=(Wait %d seconds)
+menu.ingame.leave_button.wait=(Wait %d second)
+menu.ingame.leave=Leave
+
+### Notification
+notification.noel.noslot=Vous n'avez pas assez de place disponible !
+notification.noel.alreadyget=Vous avez déjà récupérer ce jours !
+notification.noel.undefined=Vous essayez d'ouvrir une case d'un autre jour !
+
+################
+### Creative Tabs
+################
+
+itemGroup.palamod=Paladium
+itemGroup.palamod_plants=Paladium - Plants
+itemGroup.palamod_chisel=Paladium - Chisel
+itemGroup.palamod_food=Paladium - Food
+itemGroup.palamod_decorative=Paladium - Decorative
+itemGroup.palamod_smeltery=Paladium - Smeltery
+itemGroup.palamod-luckyblock=Paladium - LuckyBlock
+itemGroup.palamod_hunter=Paladium - Hunter
+itemGroup.palamod_miner=Paladium - Miner
+
+
+################
+### Blocks
+################
+
+### Ore
+tile.amethyst.ore.name=Amethyst Ore
+tile.titane.ore.name=Titane Ore
+tile.paladium.ore.name=Paladium Ore
+tile.paladium.green.ore.name=Green Paladium Ore
+tile.endium.ore.name=Endium Ore
+tile.findium.ore.name=Findium Ore
+tile.trixium.ore.name=Trixium Ore
+
+### World
+granite.granite.name=Granite
+granite.granite_smooth.name=Polished Granite
+diorite.diorite.name=Diorite
+diorite.diorite_smooth.name=Polished Diorite
+andesite.andesite.name=Andesite
+andesite.andesite_smooth.name=Polished Andesite
+tile.limestone.name=Limestone
+tile.marble.name=Marble
+
+tile.crops.ice.name=Ice Crystal
+tile.crops.eggplant.name=Eggplants
+tile.crops.chervil.name=Chervil
+tile.crops.kiwano.name=Kiwano
+tile.crops.orangeblue.name=OrangeBlue
+
+### Block Ingot
+tile.findium_block.name=Findium Block
+tile.trixium_block.name=Trixium Block
+tile.paladium_block.name=Paladium Block
+tile.titane_block.name=Titane Block
+tile.amethyst_block.name=Amethyst Block
+tile.gpaladium_block.name=Green Paladium Block
+
+
+### Chisel
+tile.chisel.stone.name=Chiseled Stone
+tile.chisel.cobblestone.name=Chiseled Cobblestone
+tile.chisel.log_oak.name=Chiseled Oak Wood
+tile.chisel.log_spruce.name=Chiseled Spruce Wood
+tile.chisel.log_birch.name=Chiseled Birch Wood
+tile.chisel.log_jungle.name=Chiseled Jungle Wood
+tile.chisel.log_acacia.name=Chiseled Acacia Wood
+tile.chisel.log_big_oak.name=Chiseled Dark Oak Wood
+tile.chisel.glass.name=Chiseled Glass
+tile.chisel.glass_slab.name=Chiseled Glass Slab
+tile.chisel.glass_stairs.name=Chiseled Glass Stairs
+tile.slime_green.name=Green Slime
+tile.slime_blue.name=Blue Slime
+tile.slime_orange.name=Orange Slime
+tile.slime_purple.name=Purple Slime
+tile.slime_red.name=Red Slime
+tile.slime_transparent_green.name=Green Slime Transparent
+tile.slime_transparent_blue.name=Blue Slime Transparent
+tile.slime_transparent_orange.name=Orange Slime Transparent
+tile.slime_transparent_purple.name=Purple Slime Transparent
+tile.slime_transparent_red.name=Red Slime Transparent
+tile.slimepad_green.name=Green Slimepad
+tile.slimepad_blue.name=Blue Slimepad
+tile.slimepad_orange.name=Orange Slimepad
+tile.slimepad_purple.name=Purple Slimepad
+tile.slimepad_red.name=Red Slimepad
+tile.slimepad_red.name=Red Slimepad
+tile.chisel.black_concrete.name=Chiseled Black Concrete
+tile.chisel.blue_concrete.name=Chiseled Blue Concrete
+tile.chisel.brown_concrete.name=Chiseled Brown Concrete
+tile.chisel.cyan_concrete.name=Chiseled Cyan Concrete
+tile.chisel.gray_concrete.name=Chiseled gray Concrete
+tile.chisel.green_concrete.name=Chiseled Green Concrete
+tile.chisel.light_blue_concrete.name=Chiseled Light Blue Concrete
+tile.chisel.light_gray_concrete.name=Chiseled Light Gray Concrete
+tile.chisel.lime_concrete.name=Chiseled Lime Concrete
+tile.chisel.magenta_concrete.name=Chiseled Magenta Concrete
+tile.chisel.orange_concrete.name=Chiseled Orange Concrete
+tile.chisel.pink_concrete.name=Chiseled Pink Concrete
+tile.chisel.purple_concrete.name=Chiseled Purple Concrete
+tile.chisel.red_concrete.name=Chiseled Red Concrete
+tile.chisel.white_concrete.name=Chiseled White Concrete
+tile.chisel.yellow_concrete.name=Chiseled Yellow Concrete
+tile.chisel.prismarine.name=Chiseled Prismarine
+tile.chisel.wool.name=Chiseled Wool
+tile.chisel.metals.name=Chiseled Metal
+tile.futura.name=Futura
+tile.chisel.futura.name=Chiseled Futura
+tile.chisel.ice.name=Chiseled Ice
+tile.chisel.glowstone.name=Chiseled Glowstone
+tile.chisel.cloud.name=Chiseled Cloud
+tile.chisel.limestone.name=Chiseled Limestone
+tile.chisel.endstone.name=Chiseled Endstone
+tile.chisel.lapis.name=Chiseled Lapis Lazuli
+tile.chisel.voidstone.name=Chiseled Voidstone
+tile.chisel.andesite.name=Chiseled Andesite
+tile.chisel.diorite.name=Chiseled Diorite
+tile.chisel.concrete_powder.name=Chiseled Concrete Powder
+tile.chisel.obsidian.name=Chiseled Obsidian
+tile.chisel.purpur.name=Chiseled Purpur
+tile.chisel.dirt.name=Chiseled Dirt
+tile.chisel.antiblock.name=Chiseled Antiblock
+tile.chisel.marble.name=Chiseled Marble
+tile.chisel.laboratory.name=Chiseled Laboratory
+tile.chisel.marblepillar.name=Chiseled Marble Pillar
+tile.chisel.coal.name=Chiseled Coal
+tile.chisel.planks_spruce.name=Chiseled Spruce Planks
+tile.chisel.planks_oak.name=Chiseled Oak Planks
+tile.chisel.emerald.name=Chiseled Emerald
+tile.chisel.redstone.name=Chiseled Redstone
+tile.chisel.concrete.name=Chiseled Concrete
+tile.chisel.hardenedclay.name=Chiseled Hardened Clay
+tile.chisel.sandstone_scribbles.name=Chiseled Sandstone Scribbles
+tile.chisel.technical.name=Chiseled Technical
+tile.chisel.gold.name=Chiseled Gold
+tile.chisel.basalt.name=Chiseled Basalt
+tile.chisel.coalcoke.name=Chiseled Coalcoke
+tile.chisel.valentines.name=Chiseled Valentines
+tile.chisel.planks_acacia.name=Chiseled Acacia Planks
+tile.chisel.planks_jungle.name=Chiseled Jungle Planks
+tile.chisel.netherbrick.name=Chiseled Netherbrick
+tile.chisel.netherrack.name=Chiseled Netherrack
+tile.chisel.sandstoneyellow.name=Chiseled Sandstone
+tile.chisel.bricks.name=Chiseled Bricks
+tile.factory.name=Factory
+tile.chisel.factory.name=Chiseled Factory
+tile.chisel.icepillar.name=Chiseled Ice Pillar
+tile.chisel.quartz.name=Chiseled Quartz
+tile.chisel.planks_birch.name=Chiseled Birch Planks
+tile.chisel.planks_dark_oak.name=Chiseled Dark Oak Planks
+tile.chisel.sandstonered.name=Chiseled Red Sandstone
+tile.chisel.diamond.name=Chiseled Diamond
+tile.chisel.granite.name=Chiseled Granite
+tile.chisel.iron.name=Chiseled Iron
+tile.chisel.temple.name=Chiseled Temple
+tile.chisel.tyrian.name=Chiseled Tyrian
+tile.chisel.charcoal.name=Chiseled Charcoal
+tile.chisel.ice.templemossy=Chiseled Temple Mossy
+
+####################
+### Legendary Stone
+####################
+
+item.LEGENDARYSTONE_RANDOM.name=LegendaryStone Random
+item.LEGENDARYSTONE_TELEPORTATION.name=LegendaryStone Teleportation
+item.LEGENDARYSTONE_INVISIBILITY.name=LegendaryStone Invisibility
+item.LEGENDARYSTONE_FORTUNE.name=LegendaryStone Fortune
+item.LEGENDARYSTONE_POWER.name=LegendaryStone Power
+item.LEGENDARYSTONE_JOBS.name=LegendaryStone Jobs
+item.LEGENDARYSTONE_CHAOS.name=LegendaryStone Chaos
+
+
+################
+### Tile Entity
+################
+
+### Chest
+tile.paladium_chest.name=Paladium Chest
+tile.endium_chest.name=Endium Chest
+tile.titane_chest.name=Titane Chest
+tile.amethyst_chest.name=Amethyst Chest
+tile.gpaladium_chest.name=Green Paladium Chest
+tile.paladium_ender_chest.name=Paladium Ender Chest
+
+
+### Machine
+tile.paladium.machine.name=Palamachine
+tile.forge.name=Palaforge
+tile.paladium_furnace_block.name=Palafurnace
+tile.alchemy_creator_block.name=Alchemy Creator
+tile.bow_machine_block.name=Bow Machine
+tile.cobbleBreaker.name=Cobblebreaker
+tile.crusher.name=Crusher
+tile.online_detector_block.name=Online Detector
+tile.grinder_block.name=Grinder Block
+tile.grinder_casing_block.name=Grinder Casing
+tile.grinder_frame.name=Grinder Frame
+tile.flower_farm.name=Flower Totem
+
+### Flower
+tile.flower_harpagophytum.name=Harpagophytum
+tile.flower_absinthe.name=Absinthe
+tile.flower_actaeapachypoda.name=Actaeapachypoda
+tile.flower_clathrusarcheri.name=Clathrusarcheri
+tile.flower_endium.name=Endium Flower
+tile.flower_Paladium.name=Paladium Flower
+tile.flower_mint.name=Mint
+tile.flower_ortie.name=Ortie
+tile.flower_sauge.name=Sauge
+tile.flower_trefle.name=Trefle
+tile.flower_lucky.name=Lucky Flower
+
+
+### Tree
+tile.sapling.judeecercis.name=Judeecercis Sapling
+tile.log.judeecercis.name=Judeecercis Log
+tile.judeecercis.name=Judeecercis Leaves
+tile.planks.judeecercis.name=Judeecercis Planks
+
+tile.sapling.jacaranda.name=Jacaranda Sapling
+tile.log.jacaranda.name=Jacaranda Log
+tile.jacaranda.name=Jacaranda Leaves
+tile.planks.jacaranda.name=Jacaranda Planks
+
+tile.sapling.erable.name=Erable Sapling
+tile.log.erable.name=Erable Log
+tile.erable.name=Erable Leaves
+tile.planks.erable.name=Erable Planks
+
+tile.log.dead_wood.name=Dead Log
+tile.planks.dead_wood.name=Dead Planks
+
+tile.sapling.ostrya.name=Ostrya Sapling
+tile.log.ostrya.name=Ostrya Log
+tile.ostrya.name=Ostrya Leaves
+tile.planks.ostrya.name=Ostrya Planks
+tile.totem.name=Totem of Fertility
+
+tile.concrete_powder.name=%s Concrete Powder
+tile.concrete.name=%s Concrete
+
+color.white=White
+color.orange=Orange
+color.magenta=Magenta
+color.lightBlue=Light Blue
+color.yellow=Yellow
+color.lime=Lime
+color.pink=Pink
+color.gray=Gray
+color.silver=Light Gray
+color.cyan=Cyan
+color.purple=Purple
+color.blue=Blue
+color.brown=Brown
+color.green=Green
+color.red=Red
+color.black=Black
+
+### Decorative
+tile.obsidianTrapDoor.name=Obsidian Trapdoor
+tile.obsidianBlockStairs.name=Obsidian Stairs
+tile.obsidianBlockSlab.name=Obsidian Slab
+tile.obsidianItemDoor.name=Obsidian Door
+tile.findiumBlockStairs.name=Findium Stairs
+tile.findiumBlockSlab.name=Findium Slab
+
+
+### Autre tile entity
+tile.slimepad.name=Slimepad
+tile.spikewood.name=Wood Spike
+tile.spikeiron.name=Iron Spike
+tile.spikegold.name=Gold Spike
+tile.spikeamethyst.name=Amethyst Spike
+tile.spiketitane.name=Titane Spike
+tile.spikepaladium.name=Paladium Spike
+tile.cave_block.name=Cave Block
+tile.endium_cave_block.name=Endium Cave Block
+tile.berry_xp_bush.name=XP Bush
+tile.hardenedObsidian.name=Hardened Obsidian
+tile.hardenedObsidianBlockStairs.name=Hardened Stairs Obsidian
+tile.hardenedObsidianBlockSlab.name=Hardened Slab Obsidian
+################
+### Blocks - LuckyBlock
+################
+
+tile.paladiumLuckyBlock.name=Paladium Lucky Block
+tile.paladiumLuckyDrawer.name=Lucky Drawer
+tile.endiumLuckyBlock.name=Endium Lucky Block
+tile.blackLuckyBlock.name=Black Lucky Block
+tile.fishBowl.name=Fish Bowl
+tile.paladium_fake_tnt.name=Fake TNT
+tile.big_head.name=Big Head
+tile.colored_lamp.name=Colored Lamp
+tile.flower_hunter.name=Hunter Plant
+tile.wireless_lever.name=Wireless Lever
+tile.customwither_head.name=Custom Wither Head
+tile.passifwither_head.name=Passif Wither Head
+tile.dyeing_machine.name=Dyeing Machine
+tile.paladium_fake_block.name=Paladium Block
+tile.gpaladium_fake_block.name=Green Paladium Block
+tile.kawaii_tnt.name=Kawaii TNT
+tile.less_kawaii_tnt.name=Less Kawaii TNT
+tile.christmasLuckyBlock.name=Christmas Lucky Block
+tile.christmas_tree.name=Christmas Tree
+tile.trophychristmas.name=Christmas Trophy
+tile.trophy_findium.name=Findium Trophy
+tile.findiumLuckyBlock.name=Findium Lucky Block
+tile.didier.name=Didier
+tile.cat_detector.name=Cat Detector
+tile.banana_planks.name=Banana plank
+tile.banana_wood.name=Banana wood
+tile.banana_leave.name=Banana leave
+tile.flashy_block.name=Bloc retro
+tile.stalactites.name=Stalactite
+tile.paladium_fake_ore.name=Fake Paladium Ore
+tile.piege_ficelle_off.name=Trap off
+tile.piege_ficelle_on.name=Trap on
+tile.anvil_money.name=Anvil Money
+tile.chat_detector.name=Chat Detector
+tile.tombe.name=Tombe
+tile.basket.name=Panier de Basket
+tile.ball_basket.name=Balle de Basket
+tile.supercraftingtable.name=Super Crafting Table
+tile.string_trap_off.name=Piège à Ficelle
+tile.string_trap_on.name=Piège à Ficelle
+tile.sleeping_bed.name=Sac de couchage
+tile.christmas_mockup.deer0.name=Blixen
+tile.christmas_mockup.deer1.name=Rudolphe
+tile.christmas_mockup.deer2.name=Comet
+tile.christmas_mockup.deer3.name=Cupid
+tile.christmas_mockup.deer4.name=Dancer
+tile.christmas_mockup.deer5.name=Dasher
+tile.christmas_mockup.sleigh.name=Sleigh
+tile.christmas_mockup.santa_claus.name=Santa Claus
+
+## LuckyStats
+tile.super_beacon.name=Super Beacon
+
+################
+### Items - LuckyBlock
+################
+item.fuzeiii.name=FuzeIII Music
+item.fuzeiii.desc=FuzeIII - My name is FuzeIII
+item.chunk_analyser.name=Chunk Analyser
+item.blaze_and_steel.name=Blaze and Steel
+item.weighted_boots.name=Weighted Boots
+item.grappin.name=Grappling
+item.grappin_hook.name=Grappling Hook
+item.spacefood.name=Space Food
+item.magic_potion.name=Magic Potion
+item.biome_painter.name=Biome Painter
+item.lasso.name=Lasso
+item.roller.name=Roller
+item.jetpack.name=Jetpack
+item.lucky_painting.name=Lucky Painting
+item.chocolate_milk.name=Chocolate Milk
+item.christmas_book.name=Christmas Book
+item.multicolor_gift.name=Multicolor Gift
+item.christmas_axe.name=Christmas Axe
+item.christmas_ball.name=Christmas Ball
+item.present.name=Christmas Present
+item.ore_present.name=Ore Present
+item.christmas_stone.name=Christmas Stone
+item.present_bag.name=Present Bag
+item.christmas.helmet.name=Christmas Helmet
+item.christmas.chestplate.name=Christmas Chestplate
+item.christmas.leggings.name=Christmas Leggings
+item.christmas.boots.name=Christmas Boots
+item.wish_card.name=Wish Card
+item.fake_money.name=Billet
+item.follow_compass.name=Player Compass
+item.happy_new_year.name=Findium Firework
+item.stats_stone.name=Stats Stone
+item.balaclava_helmet.name=Balaclava
+item.sleeping_bag.name=Sleeping bag
+item.calcium.name=Milk carton
+item.squidgame_helmet.name=Guard mask
+item.airMin_Boots.name=AirMin
+item.paladium_item_frame.name=Item Frame Paladium
+item.banana.name=Banana
+item.endium_fake.helmet.name=Fake endium Helmet
+item.endium_fake.chestplate.name=Fake endium Chestplate
+item.endium_fake.leggings.name=Fake endium Leggings
+item.endium_fake.boots.name=Fake endium Boots
+item.couac_sword.name=Couac Sword
+item.potion.soda.name=Soda
+item.mariomushroom.name=Mushroom Mario
+item.keytombe.name=Key
+item.pistol_tank.name=Pistol Tank
+
+## LuckyStats
+item.bionic_snowball.name=Bionic Snowball
+item.moon_piece.name=Moon Piece
+
+################
+### Potions - LuckyBlock
+################
+
+luckypotion.cowPlayer=Cow Player
+luckypotion.grosRelou=Big Relou
+luckypotion.fireMan=All fire all flames
+luckypotion.boomMobs=Boom the mobs
+luckypotion.walkInMusic=Walk in Music
+luckypotion.superMan=SuperMan
+potion.green_effect=Green Filter
+potion.extremeCold=Extreme Cold
+potion.hideHead=Or give head
+potion.cancelJump=But not so high!
+potion.magnetic=Magneto
+potion.tree=The tree friend
+potion.flou=Where are my glasses ?
+potion.veiw_two_person=Take a step back
+potion.mario_mushroom=Power up
+potion.ice_ground=Ice ground
+potion.notexture=404 Not Found
+potion.lag=ADSL
+potion.anvil_money=Money
+potion.stalactites=Warning
+potion.explosif=EXPLOSION !
+potion.tombe=Tombe
+
+################
+### Entities - LuckyBlock
+################
+
+entity.entityPricklySheep.name=Prickly Sheep
+entity.entitySantaClaus.name=Santa Claus
+entity.entityChristmasCow.name=Christmas Cow
+entity.entityDove.name=Dove
+entity.entityBee.name=Bee
+entity.palamod.fakeplayerluckyblock.name=FuzeIII
+entity.entityChristmasSnowGolem.name=Snow Golem
+entity.entitySantaNoescroc.name=Noescroc Father
+entity.KillerBunny.name=Killer Bunny
+entity.WereRabbit.name=Were-Rabbit
+
+################
+### GUI - LuckyBlock
+################
+
+gui.entitySantaNoescroc.title=Santa Claus
+gui.entitySantaNoescroc.sentence=Click on item to choose your gift :
+gui.entitySantaNoescroc.validation=Would you like to get this item ?
+
+################
+### Spells
+################
+key.spells=Spells
+key.spells.menu=Open Spell Menu
+key.spells.select=Select Active Spell
+key.spells.use=Use Active Spell
+key.spells.exit=Exit Active Spell
+
+key.spells.spell1=Use Spell 1
+key.spells.spell2=Use Spell 2
+key.spells.spell3=Use Spell 3
+
+################
+### Items - Spells
+################
+item.spell_scroll.name=Spell Scroll
+
+################
+### Items - Hunter
+################
+item.endium_nametag.name=Endium Name Tag
+item.capture_stone.name=Capture Stone
+item.capture_sword.name=Capture Sword
+item.hunter_amulet.name=Hunter Amulet
+item.voyance_amulet.name=Voyance Amulet
+item.discretion_amulet.name=Discretion Amulet
+item.combat_amulet.name=Combat Amulet
+item.magma_amulet.name=Magma Amulet
+item.cavern_hammer.name=Cavern Hammer
+item.turtle_scales.name=Turtle Scale
+item.panda_drool.name=Panda Drool
+item.parrot_feather.name=Parrot Feather
+item.crab_pliers.name=Crab Claw
+item.tusk.name=Elephant Tusk
+item.snake_venom.name=Snake Venom
+item.meduse_hook.name=Jellyfish Fang
+item.goat_shoe.name=Goat Hoof
+item.dolphin_noise_box.name=Dolphin Noise Box
+item.bamboo.name=Bamboo
+item.hunter_backpack_amethyste.name=Amethyst Backpack
+item.hunter_backpack_titane.name=Titane Backpack
+item.hunter_backpack_paladium.name=Paladium Backpack
+item.hunter_backpack_endium.name=Endium Backpack
+item.hunter_compass_amethyste.name=Amethyst Compass
+item.hunter_compass_titane.name=Titane Compass
+item.hunter_compass_paladium.name=Paladium Compass
+item.hunter_compass_endium.name=Endium Compass
+
+################
+### Entities - Hunter
+################
+entity.entityFarmerChicken.name=Farmer Chicken
+entity.entityCavernousZombie.name=Cavernous Zombie
+entity.entityFlowerMonster.name=Flower Monster
+entity.entityMegaCreeper.name=Mega Creeper
+entity.entitySnail.name=Snail
+entity.entityJellyFish.name=Jelly Fish
+entity.entitySnake.name=Snake
+entity.entityCrab.name=Crab
+entity.entityTurtle.name=Turtle
+entity.entityParrot.name=Parrot
+entity.entityPanda.name=Panda
+entity.entityGoat.name=Goat
+entity.entityDolphin.name=Dolphin
+entity.entityElephant.name=Elephant
+
+################
+### Blocks - Hunter
+################
+tile.elevator_block.name=Elevator
+tile.empty_mob_spawner.name=Empty Spawner
+tile.empty_broken_mob_spawner.name=Broken Spawner
+tile.perlinpinpin_power.name=Perlimpinpin Powder
+tile.sacrifice_hotel.name=Sacrifice Altar
+tile.endium_totem.name=Endium Totem
+tile.bamboo.name=Bamboo
+tile.bamboo_block.name=Bamboo Block
+
+################
+### Gui - Hunter
+################
+palamod.container.backpack=Backpack
+palamod.container.suitcase=Suitcase
+palamod.container.hunter_backpack_amethyste=Amethyst Backpack
+palamod.container.hunter_backpack_titane=Titane Backpack
+palamod.container.hunter_backpack_paladium=Paladium Backpack
+palamod.container.hunter_backpack_endium=Endium Backpack
+
+################
+### Enchantments - Hunter
+################
+enchantment.reverse_knockback=Reverse Knockback
+enchantment.double_knockback=Double Knockback
+enchantment.xp_stealer=XP Stealer
+enchantment.life_stealer=Life Stealer
+enchantment.contre_buff=Contre Buff
+enchantment.bleeding=Bleeding
+enchantment.liberation=Liberation
+enchantment.imbalance=Imbalance
+enchantment.recuperation=Recuperation
+enchantment.recuperation_dig=Recuperation
+enchantment.overwhelmed=Overwhelmed
+enchantment.xp_bottler=Experience Bottler
+enchantment.xp_bottler_sword=Experience Bottler Sword
+enchantment.hyper_xp=Hyper Experience
+enchantment.frost_walker=Frost Walker
+enchantment.noFall=No Fall
+
+################
+### Potions - Mineur
+################
+potion.hardness=Hardness
+
+################
+### Items - Mineur
+################
+item.spawner_finder.name=Spawner Finder
+item.builder_wand.name=Builder Wand
+item.builder_wand_0.amethyst.name=Amethyst Builder Wand
+item.builder_wand_1.titane.name=Titane Builder Wand
+item.builder_wand_2.paladium.name=Paladium Builder Wand
+item.builder_wand_3.endium.name=Endium Builder Wand
+item.builder_wand_0.name=Amethyst Builder Wand
+item.builder_wand_1.name=Titane Builder Wand
+item.builder_wand_2.name=Paladium Builder Wand
+item.builder_wand_3.name=Endium Builder Wand
+
+item.excavator.amethyst.name=Amethyst Excavator
+item.excavator.titane.name=Titane Excavator
+item.excavator.paladium.name=Paladium Excavator
+
+item.cobblebreaker_amethyst_upgrade.name=Amethyst Cobblebreaker Upgrade
+item.cobblebreaker_titane_upgrade.name=Titane Cobblebreaker Upgrade
+item.cobblebreaker_paladium_upgrade.name=Paladium Cobblebreaker Upgrade
+
+item.hardness_potion.name=Hardness Potion
+item.sealed_xp_bottle.name=Sealed XP Bottle
+
+item.magnet.name=Magnet
+item.god_pickaxe_auto_smelt.name=God Pickaxe Auto Smelt
+item.god_pickaxe_big_hole.name=God Pickaxe Big Hole
+item.moula_stone.name=Dollars Stone
+
+item.invocker_stone.name=Invoker Stone
+
+################
+### Block - Miner
+################
+tile.paladium_hopper.name=Paladium Hopper
+tile.drawbridge.name=Drawbridge
+tile.bedrock_tnt.name=Bedrock TNT
+tile.withered_reinforced_piston.name=Withered Reinforced Piston
+tile.voidstone.name=Voidstone
+tile.autocrafter.name=Autocrafter
+tile.withered_obsidian.name=Withered Obsidian
+
+tile.miner_portal.name=Miner Portal
+tile.strange_grass.name=Strange Grass
+tile.strange_sand.name=Strange Sand
+tile.strange_dirt.name=Strange Dirt
+tile.strange_cobble.name=Strange Cobble
+tile.strange_stone.name=Strange Stone
+tile.strange_oak_log.name=Strange oak log
+tile.strange_spruce_log.name=Strange spruce log
+tile.strange_jungle_log.name=Strange jungle log
+tile.strange_acacia_log.name=Strange acacia log
+tile.strange_dark_oak_log.name=Strange dark oak log
+tile.strange_oak_leaves.name=Strange oak leaves
+tile.strange_spruce_leaves.name=Strange spruce leaves
+tile.strange_jungle_leaves.name=Strange jungle leaves
+tile.strange_acacia_leaves.name=Strange acacia leaves
+tile.strange_dark_oak_leaves.name=Strange dark oak leaves
+tile.reed.name=Reed
+tile.thistle.name=Thistle
+tile.hollow_log.name=Hollow Log
+tile.mud.name=Mud
+
+tile.endium_nuggets_ore.name=Endium Nuggets Ore
+tile.invoker_ore.name=Invoker Ore
+
+################
+### Items - Trixium
+################
+item.pocket_enderchest.name=Pocket enderchest
+item.painting_brush.name=Painting brush
+item.cloud.name=Cloud
+item.player_saddle.name=Player saddle
+
+################
+### Blocks - Trixium
+################
+tile.cloud.name=Cloud
+
+################
+### Design
+################
+key.togglesprint=ToggleSprint
+
+################
+### Addons
+################
+key.openFactions=Open Factions Selection
+
+################
+### Items
+################
+
+### Materials
+item.amethyst.ingot.name=Amethyst Ingot
+item.titane.ingot.name=Titane Ingot
+item.paladium.ingot.name=Paladium Ingot
+item.paladium_green.ingot.name=Paladium Green Ingot
+item.endium.ingot.name=Endium Ingot
+item.mixed_endium_ingot.name=Mixed Endium Ingot
+item.findium.name=Findium
+item.trixium.name=Trixium
+
+#Décodium
+item.paladium_ink.name=Paladium ink
+tile.type_machine.name=Typesetting Table
+tile.print_press.name=Printing Press
+item.chase.name=Plate
+item.echanted_plate.name=Enchanted Plate
+
+
+### Nugget
+item.endium.nugget.name=Endium Nugget
+item.endium.fragment.name=Endium Fragment
+item.particle.iron.name=Iron Particle
+item.particle.gold.name=Gold Particle
+item.particle.diamond.name=Diamond Particle
+item.particle.amethyst.name=Amethyst Particle
+item.particle.titane.name=Titane Particle
+item.particle.paladium.name=Paladium Particle
+
+
+### Stuff
+item.amethyst.helmet.name=Amethyst Helmet
+item.amethyst.chestplate.name=Amethyst Chestplate
+item.amethyst.leggings.name=Amethyst Leggings
+item.amethyst.boots.name=Amethyst Boots
+item.amethyst.pickaxe.name=Amethyst Pickaxe
+item.amethyst.shovel.name=Amethyst Shovel
+item.amethyst.axe.name=Amethyst Axe
+item.amethyst.sword.name=Amethyst Sword
+item.hammer.amethyst.name=Amethyst Hammer
+item.broadsword.amethyst.name=Amethyst Broadsword
+item.fastsword.amethyst.name=Amethyst Fastsword
+
+item.titane.helmet.name=Titane Helmet
+item.titane.chestplate.name=Titane Chestplate
+item.titane.leggings.name=Titane Leggings
+item.titane.boots.name=Titane Boots
+item.titane.pickaxe.name=Titane Pickaxe
+item.titane.shovel.name=Titane Shovel
+item.titane.axe.name=Titane Axe
+item.titane.sword.name=Titane Sword
+item.hammer.titane.name=Titane Hammer
+item.broadsword.titane.name=Titane Broadsword
+item.fastsword.titane.name=Titane Fastsword
+
+
+item.paladium.helmet.name=Paladium Helmet
+item.paladium.chestplate.name=Paladium Chestplate
+item.paladium.leggings.name=Paladium Leggings
+item.paladium.boots.name=Paladium Boots
+item.paladium.pickaxe.name=Paladium Pickaxe
+item.paladium.shovel.name=Paladium Shovel
+item.paladium.axe.name=Paladium Axe
+item.paladium.sword.name=Paladium Sword
+item.hammer.paladium.name=Paladium Hammer
+item.broadsword.paladium.name=Paladium Broadsword
+item.fastsword.paladium.name=Paladium Fastsword
+
+item.endium.helmet.name=Endium Helmet
+item.endium.chestplate.name=Endium Chestplate
+item.endium.leggings.name=Endium Leggings
+item.endium.boots.name=Endium Boots
+item.endium.pickaxe.name=Endium Pickaxe
+item.endium.shovel.name=Endium Shovel
+item.endium.axe.name=Endium Axe
+item.endium.sword.name=Endium Sword
+
+item.mixed_endium.helmet.name=Mixed Endium Helmet
+item.mixed_endium.chestplate.name=Mixed Endium Chestplate
+item.mixed_endium.leggings.name=Mixed Endium Leggings
+item.mixed_endium.boots.name=Mixed Endium Boots
+
+item.paladium.green.helmet.name=Green Paladium Helmet
+item.paladium.green.chestplate.name=Green Paladium Chestplate
+item.paladium.green.leggings.name=Green Paladium Leggings
+item.paladium.green.boots.name=Green Paladium Boots
+item.paladium.green.pickaxe.name=Green Paladium Pickaxe
+item.paladium.green.shovel.name=Green Paladium Shovel
+item.paladium.green.axe.name=Green Paladium Axe
+item.paladium.green.sword.name=Green Paladium Sword
+
+item.travelboots.name=Travel Boots
+item.travellegging.name=Travel Legging
+item.hoodhelmet.name=Hood Helmet
+item.jumpchest.name=Jump Chestplate
+item.scubahelmet.name=Scuba Helmet
+item.slimyhelmet.name=Slimy Helmet
+
+item.ancient_helmet.name=Ancient Helmet
+item.ancient_chestplate.name=Ancient Chestplate
+item.ancient_leggings.name=Ancient Leggings
+item.ancient_boots.name=Ancient Boots
+tile.ancient_hammer_corrupted.name=Corrupted block
+
+item.ancient_hammer.name=Ancient Hammer
+
+### Void stone
+item.voidstone.name=Voidstone
+item.voidstone.minage.name=Minage Voidstone
+item.voidstone.minage.details.1=Place it in the 9th slot to activate it.
+item.voidstone.minage.details.2=Automatically removes Stone, Dirt, ...
+
+
+### Stick PVP
+item.healstick.name=Heal Stick
+item.speedstick.name=Speed Stick
+item.strenghtstick.name=Strength Stick
+item.jumpstick.name=Jump Stick
+item.stickofgod.name=Stick of God
+item.damagestick.name=Damage Stick
+item.hyperjumpstick.name=Hyper Jump Stick
+item.teleportstick.name=Teleport Stick
+
+
+### Bow & arrow
+item.paladiumbow.name=Paladium Bow
+item.arrow.poison.name=Poison Arrow
+item.arrow.slowness.name=Slowness Arrow
+item.arrow.swicth.name=Switch Arrow
+item.arrow.wither.name=Wither Arrow
+item.emptyBowModifier.name=Empty Bow Modifier
+item.bowrangeModifier.name=Bow Range Modifier
+item.bowspeedModifier.name=Bow Speed Modifier
+
+
+### Food
+item.paladium.apple.name=Palapple
+item.food.ham.name=Ham
+item.food.marinated_chicken.name=Marinated Chicken
+item.food.marinated_mutton.name=Marinated Mutton
+item.food.marinated_porkchop.name=Marinated Porkshop
+item.food.marinated_rottenflesh.name=Marinated Rottenflesh
+item.food.marinated_steak.name=Marinated Steak
+
+
+###Ring
+item.ring.small.name=Small Ring
+item.ring.medium.name=Medium Ring
+item.ring.big.name=Big Ring
+item.ring.endium.small.name=Small Endium Ring
+item.ring.endium.medium.name=Medium Endium Ring
+item.ring.endium.big.name=Big Endium Ring
+
+
+###Craft
+item.compressed.amethyst.name=Compressed Amethyst
+item.compressed.titane.name=Compressed Titane
+item.compressed.paladium.name=Compressed Paladium
+item.compressed.endium.name=Compressed Endium
+item.orb.heal.name=Heal Orb
+item.orb.jump.name=Jump Orb
+item.orb.knockback.name=Knockback Orb
+item.orb.speed.name=Speed Orb
+item.orb.strenght.name=Strength Orb
+item.orb.chaos.name=Chaos Orb
+item.stick.amethyst.name= Amethyst Stick
+item.stick.titane.name= Titane Stick
+item.stick.paladium.name= Paladium Stick
+item.witherSkullFragment.name=Wither Skull Fragment
+item.paladiumCore.name=Paladium Core
+item.diamondString.name=Diamond String
+item.wing.name=Wing
+item.toolpart.head_fastsword.name=Fastsword Head
+item.toolpart.head_broadsword.name=Broadsword Head
+item.toolpart.head_pickaxe.name=Pickaxe Head
+item.toolpart.head_hammer.name=Hammer Head
+item.toolpart.head_axe.name=Axe Head
+item.toolpart.head_sword.name=Sword Head
+item.toolpart.head_shovel.name=Shovel Head
+item.modifier.smelt.name=Smelt Modifier
+item.modifier.fortune.name=Fortune Modifier
+item.modifier.speed.name=Speed Modifier
+item.modifier.damage.name=Damage Modifier
+item.modifier.flame.name=Flame Modifier
+item.modifier.knockback.name=Knockback Modifier
+item.modifier.autorepair.name=Autorepair Modifier
+item.modifier.moreupgrade.name=More Upgrade Modifier
+
+
+### Fruit & Seed
+item.fruits.eggplants.name=Eggplant
+item.fruits.chervil.name=Chervil
+item.fruits.kiwano.name=Kiwano
+item.fruits.orangeblue.name=Orangeblue
+item.xp_berry.name=XP Berry
+item.compressed_xp_berry.name=Compressed XP Berry
+item.seed.ice.name=Ice Crystal Seed
+item.seed.eggplant.name=Eggplant Seed
+item.seed.chervil.name=Chervil Seed
+item.seed.kiwano.name=Kiwano Seed
+item.seed.orangeblue.name=Orangeblue Seed
+
+
+### Tool
+item.unclaimfinder.name=Green Unclaim Finder
+item.unclaimfinder_orange.name=Orange Unclaim Finder
+item.unclaimfinder_rouge.name=Red Unclaim Finder
+item.unclaimfinder_bleu.name=Blue Unclaim Finder
+item.chisel.name=Chisel
+item.chestexplorer.name=Chest Explorer
+item.infernalknocker.name=Infernal Knocker
+item.furnace_upgrade.name=Furnace Upgrade
+item.palaMixedCoal.name=Palamixed Coal
+item.titaneMixedCoal.name=Titanemixed Coal
+item.goldMixedCoal.name=Goldmixed Coal
+item.amethystMixedCoal.name=Amethystmixed Coal
+item.hangglider.name=Hang Glider
+item.backpack.name=Backpack
+item.dynamite.name=Dynamite
+item.dynamite_ninja.name=Ninja Dynamite
+item.dynamite_big.name=Big Dynamite
+item.dynamite_endium.name=Endium Dynamite
+item.sulfuricwater.name=Fake Water
+item.angelicwater.name=Angelic Water
+item.seedplanter_lvl1.name=Amethyst SeedPlanter
+item.seedplanter_lvl2.name=Titane SeedPlanter
+item.seedplanter_lvl3.name=Paladium SeedPlanter
+item.seedplanter_lvl4.name=Endium SeedPlanter
+item.seedplanter_lvl5.name=Green Paladium SeedPlanter
+item.potion_launcher.name=Potion Launcher
+item.hammer.smith.name=Smith Hammer
+item.magicalTool.name=Magical Tool
+item.extrapolatedbucket.name=Extrapolated Bucket
+
+### Potion
+tile.customweb.name=Custom Web
+item.potion.fireimbue.name=Fire Imbue
+item.potion.poisonimbue.name=Poison Imbue
+item.potion.witherimbue.name=Wither Imbue
+item.potion.sicknesspotion.name=Sickness Splash Potion
+potion.feather_falling.name=Feather Falling
+potion.switch_arrow.name=Switch Arrow
+
+
+### Pattern
+item.patern.axe.name=Axe Pattern
+item.patern.hammer.name=Hammer Pattern
+item.patern.shovel.name=Shovel Pattern
+item.patern.broadsword.name=Broadsword Pattern
+item.patern.fastsword.name=Fastsword Pattern
+item.patern.pickaxe.name=Pickaxe Pattern
+item.patern.sword.name=Sword Pattern
+item.patern.ingot.name=Ingot Pattern
+item.patern.block.name=Block Pattern
+item.patern.socket.name=Socket Pattern
+
+### Others
+item.miichallenge.name=MiiChallenge
+item.miichallenge.desc=MiiChallenge Music - 2020
+
+
+################
+### Tooltip
+################
+
+tooltip.show=Press SHIFT for more information.
+
+
+# Creative Tab
+itemGroup.palamode_backtofuture=Back2Future
+
+# Enchantments
+enchantment.frost_walker=Frost Walker
+enchantment.mending=Mending
+enchantment.omniscient=Omniscient
+enchantment.enchantment_power=Power
+
+# Containers
+container.palamod.banner=Banner
+container.enchant.lapis.one=1 Lapis Lazuli
+container.enchant.lapis.many=%d Lapis Lazuli
+container.enchant.level.required=Level Requirement
+container.enchant.level.one=1 Enchantment Level
+container.enchant.level.many=%d Enchantment Levels
+container.enchant.clue=%s . . . ?
+
+container.repair.amethyst_tool=Amethyst Anvil
+container.repair.titane_tool=Titane Anvil
+container.repair.paladium_tool=Paladium Anvil
+
+
+# Entities
+entity.palamod.endermite.name=Endermite
+entity.palamod.wooden_armorstand.name=Armour Stand
+entity.palamod.rabbit.name=Rabbit
+entity.palamod.villager_zombie.name=Villager Zombie
+entity.palamod.end_crystal.name=End Crystal
+entity.palamod.ender_dragon.name=Ender Dragon
+entity.palamod.snow_golem.name=Snow Golem
+entity.entityMineralRabbit.name=Mineral Rabbit
+entity.entityFakePoweredCreeper.name=Pssssss
+entity.entityPalachat.name=Palachat
+entity.palamod.entityCustomWither.name=Wither
+entity.palamod.entityPassifWither.name=Wither Passif
+entity.palamod.EntityFunnyWither.name=Funny Wither
+
+# Items
+item.palamod.mutton_raw.name=Raw Mutton
+item.palamod.mutton_cooked.name=Cooked Mutton
+item.palamod.prismarine_shard.name=Prismarine Shard
+item.palamod.prismarine_crystals.name=Prismarine Crystal
+item.palamod.wooden_armorstand.name=Armour Stand
+item.palamod.rabbit_raw.name=Raw Rabbit
+item.palamod.rabbit_cooked.name=Cooked Rabbit
+item.palamod.rabbit_stew.name=Rabbit Stew
+item.palamod.rabbit_foot.name=Rabbit's Foot
+item.palamod.rabbit_hide.name=Rabbit Hide
+item.palamod.beetroot.name=Beetroot
+item.palamod.beetroot_seeds.name=Beetroot Seeds
+item.palamod.beetroot_soup.name=Beetroot Soup
+item.palamod.chorus_fruit.name=Chorus Fruit
+item.palamod.chorus_fruit_popped.name=Popped Chorus Fruit
+item.palamod.dragon_breath.name=Dragon's Breath
+item.palamod.elytra.name=Elytra
+item.palamod.end_crystal.name=End Crystal
+potion.prefix.lingering=Lingering
+item.wither_dust.name=Wither Dust
+
+# Arrows
+tipped_arrow.potion.nightVision.name=Arrow of Night Vision
+tipped_arrow.potion.invisibility.name=Arrow of Invisibility
+tipped_arrow.potion.jump.name=Arrow of Leaping
+tipped_arrow.potion.fireResistance.name=Arrow of Fire Resistance
+tipped_arrow.potion.moveSpeed.name=Arrow of Swiftness
+tipped_arrow.potion.moveSlowdown.name=Arrow of Slowness
+tipped_arrow.potion.waterBreathing.name=Arrow of Water Breathing
+tipped_arrow.potion.heal.name=Arrow of Healing
+tipped_arrow.potion.harm.name=Arrow of Harming
+tipped_arrow.potion.poison.name=Arrow of Poison
+tipped_arrow.potion.regeneration.name=Arrow of Regeneration
+tipped_arrow.potion.damageBoost.name=Arrow of Strength
+tipped_arrow.potion.weakness.name=Arrow of Weakness
+
+# Blocks
+tile.palamod.stone_granite.name=Granite
+tile.palamod.stone_granite_smooth.name=Polished Granite
+tile.palamod.stone_diorite.name=Diorite
+tile.palamod.stone_diorite_smooth.name=Polished Diorite
+tile.palamod.stone_andesite.name=Andesite
+tile.palamod.stone_andesite_smooth.name=Polished Andesite
+tile.palamod.iron_trapdoor.name=Iron Trapdoor
+tile.palamod.prismarine_block_rough.name=Prismarine
+tile.palamod.prismarine_block_bricks.name=Prismarine Bricks
+tile.palamod.prismarine_block_dark.name=Dark Prismarine
+tile.palamod.sea_lantern.name=Sea Lantern
+tile.palamod.daylight_detector_inverted.name=Inverted Daylight Sensor
+tile.palamod.red_sandstone_default.name=Red Sandstone
+tile.palamod.red_sandstone_chiseled.name=Chiseled Red Sandstone
+tile.palamod.red_sandstone_smooth.name=Smooth Red Sandstone
+tile.palamod.red_sandstone_slab.name=Red Sandstone Slab
+tile.palamod.red_sandstone_stairs.name=Red Sandstone Stairs
+tile.palamod.red_mushroom.name=Mushroom
+tile.palamod.brown_mushroom.name=Mushroom
+tile.palamod.coarse_dirt.name=Coarse Dirt
+tile.palamod.slime.name=Slime Block
+tile.palamod.sponge.name=Sponge
+tile.palamod.sponge_wet.name=Wet Sponge
+tile.lava_sponge.name=Lava Sponge
+tile.lava_sponge_wet.name=Wet Lava Sponge
+tile.palamod.door_spruce.name=Spruce Door
+tile.palamod.door_birch.name=Birch Door
+tile.palamod.door_jungle.name=Jungle Door
+tile.palamod.door_acacia.name=Acacia Door
+tile.palamod.door_dark_oak.name=Dark Oak Door
+tile.palamod.fence_oak.name=Oak Fence
+tile.palamod.fence_spruce.name=Spruce Fence
+tile.palamod.fence_birch.name=Birch Fence
+tile.palamod.fence_jungle.name=Jungle Fence
+tile.palamod.fence_acacia.name=Acacia Fence
+tile.palamod.fence_dark_oak.name=Dark Oak Fence
+tile.palamod.fence_gate_spruce.name=Spruce Fence Gate
+tile.palamod.fence_gate_birch.name=Birch Fence Gate
+tile.palamod.fence_gate_jungle.name=Jungle Fence Gate
+tile.palamod.fence_gate_acacia.name=Acacia Fence Gate
+tile.palamod.fence_gate_dark_oak.name=Dark Oak Fence Gate
+tile.palamod.old_gravel.name=Old Gravel
+tile.palamod.beetroots.name=Beetroots
+tile.palamod.purpur_block.name=Purpur Block
+tile.palamod.purpur_slab.name=Purpur Slab
+tile.palamod.purpur_pillar.name=Purpur Pillar
+tile.palamod.purpur_stairs.name=Purpur Stairs
+tile.palamod.end_bricks.name=End Stone Bricks
+tile.palamod.grass_path.name=Grass Path
+tile.palamod.end_rod.name=End Rod
+tile.palamod.chorus_flower.name=Chorus Flower
+tile.palamod.chorus_plant.name=Chorus Plant
+tile.palamod.crying_obsidian.name=Crying Obsidian
+tile.palamod.brewing_stand.name=Brewing Stand
+tile.palamod.frosted_ice.name=Frosted Ice
+tile.palamod.rose.name=Rose
+tile.palamod.beacon.name=Beacon
+tile.palamod.enchantment_table.name=Enchantment Table
+tile.palamod.anvil.intact.name=Anvil
+tile.palamod.anvil.slightlyDamaged.name=Slightly Damaged Anvil
+tile.palamod.anvil.veryDamaged.name=Very Damaged Anvil
+tile.palamod.daylight_sensor.name=Daylight Sensor
+
+tile.anvil_amethyst_tool.name=Amethyst Anvil
+tile.anvil_titane_tool.name=Titane Anvil
+tile.anvil_paladium_tool.name=Paladium Anvil
+
+tile.alchemist_throne.name=Alchemist Throne
+tile.miner_throne.name=Miner Throne
+tile.hunter_throne.name=Hunter Throne
+tile.farmer_throne.name=Farmer Throne
+
+# Banners
+item.banner.black.name=Black Banner
+item.banner.red.name=Red Banner
+item.banner.green.name=Green Banner
+item.banner.brown.name=Brown Banner
+item.banner.blue.name=Blue Banner
+item.banner.purple.name=Purple Banner
+item.banner.cyan.name=Cyan Banner
+item.banner.silver.name=Light Gray Banner
+item.banner.gray.name=Gray Banner
+item.banner.pink.name=Pink Banner
+item.banner.lime.name=Lime Banner
+item.banner.yellow.name=Yellow Banner
+item.banner.lightBlue.name=Light Blue Banner
+item.banner.magenta.name=Magenta Banner
+item.banner.orange.name=Orange Banner
+item.banner.white.name=White Banner
+
+item.banner.square_bottom_left.black=Black Base Dexter Canton
+item.banner.square_bottom_left.red=Red Base Dexter Canton
+item.banner.square_bottom_left.green=Green Base Dexter Canton
+item.banner.square_bottom_left.brown=Brown Base Dexter Canton
+item.banner.square_bottom_left.blue=Blue Base Dexter Canton
+item.banner.square_bottom_left.purple=Purple Base Dexter Canton
+item.banner.square_bottom_left.cyan=Cyan Base Dexter Canton
+item.banner.square_bottom_left.silver=Light Gray Base Dexter Canton
+item.banner.square_bottom_left.gray=Gray Base Dexter Canton
+item.banner.square_bottom_left.pink=Pink Base Dexter Canton
+item.banner.square_bottom_left.lime=Lime Base Dexter Canton
+item.banner.square_bottom_left.yellow=Yellow Base Dexter Canton
+item.banner.square_bottom_left.lightBlue=Light Blue Base Dexter Canton
+item.banner.square_bottom_left.magenta=Magenta Base Dexter Canton
+item.banner.square_bottom_left.orange=Orange Base Dexter Canton
+item.banner.square_bottom_left.white=White Base Dexter Canton
+
+item.banner.square_bottom_right.black=Black Base Sinister Canton
+item.banner.square_bottom_right.red=Red Base Sinister Canton
+item.banner.square_bottom_right.green=Green Base Sinister Canton
+item.banner.square_bottom_right.brown=Brown Base Sinister Canton
+item.banner.square_bottom_right.blue=Blue Base Sinister Canton
+item.banner.square_bottom_right.purple=Purple Base Sinister Canton
+item.banner.square_bottom_right.cyan=Cyan Base Sinister Canton
+item.banner.square_bottom_right.silver=Light Gray Base Sinister Canton
+item.banner.square_bottom_right.gray=Gray Base Sinister Canton
+item.banner.square_bottom_right.pink=Pink Base Sinister Canton
+item.banner.square_bottom_right.lime=Lime Base Sinister Canton
+item.banner.square_bottom_right.yellow=Yellow Base Sinister Canton
+item.banner.square_bottom_right.lightBlue=Light Blue Base Sinister Canton
+item.banner.square_bottom_right.magenta=Magenta Base Sinister Canton
+item.banner.square_bottom_right.orange=Orange Base Sinister Canton
+item.banner.square_bottom_right.white=White Base Sinister Canton
+
+item.banner.square_top_left.black=Black Chief Dexter Canton
+item.banner.square_top_left.red=Red Chief Dexter Canton
+item.banner.square_top_left.green=Green Chief Dexter Canton
+item.banner.square_top_left.brown=Brown Chief Dexter Canton
+item.banner.square_top_left.blue=Blue Chief Dexter Canton
+item.banner.square_top_left.purple=Purple Chief Dexter Canton
+item.banner.square_top_left.cyan=Cyan Chief Dexter Canton
+item.banner.square_top_left.silver=Light Gray Chief Dexter Canton
+item.banner.square_top_left.gray=Gray Chief Dexter Canton
+item.banner.square_top_left.pink=Pink Chief Dexter Canton
+item.banner.square_top_left.lime=Lime Chief Dexter Canton
+item.banner.square_top_left.yellow=Yellow Chief Dexter Canton
+item.banner.square_top_left.lightBlue=Light Blue Chief Dexter Canton
+item.banner.square_top_left.magenta=Magenta Chief Dexter Canton
+item.banner.square_top_left.orange=Orange Chief Dexter Canton
+item.banner.square_top_left.white=White Chief Dexter Canton
+
+item.banner.square_top_right.black=Black Chief Sinister Canton
+item.banner.square_top_right.red=Red Chief Sinister Canton
+item.banner.square_top_right.green=Green Chief Sinister Canton
+item.banner.square_top_right.brown=Brown Chief Sinister Canton
+item.banner.square_top_right.blue=Blue Chief Sinister Canton
+item.banner.square_top_right.purple=Purple Chief Sinister Canton
+item.banner.square_top_right.cyan=Cyan Chief Sinister Canton
+item.banner.square_top_right.silver=Light Gray Chief Sinister Canton
+item.banner.square_top_right.gray=Gray Chief Sinister Canton
+item.banner.square_top_right.pink=Pink Chief Sinister Canton
+item.banner.square_top_right.lime=Lime Chief Sinister Canton
+item.banner.square_top_right.yellow=Yellow Chief Sinister Canton
+item.banner.square_top_right.lightBlue=Light Blue Chief Sinister Canton
+item.banner.square_top_right.magenta=Magenta Chief Sinister Canton
+item.banner.square_top_right.orange=Orange Chief Sinister Canton
+item.banner.square_top_right.white=White Chief Sinister Canton
+
+item.banner.stripe_bottom.black=Black Base Fess
+item.banner.stripe_bottom.red=Red Base Fess
+item.banner.stripe_bottom.green=Green Base Fess
+item.banner.stripe_bottom.brown=Brown Base Fess
+item.banner.stripe_bottom.blue=Blue Base Fess
+item.banner.stripe_bottom.purple=Purple Base Fess
+item.banner.stripe_bottom.cyan=Cyan Base Fess
+item.banner.stripe_bottom.silver=Light Gray Base Fess
+item.banner.stripe_bottom.gray=Gray Base Fess
+item.banner.stripe_bottom.pink=Pink Base Fess
+item.banner.stripe_bottom.lime=Lime Base Fess
+item.banner.stripe_bottom.yellow=Yellow Base Fess
+item.banner.stripe_bottom.lightBlue=Light Blue Base Fess
+item.banner.stripe_bottom.magenta=Magenta Base Fess
+item.banner.stripe_bottom.orange=Orange Base Fess
+item.banner.stripe_bottom.white=White Base Fess
+
+item.banner.stripe_top.black=Black Chief Fess
+item.banner.stripe_top.red=Red Chief Fess
+item.banner.stripe_top.green=Green Chief Fess
+item.banner.stripe_top.brown=Brown Chief Fess
+item.banner.stripe_top.blue=Blue Chief Fess
+item.banner.stripe_top.purple=Purple Chief Fess
+item.banner.stripe_top.cyan=Cyan Chief Fess
+item.banner.stripe_top.silver=Light Gray Chief Fess
+item.banner.stripe_top.gray=Gray Chief Fess
+item.banner.stripe_top.pink=Pink Chief Fess
+item.banner.stripe_top.lime=Lime Chief Fess
+item.banner.stripe_top.yellow=Yellow Chief Fess
+item.banner.stripe_top.lightBlue=Light Blue Chief Fess
+item.banner.stripe_top.magenta=Magenta Chief Fess
+item.banner.stripe_top.orange=Orange Chief Fess
+item.banner.stripe_top.white=White Chief Fess
+
+item.banner.stripe_left.black=Black Pale Dexter
+item.banner.stripe_left.red=Red Pale Dexter
+item.banner.stripe_left.green=Green Pale Dexter
+item.banner.stripe_left.brown=Brown Pale Dexter
+item.banner.stripe_left.blue=Blue Pale Dexter
+item.banner.stripe_left.purple=Purple Pale Dexter
+item.banner.stripe_left.cyan=Cyan Pale Dexter
+item.banner.stripe_left.silver=Light Gray Pale Dexter
+item.banner.stripe_left.gray=Gray Pale Dexter
+item.banner.stripe_left.pink=Pink Pale Dexter
+item.banner.stripe_left.lime=Lime Pale Dexter
+item.banner.stripe_left.yellow=Yellow Pale Dexter
+item.banner.stripe_left.lightBlue=Light Blue Pale Dexter
+item.banner.stripe_left.magenta=Magenta Pale Dexter
+item.banner.stripe_left.orange=Orange Pale Dexter
+item.banner.stripe_left.white=White Pale Dexter
+
+item.banner.stripe_right.black=Black Pale Sinister
+item.banner.stripe_right.red=Red Pale Sinister
+item.banner.stripe_right.green=Green Pale Sinister
+item.banner.stripe_right.brown=Brown Pale Sinister
+item.banner.stripe_right.blue=Blue Pale Sinister
+item.banner.stripe_right.purple=Purple Pale Sinister
+item.banner.stripe_right.cyan=Cyan Pale Sinister
+item.banner.stripe_right.silver=Light Gray Pale Sinister
+item.banner.stripe_right.gray=Gray Pale Sinister
+item.banner.stripe_right.pink=Pink Pale Sinister
+item.banner.stripe_right.lime=Lime Pale Sinister
+item.banner.stripe_right.yellow=Yellow Pale Sinister
+item.banner.stripe_right.lightBlue=Light Blue Pale Sinister
+item.banner.stripe_right.magenta=Magenta Pale Sinister
+item.banner.stripe_right.orange=Orange Pale Sinister
+item.banner.stripe_right.white=White Pale Sinister
+
+item.banner.stripe_center.black=Black Pale
+item.banner.stripe_center.red=Red Pale
+item.banner.stripe_center.green=Green Pale
+item.banner.stripe_center.brown=Brown Pale
+item.banner.stripe_center.blue=Blue Pale
+item.banner.stripe_center.purple=Purple Pale
+item.banner.stripe_center.cyan=Cyan Pale
+item.banner.stripe_center.silver=Light Gray Pale
+item.banner.stripe_center.gray=Gray Pale
+item.banner.stripe_center.pink=Pink Pale
+item.banner.stripe_center.lime=Lime Pale
+item.banner.stripe_center.yellow=Yellow Pale
+item.banner.stripe_center.lightBlue=Light Blue Pale
+item.banner.stripe_center.magenta=Magenta Pale
+item.banner.stripe_center.orange=Orange Pale
+item.banner.stripe_center.white=White Pale
+
+item.banner.stripe_middle.black=Black Fess
+item.banner.stripe_middle.red=Red Fess
+item.banner.stripe_middle.green=Green Fess
+item.banner.stripe_middle.brown=Brown Fess
+item.banner.stripe_middle.blue=Blue Fess
+item.banner.stripe_middle.purple=Purple Fess
+item.banner.stripe_middle.cyan=Cyan Fess
+item.banner.stripe_middle.silver=Light Gray Fess
+item.banner.stripe_middle.gray=Gray Fess
+item.banner.stripe_middle.pink=Pink Fess
+item.banner.stripe_middle.lime=Lime Fess
+item.banner.stripe_middle.yellow=Yellow Fess
+item.banner.stripe_middle.lightBlue=Light Blue Fess
+item.banner.stripe_middle.magenta=Magenta Fess
+item.banner.stripe_middle.orange=Orange Fess
+item.banner.stripe_middle.white=White Fess
+
+item.banner.stripe_downright.black=Black Bend
+item.banner.stripe_downright.red=Red Bend
+item.banner.stripe_downright.green=Green Bend
+item.banner.stripe_downright.brown=Brown Bend
+item.banner.stripe_downright.blue=Blue Bend
+item.banner.stripe_downright.purple=Purple Bend
+item.banner.stripe_downright.cyan=Cyan Bend
+item.banner.stripe_downright.silver=Light Gray Bend
+item.banner.stripe_downright.gray=Gray Bend
+item.banner.stripe_downright.pink=Pink Bend
+item.banner.stripe_downright.lime=Lime Bend
+item.banner.stripe_downright.yellow=Yellow Bend
+item.banner.stripe_downright.lightBlue=Light Blue Bend
+item.banner.stripe_downright.magenta=Magenta Bend
+item.banner.stripe_downright.orange=Orange Bend
+item.banner.stripe_downright.white=White Bend
+
+item.banner.stripe_downleft.black=Black Bend Sinister
+item.banner.stripe_downleft.red=Red Bend Sinister
+item.banner.stripe_downleft.green=Green Bend Sinister
+item.banner.stripe_downleft.brown=Brown Bend Sinister
+item.banner.stripe_downleft.blue=Blue Bend Sinister
+item.banner.stripe_downleft.purple=Purple Bend Sinister
+item.banner.stripe_downleft.cyan=Cyan Bend Sinister
+item.banner.stripe_downleft.silver=Light Gray Bend Sinister
+item.banner.stripe_downleft.gray=Gray Bend Sinister
+item.banner.stripe_downleft.pink=Pink Bend Sinister
+item.banner.stripe_downleft.lime=Lime Bend Sinister
+item.banner.stripe_downleft.yellow=Yellow Bend Sinister
+item.banner.stripe_downleft.lightBlue=Light Blue Bend Sinister
+item.banner.stripe_downleft.magenta=Magenta Bend Sinister
+item.banner.stripe_downleft.orange=Orange Bend Sinister
+item.banner.stripe_downleft.white=White Bend Sinister
+
+item.banner.small_stripes.black=Black Paly
+item.banner.small_stripes.red=Red Paly
+item.banner.small_stripes.green=Green Paly
+item.banner.small_stripes.brown=Brown Paly
+item.banner.small_stripes.blue=Blue Paly
+item.banner.small_stripes.purple=Purple Paly
+item.banner.small_stripes.cyan=Cyan Paly
+item.banner.small_stripes.silver=Light Gray Paly
+item.banner.small_stripes.gray=Gray Paly
+item.banner.small_stripes.pink=Pink Paly
+item.banner.small_stripes.lime=Lime Paly
+item.banner.small_stripes.yellow=Yellow Paly
+item.banner.small_stripes.lightBlue=Light Blue Paly
+item.banner.small_stripes.magenta=Magenta Paly
+item.banner.small_stripes.orange=Orange Paly
+item.banner.small_stripes.white=White Paly
+
+item.banner.cross.black=Black Saltire
+item.banner.cross.red=Red Saltire
+item.banner.cross.green=Green Saltire
+item.banner.cross.brown=Brown Saltire
+item.banner.cross.blue=Blue Saltire
+item.banner.cross.purple=Purple Saltire
+item.banner.cross.cyan=Cyan Saltire
+item.banner.cross.silver=Light Gray Saltire
+item.banner.cross.gray=Gray Saltire
+item.banner.cross.pink=Pink Saltire
+item.banner.cross.lime=Lime Saltire
+item.banner.cross.yellow=Yellow Saltire
+item.banner.cross.lightBlue=Light Blue Saltire
+item.banner.cross.magenta=Magenta Saltire
+item.banner.cross.orange=Orange Saltire
+item.banner.cross.white=White Saltire
+
+item.banner.triangle_bottom.black=Black Chevron
+item.banner.triangle_bottom.red=Red Chevron
+item.banner.triangle_bottom.green=Green Chevron
+item.banner.triangle_bottom.brown=Brown Chevron
+item.banner.triangle_bottom.blue=Blue Chevron
+item.banner.triangle_bottom.purple=Purple Chevron
+item.banner.triangle_bottom.cyan=Cyan Chevron
+item.banner.triangle_bottom.silver=Light Gray Chevron
+item.banner.triangle_bottom.gray=Gray Chevron
+item.banner.triangle_bottom.pink=Pink Chevron
+item.banner.triangle_bottom.lime=Lime Chevron
+item.banner.triangle_bottom.yellow=Yellow Chevron
+item.banner.triangle_bottom.lightBlue=Light Blue Chevron
+item.banner.triangle_bottom.magenta=Magenta Chevron
+item.banner.triangle_bottom.orange=Orange Chevron
+item.banner.triangle_bottom.white=White Chevron
+
+item.banner.triangle_top.black=Black Inverted Chevron
+item.banner.triangle_top.red=Red Inverted Chevron
+item.banner.triangle_top.green=Green Inverted Chevron
+item.banner.triangle_top.brown=Brown Inverted Chevron
+item.banner.triangle_top.blue=Blue Inverted Chevron
+item.banner.triangle_top.purple=Purple Inverted Chevron
+item.banner.triangle_top.cyan=Cyan Inverted Chevron
+item.banner.triangle_top.silver=Light Gray Inverted Chevron
+item.banner.triangle_top.gray=Gray Inverted Chevron
+item.banner.triangle_top.pink=Pink Inverted Chevron
+item.banner.triangle_top.lime=Lime Inverted Chevron
+item.banner.triangle_top.yellow=Yellow Inverted Chevron
+item.banner.triangle_top.lightBlue=Light Blue Inverted Chevron
+item.banner.triangle_top.magenta=Magenta Inverted Chevron
+item.banner.triangle_top.orange=Orange Inverted Chevron
+item.banner.triangle_top.white=White Inverted Chevron
+
+item.banner.triangles_bottom.black=Black Base Indented
+item.banner.triangles_bottom.red=Red Base Indented
+item.banner.triangles_bottom.green=Green Base Indented
+item.banner.triangles_bottom.brown=Brown Base Indented
+item.banner.triangles_bottom.blue=Blue Base Indented
+item.banner.triangles_bottom.purple=Purple Base Indented
+item.banner.triangles_bottom.cyan=Cyan Base Indented
+item.banner.triangles_bottom.silver=Light Gray Base Indented
+item.banner.triangles_bottom.gray=Gray Base Indented
+item.banner.triangles_bottom.pink=Pink Base Indented
+item.banner.triangles_bottom.lime=Lime Base Indented
+item.banner.triangles_bottom.yellow=Yellow Base Indented
+item.banner.triangles_bottom.lightBlue=Light Blue Base Indented
+item.banner.triangles_bottom.magenta=Magenta Base Indented
+item.banner.triangles_bottom.orange=Orange Base Indented
+item.banner.triangles_bottom.white=White Base Indented
+
+item.banner.triangles_top.black=Black Chief Indented
+item.banner.triangles_top.red=Red Chief Indented
+item.banner.triangles_top.green=Green Chief Indented
+item.banner.triangles_top.brown=Brown Chief Indented
+item.banner.triangles_top.blue=Blue Chief Indented
+item.banner.triangles_top.purple=Purple Chief Indented
+item.banner.triangles_top.cyan=Cyan Chief Indented
+item.banner.triangles_top.silver=Light Gray Chief Indented
+item.banner.triangles_top.gray=Gray Chief Indented
+item.banner.triangles_top.pink=Pink Chief Indented
+item.banner.triangles_top.lime=Lime Chief Indented
+item.banner.triangles_top.yellow=Yellow Chief Indented
+item.banner.triangles_top.lightBlue=Light Blue Chief Indented
+item.banner.triangles_top.magenta=Magenta Chief Indented
+item.banner.triangles_top.orange=Orange Chief Indented
+item.banner.triangles_top.white=White Chief Indented
+
+item.banner.diagonal_left.black=Black Per Bend Sinister
+item.banner.diagonal_left.red=Red Per Bend Sinister
+item.banner.diagonal_left.green=Green Per Bend Sinister
+item.banner.diagonal_left.brown=Brown Per Bend Sinister
+item.banner.diagonal_left.blue=Blue Per Bend Sinister
+item.banner.diagonal_left.purple=Purple Per Bend Sinister
+item.banner.diagonal_left.cyan=Cyan Per Bend Sinister
+item.banner.diagonal_left.silver=Light Gray Per Bend Sinister
+item.banner.diagonal_left.gray=Gray Per Bend Sinister
+item.banner.diagonal_left.pink=Pink Per Bend Sinister
+item.banner.diagonal_left.lime=Lime Per Bend Sinister
+item.banner.diagonal_left.yellow=Yellow Per Bend Sinister
+item.banner.diagonal_left.lightBlue=Light Blue Per Bend Sinister
+item.banner.diagonal_left.magenta=Magenta Per Bend Sinister
+item.banner.diagonal_left.orange=Orange Per Bend Sinister
+item.banner.diagonal_left.white=White Per Bend Sinister
+
+item.banner.diagonal_right.black=Black Per Bend
+item.banner.diagonal_right.red=Red Per Bend
+item.banner.diagonal_right.green=Green Per Bend
+item.banner.diagonal_right.brown=Brown Per Bend
+item.banner.diagonal_right.blue=Blue Per Bend
+item.banner.diagonal_right.purple=Purple Per Bend
+item.banner.diagonal_right.cyan=Cyan Per Bend
+item.banner.diagonal_right.silver=Light Gray Per Bend
+item.banner.diagonal_right.gray=Gray Per Bend
+item.banner.diagonal_right.pink=Pink Per Bend
+item.banner.diagonal_right.lime=Lime Per Bend
+item.banner.diagonal_right.yellow=Yellow Per Bend
+item.banner.diagonal_right.lightBlue=Light Blue Per Bend
+item.banner.diagonal_right.magenta=Magenta Per Bend
+item.banner.diagonal_right.orange=Orange Per Bend
+item.banner.diagonal_right.white=White Per Bend
+
+item.banner.diagonal_up_left.black=Black Per Bend Inverted
+item.banner.diagonal_up_left.red=Red Per Bend Inverted
+item.banner.diagonal_up_left.green=Green Per Bend Inverted
+item.banner.diagonal_up_left.brown=Brown Per Bend Inverted
+item.banner.diagonal_up_left.blue=Blue Per Bend Inverted
+item.banner.diagonal_up_left.purple=Purple Per Bend Inverted
+item.banner.diagonal_up_left.cyan=Cyan Per Bend Inverted
+item.banner.diagonal_up_left.silver=Light Gray Per Bend Inverted
+item.banner.diagonal_up_left.gray=Gray Per Bend Inverted
+item.banner.diagonal_up_left.pink=Pink Per Bend Inverted
+item.banner.diagonal_up_left.lime=Lime Per Bend Inverted
+item.banner.diagonal_up_left.yellow=Yellow Per Bend Inverted
+item.banner.diagonal_up_left.lightBlue=Light Blue Per Bend Inverted
+item.banner.diagonal_up_left.magenta=Magenta Per Bend Inverted
+item.banner.diagonal_up_left.orange=Orange Per Bend Inverted
+item.banner.diagonal_up_left.white=White Per Bend Inverted
+
+item.banner.diagonal_up_right.black=Black Per Bend Sinister Inverted
+item.banner.diagonal_up_right.red=Red Per Bend Sinister Inverted
+item.banner.diagonal_up_right.green=Green Per Bend Sinister Inverted
+item.banner.diagonal_up_right.brown=Brown Per Bend Sinister Inverted
+item.banner.diagonal_up_right.blue=Blue Per Bend Sinister Inverted
+item.banner.diagonal_up_right.purple=Purple Per Bend Sinister Inverted
+item.banner.diagonal_up_right.cyan=Cyan Per Bend Sinister Inverted
+item.banner.diagonal_up_right.silver=Light Gray Per Bend Sinister Inverted
+item.banner.diagonal_up_right.gray=Gray Per Bend Sinister Inverted
+item.banner.diagonal_up_right.pink=Pink Per Bend Sinister Inverted
+item.banner.diagonal_up_right.lime=Lime Per Bend Sinister Inverted
+item.banner.diagonal_up_right.yellow=Yellow Per Bend Sinister Inverted
+item.banner.diagonal_up_right.lightBlue=Light Blue Per Bend Sinister Inverted
+item.banner.diagonal_up_right.magenta=Magenta Per Bend Sinister Inverted
+item.banner.diagonal_up_right.orange=Orange Per Bend Sinister Inverted
+item.banner.diagonal_up_right.white=White Per Bend Sinister Inverted
+
+item.banner.circle.black=Black Roundel
+item.banner.circle.red=Red Roundel
+item.banner.circle.green=Green Roundel
+item.banner.circle.brown=Brown Roundel
+item.banner.circle.blue=Blue Roundel
+item.banner.circle.purple=Purple Roundel
+item.banner.circle.cyan=Cyan Roundel
+item.banner.circle.silver=Light Gray Roundel
+item.banner.circle.gray=Gray Roundel
+item.banner.circle.pink=Pink Roundel
+item.banner.circle.lime=Lime Roundel
+item.banner.circle.yellow=Yellow Roundel
+item.banner.circle.lightBlue=Light Blue Roundel
+item.banner.circle.magenta=Magenta Roundel
+item.banner.circle.orange=Orange Roundel
+item.banner.circle.white=White Roundel
+
+item.banner.rhombus.black=Black Lozenge
+item.banner.rhombus.red=Red Lozenge
+item.banner.rhombus.green=Green Lozenge
+item.banner.rhombus.brown=Brown Lozenge
+item.banner.rhombus.blue=Blue Lozenge
+item.banner.rhombus.purple=Purple Lozenge
+item.banner.rhombus.cyan=Cyan Lozenge
+item.banner.rhombus.silver=Light Gray Lozenge
+item.banner.rhombus.gray=Gray Lozenge
+item.banner.rhombus.pink=Pink Lozenge
+item.banner.rhombus.lime=Lime Lozenge
+item.banner.rhombus.yellow=Yellow Lozenge
+item.banner.rhombus.lightBlue=Light Blue Lozenge
+item.banner.rhombus.magenta=Magenta Lozenge
+item.banner.rhombus.orange=Orange Lozenge
+item.banner.rhombus.white=White Lozenge
+
+item.banner.half_vertical.black=Black Per Pale
+item.banner.half_vertical.red=Red Per Pale
+item.banner.half_vertical.green=Green Per Pale
+item.banner.half_vertical.brown=Brown Per Pale
+item.banner.half_vertical.blue=Blue Per Pale
+item.banner.half_vertical.purple=Purple Per Pale
+item.banner.half_vertical.cyan=Cyan Per Pale
+item.banner.half_vertical.silver=Light Gray Per Pale
+item.banner.half_vertical.gray=Gray Per Pale
+item.banner.half_vertical.pink=Pink Per Pale
+item.banner.half_vertical.lime=Lime Per Pale
+item.banner.half_vertical.yellow=Yellow Per Pale
+item.banner.half_vertical.lightBlue=Light Blue Per Pale
+item.banner.half_vertical.magenta=Magenta Per Pale
+item.banner.half_vertical.orange=Orange Per Pale
+item.banner.half_vertical.white=White Per Pale
+
+item.banner.half_horizontal.black=Black Per Fess
+item.banner.half_horizontal.red=Red Per Fess
+item.banner.half_horizontal.green=Green Per Fess
+item.banner.half_horizontal.brown=Brown Per Fess
+item.banner.half_horizontal.blue=Blue Per Fess
+item.banner.half_horizontal.purple=Purple Per Fess
+item.banner.half_horizontal.cyan=Cyan Per Fess
+item.banner.half_horizontal.silver=Light Gray Per Fess
+item.banner.half_horizontal.gray=Gray Per Fess
+item.banner.half_horizontal.pink=Pink Per Fess
+item.banner.half_horizontal.lime=Lime Per Fess
+item.banner.half_horizontal.yellow=Yellow Per Fess
+item.banner.half_horizontal.lightBlue=Light Blue Per Fess
+item.banner.half_horizontal.magenta=Magenta Per Fess
+item.banner.half_horizontal.orange=Orange Per Fess
+item.banner.half_horizontal.white=White Per Fess
+
+item.banner.half_vertical_right.black=Black Per Pale Inverted
+item.banner.half_vertical_right.red=Red Per Pale Inverted
+item.banner.half_vertical_right.green=Green Per Pale Inverted
+item.banner.half_vertical_right.brown=Brown Per Pale Inverted
+item.banner.half_vertical_right.blue=Blue Per Pale Inverted
+item.banner.half_vertical_right.purple=Purple Per Pale Inverted
+item.banner.half_vertical_right.cyan=Cyan Per Pale Inverted
+item.banner.half_vertical_right.silver=Light Gray Per Pale Inverted
+item.banner.half_vertical_right.gray=Gray Per Pale Inverted
+item.banner.half_vertical_right.pink=Pink Per Pale Inverted
+item.banner.half_vertical_right.lime=Lime Per Pale Inverted
+item.banner.half_vertical_right.yellow=Yellow Per Pale Inverted
+item.banner.half_vertical_right.lightBlue=Light Blue Per Pale Inverted
+item.banner.half_vertical_right.magenta=Magenta Per Pale Inverted
+item.banner.half_vertical_right.orange=Orange Per Pale Inverted
+item.banner.half_vertical_right.white=White Per Pale Inverted
+
+item.banner.half_horizontal_bottom.black=Black Per Fess Inverted
+item.banner.half_horizontal_bottom.red=Red Per Fess Inverted
+item.banner.half_horizontal_bottom.green=Green Per Fess Inverted
+item.banner.half_horizontal_bottom.brown=Brown Per Fess Inverted
+item.banner.half_horizontal_bottom.blue=Blue Per Fess Inverted
+item.banner.half_horizontal_bottom.purple=Purple Per Fess Inverted
+item.banner.half_horizontal_bottom.cyan=Cyan Per Fess Inverted
+item.banner.half_horizontal_bottom.silver=Light Gray Per Fess Inverted
+item.banner.half_horizontal_bottom.gray=Gray Per Fess Inverted
+item.banner.half_horizontal_bottom.pink=Pink Per Fess Inverted
+item.banner.half_horizontal_bottom.lime=Lime Per Fess Inverted
+item.banner.half_horizontal_bottom.yellow=Yellow Per Fess Inverted
+item.banner.half_horizontal_bottom.lightBlue=Light Blue Per Fess Inverted
+item.banner.half_horizontal_bottom.magenta=Magenta Per Fess Inverted
+item.banner.half_horizontal_bottom.orange=Orange Per Fess Inverted
+item.banner.half_horizontal_bottom.white=White Per Fess Inverted
+
+item.banner.creeper.black=Black Creeper Charge
+item.banner.creeper.red=Red Creeper Charge
+item.banner.creeper.green=Green Creeper Charge
+item.banner.creeper.brown=Brown Creeper Charge
+item.banner.creeper.blue=Blue Creeper Charge
+item.banner.creeper.purple=Purple Creeper Charge
+item.banner.creeper.cyan=Cyan Creeper Charge
+item.banner.creeper.silver=Light Gray Creeper Charge
+item.banner.creeper.gray=Gray Creeper Charge
+item.banner.creeper.pink=Pink Creeper Charge
+item.banner.creeper.lime=Lime Creeper Charge
+item.banner.creeper.yellow=Yellow Creeper Charge
+item.banner.creeper.lightBlue=Light Blue Creeper Charge
+item.banner.creeper.magenta=Magenta Creeper Charge
+item.banner.creeper.orange=Orange Creeper Charge
+item.banner.creeper.white=White Creeper Charge
+
+item.banner.bricks.black=Black Field Masoned
+item.banner.bricks.red=Red Field Masoned
+item.banner.bricks.green=Green Field Masoned
+item.banner.bricks.brown=Brown Field Masoned
+item.banner.bricks.blue=Blue Field Masoned
+item.banner.bricks.purple=Purple Field Masoned
+item.banner.bricks.cyan=Cyan Field Masoned
+item.banner.bricks.silver=Light Gray Field Masoned
+item.banner.bricks.gray=Gray Field Masoned
+item.banner.bricks.pink=Pink Field Masoned
+item.banner.bricks.lime=Lime Field Masoned
+item.banner.bricks.yellow=Yellow Field Masoned
+item.banner.bricks.lightBlue=Light Blue Field Masoned
+item.banner.bricks.magenta=Magenta Field Masoned
+item.banner.bricks.orange=Orange Field Masoned
+item.banner.bricks.white=White Field Masoned
+
+item.banner.gradient.black=Black Gradient
+item.banner.gradient.red=Red Gradient
+item.banner.gradient.green=Green Gradient
+item.banner.gradient.brown=Brown Gradient
+item.banner.gradient.blue=Blue Gradient
+item.banner.gradient.purple=Purple Gradient
+item.banner.gradient.cyan=Cyan Gradient
+item.banner.gradient.silver=Light Gray Gradient
+item.banner.gradient.gray=Gray Gradient
+item.banner.gradient.pink=Pink Gradient
+item.banner.gradient.lime=Lime Gradient
+item.banner.gradient.yellow=Yellow Gradient
+item.banner.gradient.lightBlue=Light Blue Gradient
+item.banner.gradient.magenta=Magenta Gradient
+item.banner.gradient.orange=Orange Gradient
+item.banner.gradient.white=White Gradient
+
+item.banner.gradient_up.black=Black Base Gradient
+item.banner.gradient_up.red=Red Base Gradient
+item.banner.gradient_up.green=Green Base Gradient
+item.banner.gradient_up.brown=Brown Base Gradient
+item.banner.gradient_up.blue=Blue Base Gradient
+item.banner.gradient_up.purple=Purple Base Gradient
+item.banner.gradient_up.cyan=Cyan Base Gradient
+item.banner.gradient_up.silver=Light Gray Base Gradient
+item.banner.gradient_up.gray=Gray Base Gradient
+item.banner.gradient_up.pink=Pink Base Gradient
+item.banner.gradient_up.lime=Lime Base Gradient
+item.banner.gradient_up.yellow=Yellow Base Gradient
+item.banner.gradient_up.lightBlue=Light Blue Base Gradient
+item.banner.gradient_up.magenta=Magenta Base Gradient
+item.banner.gradient_up.orange=Orange Base Gradient
+item.banner.gradient_up.white=White Base Gradient
+
+item.banner.skull.black=Black Skull Charge
+item.banner.skull.red=Red Skull Charge
+item.banner.skull.green=Green Skull Charge
+item.banner.skull.brown=Brown Skull Charge
+item.banner.skull.blue=Blue Skull Charge
+item.banner.skull.purple=Purple Skull Charge
+item.banner.skull.cyan=Cyan Skull Charge
+item.banner.skull.silver=Light Gray Skull Charge
+item.banner.skull.gray=Gray Skull Charge
+item.banner.skull.pink=Pink Skull Charge
+item.banner.skull.lime=Lime Skull Charge
+item.banner.skull.yellow=Yellow Skull Charge
+item.banner.skull.lightBlue=Light Blue Skull Charge
+item.banner.skull.magenta=Magenta Skull Charge
+item.banner.skull.orange=Orange Skull Charge
+item.banner.skull.white=White Skull Charge
+
+item.banner.flower.black=Black Flower Charge
+item.banner.flower.red=Red Flower Charge
+item.banner.flower.green=Green Flower Charge
+item.banner.flower.brown=Brown Flower Charge
+item.banner.flower.blue=Blue Flower Charge
+item.banner.flower.purple=Purple Flower Charge
+item.banner.flower.cyan=Cyan Flower Charge
+item.banner.flower.silver=Light Gray Flower Charge
+item.banner.flower.gray=Gray Flower Charge
+item.banner.flower.pink=Pink Flower Charge
+item.banner.flower.lime=Lime Flower Charge
+item.banner.flower.yellow=Yellow Flower Charge
+item.banner.flower.lightBlue=Light Blue Flower Charge
+item.banner.flower.magenta=Magenta Flower Charge
+item.banner.flower.orange=Orange Flower Charge
+item.banner.flower.white=White Flower Charge
+
+item.banner.border.black=Black Bordure
+item.banner.border.red=Red Bordure
+item.banner.border.green=Green Bordure
+item.banner.border.brown=Brown Bordure
+item.banner.border.blue=Blue Bordure
+item.banner.border.purple=Purple Bordure
+item.banner.border.cyan=Cyan Bordure
+item.banner.border.silver=Light Gray Bordure
+item.banner.border.gray=Gray Bordure
+item.banner.border.pink=Pink Bordure
+item.banner.border.lime=Lime Bordure
+item.banner.border.yellow=Yellow Bordure
+item.banner.border.lightBlue=Light Blue Bordure
+item.banner.border.magenta=Magenta Bordure
+item.banner.border.orange=Orange Bordure
+item.banner.border.white=White Bordure
+
+item.banner.curly_border.black=Black Bordure Indented
+item.banner.curly_border.red=Red Bordure Indented
+item.banner.curly_border.green=Green Bordure Indented
+item.banner.curly_border.brown=Brown Bordure Indented
+item.banner.curly_border.blue=Blue Bordure Indented
+item.banner.curly_border.purple=Purple Bordure Indented
+item.banner.curly_border.cyan=Cyan Bordure Indented
+item.banner.curly_border.silver=Light Gray Bordure Indented
+item.banner.curly_border.gray=Gray Bordure Indented
+item.banner.curly_border.pink=Pink Bordure Indented
+item.banner.curly_border.lime=Lime Bordure Indented
+item.banner.curly_border.yellow=Yellow Bordure Indented
+item.banner.curly_border.lightBlue=Light Blue Bordure Indented
+item.banner.curly_border.magenta=Magenta Bordure Indented
+item.banner.curly_border.orange=Orange Bordure Indented
+item.banner.curly_border.white=White Bordure Indented
+
+item.banner.mojang.black=Black Thing
+item.banner.mojang.red=Red Thing
+item.banner.mojang.green=Green Thing
+item.banner.mojang.brown=Brown Thing
+item.banner.mojang.blue=Blue Thing
+item.banner.mojang.purple=Purple Thing
+item.banner.mojang.cyan=Cyan Thing
+item.banner.mojang.silver=Light Gray Thing
+item.banner.mojang.gray=Gray Thing
+item.banner.mojang.pink=Pink Thing
+item.banner.mojang.lime=Lime Thing
+item.banner.mojang.yellow=Yellow Thing
+item.banner.mojang.lightBlue=Light Blue Thing
+item.banner.mojang.magenta=Magenta Thing
+item.banner.mojang.orange=Orange Thing
+item.banner.mojang.white=White Thing
+
+item.banner.straight_cross.black=Black Cross
+item.banner.straight_cross.red=Red Cross
+item.banner.straight_cross.green=Green Cross
+item.banner.straight_cross.brown=Brown Cross
+item.banner.straight_cross.blue=Blue Cross
+item.banner.straight_cross.purple=Purple Cross
+item.banner.straight_cross.cyan=Cyan Cross
+item.banner.straight_cross.silver=Light Gray Cross
+item.banner.straight_cross.gray=Gray Cross
+item.banner.straight_cross.pink=Pink Cross
+item.banner.straight_cross.lime=Lime Cross
+item.banner.straight_cross.yellow=Yellow Cross
+item.banner.straight_cross.lightBlue=Light Blue Cross
+item.banner.straight_cross.magenta=Magenta Cross
+item.banner.straight_cross.orange=Orange Cross
+item.banner.straight_cross.white=White Cross
+
+################
+### PalaTrade
+################
+
+palatrade.openconfig=Open PalaTrade Menu
+key.categories.palatrade=PalaTrade
+
+palatrade.notradewaiting= You have no pending trade requests!
+palatrade.tradedenied=Your trade request has been §4refused!
+palatrade.alreadywaiting= This player already has a trade request pending, please try again later.
+palatrade.notonline= This player is not logged in, check his §ausername§6!
+palatrade.tradedeactivated= This player has §4disabled §6trade requests!
+palatrade.joinedmessage=You have joined a new server, your trade requests have been §areactivated§6! Press §b'P'§6or type §b/trade §6to open the §cPalaTrade §6configuration menu.palatrade.tradeaccepted= Your trade request has been §aaccepted§6! Opening of the trade window!
+palatrade.notificationactivated= Your trade requests have been §aactivated§6!
+palatrade.notificationdeactivated= Your trade requests have been §cdeactivated§6!
+palatrade.tradeclosed= The trade was canceled because one of the players closed §6the trade window!
+palatrade.tradereceived= You have received a trade request from §a[PLAYER]§6! Type /trade accept to accept it!§b§6
+palatrade.tradesend= You have sent a trade request to §a[PLAYER]§6!
+palatrade.tradefinished= Your exchange was §2successfull§6!
+palatrade.dontknow=Don’t you know how to open your inventory?
+palatrade.disconnectedrequest= The player you requested to trade has signed out.
+
+item.endiumGauntlet.name=Endium Gauntlet
+
+################################
+##      METIER ALCHIMISTE     ##
+################################
+tile.extractor.name=Extractor
+itemGroup.palamod-alchimiste=Alchimiste
+
+
+item.flask0.name=Empty Flask
+item.flask1.name=Sap Flask
+item.flask2.name=Sap Flask
+item.flask3.name=Sap Flask
+item.flask4.name=Sap Flask
+item.flask5.name=Sap Flask
+item.flask6.name=Sap Flask
+
+item.titane_pollen.name=Titan Pollen
+item.amethyst_pollen.name=Amethyst Pollen
+item.paladium_pollen.name=Paladium Pollen
+item.endium_pollen.name=Endium Pollen
+
+item.lightning_potion.name=Lightning Potion
+
+tile.gold_tank.name=Gold Tank
+tile.amethyste_tank.name=Amethyst Tank
+tile.titane_tank.name=Titane Tank
+tile.paladium_tank.name=Paladium Tank
+
+tile.cauldron_block.name=Cauldron Block
+tile.cauldron_core.name=Cauldron Core
+tile.cauldron_tanksupport.name=Cauldron Tank Support
+
+tile.sulfuricwater.name=Fake Water
+
+treeseve-Judeecercis.name=Judeecercis
+treeseve-Ostrya.name=Ostrya
+treeseve-Erable.name=Erable
+treeseve-Jacaranda.name=Jacaranda
+
+
+item.red_glueball.name=Red Glueball
+item.gray_glueball.name=Gray Glueball
+item.blue_glueball.name=Blue Glueball
+item.green_dark_glueball.name=Green Dark Glueball
+item.green_glueball.name=Green Glueball
+item.green_flash_glueball.name=Green Flash Glueball
+item.purple_glueball.name=Purple Glueball
+item.cyan_glueball.name=Cyan Glueball
+item.orange_glueball.name=Orange Glueball
+item.yellow_glueball.name=Yellow Glueball
+
+item.glueball_pattern.name=Glueball Pattern
+
+potion.levitation=Levitation
+
+tile.shiny_ostrya_block.name=Shiny Ostrya Wood
+tile.shiny_erable_block.name=Shiny Erable Wood
+tile.shiny_judeecercis_block.name=Shiny Judeecercis Wood
+tile.shiny_jacaranda_block.name=Shiny Jacaranda Wood
+
+tile.amethyste_portal_block.name=Amethyst Portal Block
+tile.titane_portal_block.name=Titane Portal Block
+tile.paladium_portal_block.name=Paladium Portal Block
+tile.endium_portal_block.name=Endium Portal Block
+tile.endium_heart_block.name=Endium Heart Block
+
+tile.endium_angle_portal_block.name=Endium Angle Portal Block
+item.endium_heart.name=Endium Heart
+
+item.amethyste_portal_key.name=Amethyst Portal Key
+item.titane_portal_key.name=Titane Portal Key
+item.paladium_portal_key.name=Paladium Portal Key
+item.endium_portal_key.name=Endium Portal Key
+
+tile.mystical_bookshelf.name=Mystical Bookshelf
+
+enchantment.grassBreaker=Grass Breaker
+enchantment.guardianProtection=Guardian Protection
+enchantment.guardianBlocker=Guardian Blocker
+enchantment.guardianSlayer=Guardian Slayer
+enchantment.humiliation=Humiliation
+enchantment.unclaimHelmet=Unclaim Helmet
+enchantment.fakeWaterProtection=Fake Water Protection
+
+################
+### Achivements
+################
+
+achievement.miner1=Casseur de cailloux
+achievement.miner1.desc=Passez level 1 pour commencer votre aventure de Mineur !
+achievement.miner5=Mineur Débutant
+achievement.miner5.desc=Passez level 5 pour faire avancer votre aventure !
+achievement.miner10=Chercheur d'or
+achievement.miner10.desc=Passez level 10 pour faire avancer votre aventure !
+achievement.miner15=Mineur Expérimenté
+achievement.miner15.desc=Passez level 15 pour faire avancer votre aventure !
+achievement.miner20=Nain
+achievement.miner20.desc=Passez level 20 !
+
+achievement.farmer1=Farmer Novice
+achievement.farmer1.desc=Passez level 1 pour commencer votre aventure de Farmer
+achievement.farmer5=Farmer Débutant
+achievement.farmer5.desc=Passez level 5 pour faire avancer votre aventure !
+achievement.farmer10=Farmer Connaisseur
+achievement.farmer10.desc=Passez level 10 pour faire avancer votre aventure !
+achievement.farmer15=Farmer Expérimenté
+achievement.farmer15.desc=Passez level 15 pour faire avancer votre aventure !
+achievement.farmer20=Cérès
+achievement.farmer20.desc=Passez level 20 !
+
+achievement.hunter1=Hunter
+achievement.hunter1.desc=Passez level 1 pour commencer votre aventure de Hunter !
+achievement.hunter5=Hunter Novice
+achievement.hunter5.desc=Passez level 5 pour faire avancer votre aventure !
+achievement.hunter10=Chasseur d'ours
+achievement.hunter10.desc=Passez level 10 pour faire avancer votre aventure !
+achievement.hunter15=Chasseur Expérimenté
+achievement.hunter15.desc=Passez level 15 pour faire avancer votre aventure !
+achievement.hunter20=Trappeur
+achievement.hunter20.desc=Passez level 20 !
+
+achievement.alchimiste1=Alchimiste
+achievement.alchimiste1.desc=Passez level 1 pour commencer votre aventure d’Alchimiste !
+achievement.alchimiste5=Alchimiste Novice
+achievement.alchimiste5.desc=Passez level 5 pour faire avancer votre aventure !
+achievement.alchimiste10=Préparateur de soupe
+achievement.alchimiste10.desc=Passez level 10 pour faire avancer votre aventure !
+achievement.alchimiste15=Alchimiste Expérimenté
+achievement.alchimiste15.desc=Passez level 15 pour faire avancer votre aventure !
+achievement.alchimiste20=Merlin
+achievement.alchimiste20.desc=Passez level 20 !
+
+achievement.toutlvl20=Artisan des Cieux
+achievement.toutlvl20.desc=Passez level 20 dans tous les métiers !
+
+tile.green_glueball_block.name=Green Glueball
+tile.blue_glueball_block.name=Blue Glueball
+tile.yellow_glueball_block.name=Yellow Glueball
+tile.red_glueball_block.name=Red Glueball
+tile.orange_glueball_block.name=Orange Glueball
+tile.gray_glueball_block.name=Gray Glueball
+tile.purple_glueball_block.name=Purple Glueball
+tile.green_flash_glueball_block.name=Flash Green Glueball
+tile.green_dark_glueball_block.name=Dark Green Glueball
+
+tile.cyan_glueball_block.name=Cyan Glueball
+
+potion.frost=Frost
+potion.imbuepoison=Poison Imbue
+potion.imbuefire=Fire Imbue
+potion.imbuewither=Wither Imbue
+
+item.arrow.frost.name=Frost Arrow
+item.arrow.switch.name=Switch Arrow
+tile.spikediamond.name=Diamond Spike
+tile.invisible_block.name=Unbreakable Invisible bloc
+tile.collide_invisible_bloc.name=Invisible bloc
+tile.grinder_frame_block.name=Grinder Frame
+tile.flower_paladium.name=Paladium Flower
+tile.flower_mineral.name=Mineral Flower
+tile.paladiumBlockSlab.name=Paladium Slab
+tile.paladiumBlockStairs.name=Paladium Stairs
+tile.titaneBlockSlab.name=Titane Slab
+tile.titaneBlockStairs.name=Titane Stairs
+tile.amethystBlockSlab.name=Amethyst Slab
+tile.amethystBlockStairs.name=Amethyst Stairs
+crafters.AlchemyCreator=Alchemy Creator
+crafters.Grinder=Grinder
+
+################
+### CreativeTab - Pillage
+################
+itemGroup.palamod_pillage=Paladium - Pillage
+
+################
+### Blocks - Pillage
+################
+
+#Canon
+tile.canon_main.name=Canon Main
+tile.canon_mag.name=Canon Magazine
+tile.canon_base.name=Canon Base - Utils
+tile.canon_base_1.name=Canon Base - Anti-Perso
+tile.canon_base_2.name=Canon Base - Anti-Material
+tile.canon_base_3.name=Canon Base - Endium
+tile.cannon.name=Canon Barrel - Range
+tile.cannon_1.name=Canon Barrel - Power
+tile.cannon_2.name=Canon Barrel - Cooldown
+
+#Birch Water
+tile.water_sapling.name=Birch Water Sapling
+tile.water_log.name=Birch Water Log
+tile.water_leaves.name=Birch Water Leave
+tile.water_planks.name=Birch Water Planks
+
+#Tnt
+tile.effect_tnt.name=Effect TNT
+tile.big_tnt.name=Big TNT
+tile.sponge_tnt.name=Sponge TNT
+tile.wither_tnt.name=Wither TNT
+tile.endium_tnt.name=Endium TNT
+
+#Obsidian
+tile.wither_obsi.name=Wither Obsidian
+tile.big_obsi.name=Big Obsidian
+tile.lava_obsi.name=Lava Obsidian
+tile.fake_obsi.name=Sulfuric Obsidian
+tile.poison_obsi.name=Poison Obsidian
+tile.boom_obsi.name=Boom Obsidian
+tile.mega_boom_obsi.name=Mega Boom Obsidian
+tile.redstone_obsi.name=Redstone Obsidian
+tile.slime_obsi.name=Slime Obsidian
+tile.anti_aggro_obsi.name=Anti Aggro Obsidian
+tile.frozen_obsi.name=Frozen Obsidian
+tile.knockback_obsi.name=Knockback Obsidian
+
+tile.spike_obsi.name=Spike Obsidian (Wood)
+tile.spike_obsi_1.name=Spike Obsidian (Iron)
+tile.spike_obsi_2.name=Spike Obsidian (Gold)
+tile.spike_obsi_3.name=Spike Obsidian (Diamond)
+tile.spike_obsi_4.name=Spike Obsidian (Amethyst)
+tile.spike_obsi_5.name=Spike Obsidian (Titane)
+tile.spike_obsi_6.name=Spike Obsidian (Paladium)
+
+#Misc
+tile.compressed_sponge.name=Compressed Sponge
+
+################
+### Items - Pillage
+################
+##Ammo
+
+#Explosive
+item.canon_ammo_explosive_0.name=Explosive Ammo
+item.canon_ammo_explosive_1.name=Explosive Ammo
+item.canon_ammo_explosive_2.name=Explosive Ammo
+item.canon_ammo_explosive_3.name=Explosive Ammo
+
+item.canon_ammo_extrapolated_0.name=Extrapolated Ammo
+item.canon_ammo_extrapolated_1.name=Extrapolated Ammo
+item.canon_ammo_extrapolated_2.name=Extrapolated Ammo
+item.canon_ammo_extrapolated_3.name=Extrapolated Ammo
+
+item.canon_ammo_anti_water_0.name=Anti Water Ammo
+item.canon_ammo_anti_water_1.name=Anti Water Ammo
+item.canon_ammo_anti_water_2.name=Anti Water Ammo
+item.canon_ammo_anti_water_3.name=Anti Water Ammo
+
+item.canon_ammo_wither_killer_0.name=Wither Killer Ammo
+item.canon_ammo_wither_killer_1.name=Wither Killer Ammo
+item.canon_ammo_wither_killer_2.name=Wither Killer Ammo
+item.canon_ammo_wither_killer_3.name=Wither Killer Ammo
+
+item.canon_ammo_potion_splasher_0.name=Potion Splasher Ammo
+item.canon_ammo_potion_splasher_1.name=Potion Splasher Ammo
+item.canon_ammo_potion_splasher_2.name=Potion Splasher Ammo
+item.canon_ammo_potion_splasher_3.name=Potion Splasher Ammo
+
+item.canon_ammo_damage_0.name=Damage Ammo
+item.canon_ammo_damage_1.name=Damage Ammo
+item.canon_ammo_damage_2.name=Damage Ammo
+item.canon_ammo_damage_3.name=Damage Ammo
+
+item.canon_ammo_knockback_0.name=KnockBack Ammo
+item.canon_ammo_knockback_1.name=KnockBack Ammo
+item.canon_ammo_knockback_2.name=KnockBack Ammo
+item.canon_ammo_knockback_3.name=KnockBack Ammo
+
+item.canon_ammo_dirt_platform_0.name=Dirt Platform Ammo
+item.canon_ammo_dirt_platform_1.name=Dirt Platform Ammo
+item.canon_ammo_dirt_platform_2.name=Dirt Platform Ammo
+item.canon_ammo_dirt_platform_3.name=Dirt Platform Ammo
+
+item.canon_ammo_human_launcher_0.name=Human Launcher Ammo
+item.canon_ammo_human_launcher_1.name=Human Launcher Ammo
+item.canon_ammo_human_launcher_2.name=Human Launcher Ammo
+item.canon_ammo_human_launcher_3.name=Human Launcher Ammo
+
+#Misc
+item.mid_life_arrow.name=Mid Life Arrow
+item.agro_stone.name=Aggro Stone
+item.wither_saddle.name=Wither Saddle
+item.wither_fishingrod.name=Wither Fishing Rod
+item.glue.name=Glue
+item.obsidian_pickaxe.name=Obsidian Pickaxe
+
+################
+### Enchantment - Pillage
+################
+
+enchantment.enchantment_speed=Barrel - Power
+enchantment.enchantment_range=Barrel - Range
+enchantment.enchantment_cooldown=Barrel - Cooldown
+
+################
+### Keybinding - Pillage
+################
+key.pillage.category=Canon
+key.pillage.opengui=Open Canon Menu
+
+
+################
+### Entities - Pillage
+################
+entity.palamod.SpongeSheep.name=Sponge Sheep
+
+################
+### HomeFinder - Pillage
+################
+homefinder.cant=§6[HomeFinder]§c You can't do this! §cYou are §cnot §cthe §cHome §cFinder’s §cowner!
+homefinder.findium.info=§6[HomeFinder]§a The Home Finder contains §6 %s/64 findiums.
+homefinder.protectiontime.info=§6[HomeFinder]§a The protective radius §astill lasts for §6 %s
+homefinder.notprotected=§6[HomeFinder]§c You are not protected!
+homefinder.whitelist=§6[HomeFinder]§a The whitelisted players are:
+homefinder.whitelist.nobody=§6[HomeFinder]§c No player is whitelisted.
+homefinder.whitelist.notfound=§6[HomeFinder]§c The §cHome Finder §cdoes not contain §ca guardian §cwhitelist.
+homefinder.sethome.cant=§6[HomeFinder]§c A §cmagical §cforce §cprevents you from §cputting a §chome §chere
+homefinder.coward=§6[HomeFinder]§c You §cran away §cfor more §cthan §ca minute, §cso §cthe fight §is §ccancelled §cand the §chome §cremains.
+homefinder.victory=§6[HomeFinder]§a You have §adefeated the ghost of §6 %s's §ahome, §ahis home §ahas been §adeleted!
+homefinder.owner=§aOwner: §6%s
+homefinder.tier=§aTier: §6%d
+homefinder.mode=§aMode: §6
+homefinder.mode.searching=Searching Mode
+homefinder.mode.protection=Protection Mode
+homefinder.mode.protection.time=§aEstimated Protection Time: §c%s
+homefinder.mode.notprotected=§cYou are not protected!
+homefinder.mode.searching.homefound=§aHomes found : §6%d
+homefinder.mode.searching.nohomefound=§aNo home Found
+
+entity.palamod.FakePlayer.name=Clone
+
+################
+### HomeFinder - Pillage - Item & Blocks
+################
+
+tile.home_finder.name=Home Finder
+tile.empowered_quartz.name=Empowered Quartz
+tile.compressed_quartz.name=Compressed Quartz
+tile.compressed_quartz_1.name=Compressed Quartz x2
+tile.compressed_quartz_2.name=Compressed Quartz x3
+tile.compressed_quartz_3.name=Compressed Quartz x4
+tile.compressed_quartz_4.name=Compressed Quartz x5
+tile.coordinate_jammer.name=Coordinate Jammer
+item.housing_stone.name=Housing Stone
+item.infused_stone.name=§oInfused Stone
+item.infused_stone_1.name=§6Infused Stone
+
+################
+### Boss
+################
+entity.beepBoop.name=Beep Boop
+entity.arachna.name=Arachna
+entity.morsula.name=Morsula
+entity.entityGear.name=Gear
+entity.azhur.name=Azhur
+entity.tobalt.name=Tobalt
+entity.ulcan.name=Ulcan
+
+
+################
+### Cosmetics - Items
+################
+item.dark_sword.name=§8Dark Sword
+item.dark_pickaxe.name=§8Dark Pickaxe
+item.dark_axe.name=§8Dark Axe
+item.dark_shovel.name=§8Dark Shovel
+
+item.fallen_sword.name=Fallen Sword
+item.fallen_pickaxe.name=Fallen Pickaxe
+item.fallen_axe.name=Fallen Axe
+item.fallen_shovel.name=Fallen Shovel
+
+item.fire_sword.name=§cFire Sword
+item.fire_pickaxe.name=§cFire Pickaxe
+item.fire_axe.name=§cFire Axe
+item.fire_shovel.name=§cFire Shovel
+
+item.light_sword.name=§eLight Sword
+item.light_pickaxe.name=§eLight Pickaxe
+item.light_axe.name=§eLight Axe
+item.light_shovel.name=§eLight Shovel
+
+item.ice_sword.name=§6Ice Sword
+item.ice_pickaxe.name=§6Ice Pickaxe
+item.ice_axe.name=§6Ice Axe
+item.ice_shovel.name=§6Ice Shovel
+
+item.rainbow_sword.name=§3Rainbow §aSword
+item.rainbow_pickaxe.name=§3Rainbow §aPickaxe
+item.rainbow_axe.name=§3Rainbow §aAxe
+item.rainbow_shovel.name=§3Rainbow §aShovel
+
+item.box_key.name=Box Key
+
+
+################
+### EggHunt
+################
+item.egg.notplaceable=You can't place an egg here!
+item.egg.tookby=[EggHunt] The Dragon egg has been taken by %s.
+item.egg.nottakeable=[EggHunt] You can't take that egg.
+item.egg.notowned=You don't have any egg!
+item.egg.notready=The egg is not ready! Wait %s.
+
+item.dragonScales.name=Dragon Scales
+item.dragonRoll.name=Dragon Roll
+item.dragonRoll.hasEgg=[EggHunt] You already have the egg!
+item.dragonRoll.dragonSpawned=[EggHunt] You should hunt the Dragon to take his egg!
+item.dragonRoll.lastPosUpdate=Position updated %s ago.
+tile.checkEgg.name=Check egg block
+
+itemGroup.palamod_egghunt=Paladium - EggHunt
+entity.custom_dragon.ondeath=[EggHunt] The Dragon is dead, go take his egg!
+
+entity.custom_dragon.name=Dragon
+
+cmd.egg.doaction=[EggHunt] You have to perform this action to receive your XP :
+cmd.egg.dropped=[EggHunt] The egg has been placed at your position!
+cmd.egg.noperm=You don't have the permission to execute this command!
+cmd.egg.console=The console can't carry an egg!
+cmd.egg.setdefaultpos=[EggHunt] Default egg position has been set!
+cmd.egg.setdefaultdpos=[EggHunt] Dragon spawn position has been set!
+cmd.egg.texture=[EggHunt] Egg texture has been set!
+cmd.egg.disabled=[EggHunt] The egg has been disabled and removed from the servers.
+cmd.egg.enabled=[EggHunt] The egg is now on this server, the players can take the egg placed in the map.
+cmd.egg.willspawnin=[EggHunt] The egg is now on this server, and the Dragon will spawn in %s!
+cmd.egg.resetforspawn=[EggHunt] The egg has been removed from the world. It will be placed at its default position when the Dragon will spawn.
+
+dragon.spawned=[EggHunt] The Dragon appeared, kill him to get his egg!
+dragon.spawned.holotitle=Go on a Dragon hunt!
+eggtitle.dragon.spawned=Hunt the Dragon!
+eggtitle.fordragonkiller=Only for the Dragon slayer!
+
+egg.xpgot=You received %s XP in the job %s!
+egg.waitforxp=Egg : XP in %s
+egg.wait.nopvp=Exit from the no-pvp zone.
+egg.wait.givetovillage=Give back the egg to the village! Or drop it.
+egg.action.jump=Jump to get the reward.
+egg.action.sneak=Sneak to get the reward.
+egg.action.addblock=Place a block to get the reward.
+egg.action.breakblock=Break a block to get the reward.
+egg.action.chat=Write in the chat to get the reward
+egg.removed.settime=[EggHunt] The egg has been removed from you, it will be put back into play!
+egg.removed.placeblock=[EggHunt] The egg has been removed from you, it has been placed by an Admin!
+
+# LuckyBlock r3
+item.pig.helmet.name=Pig Helmet
+item.pig.chestplate.name=Pig Chestplate
+item.pig.leggings.name=Pig Leggings
+item.pig.boots.name=Pig Boots
+item.invisible.helmet.name=Invisible Helmet
+item.invisible.chestplate.name=Invisible Chestplate
+item.invisible.leggings.name=Invisible Leggings
+item.invisible.boots.name=Invisible Boots
+item.speed.apple.name=Speed Apple
+item.poulpogun.name=PoulpoGun 3000
+item.meter.name=Meter
+tile.endium_block.name=Endium Block
+item.ender_bag.name=Ender Bag
+item.smokebomb_light_blue.name=Light Blue Smokebomb
+item.smokebomb_magenta.name=Magenta Smokebomb
+item.smokebomb_green.name=Green Smokebomb
+item.smokebomb_light_gray.name=Light Gray Smokebomb
+item.smokebomb_orange.name=Orange Smokebomb
+item.smokebomb_gray.name=Gray Smokebomb
+item.smokebomb_white.name=White Smokebomb
+item.smokebomb_purple.name=Purple Smokebomb
+item.smokebomb_cyan.name=Cyan Smokebomb
+item.smokebomb_yellow.name=Yellow Smokebomb
+item.smokebomb_red.name=Red Smokebomb
+item.smokebomb_black.name=Black Smokebomb
+item.smokebomb_brown.name=Brown Smokebomb
+item.smokebomb_lime.name=Lime Smokebomb
+item.smokebomb_blue.name=Blue Smokebomb
+item.smokebomb_pink.name=Pink Smokebomb
+egg.receivedtopprice=[EggHunt] You received %d $ for giving the egg to the village!
+tile.fakecommandblock.name=Command Block
+tile.ultrasafe_chest.name=Ultra Safe Chest
+tile.megasafe_chest.name=Mega Safe Chest
+tile.safe_chest.name=Safe Chest
+item.cave.helmet.name=Cave Helmet
+entity.entityHerobrine.name=Herobrine
+tile.bruteforcer.name=Safe Chest Bruteforcer
+tile.fakelava.name=Fake Lava
+tile.fakeportal.name=Fake Portal
+tile.alarm.name=Alarm
+tile.atm.name=ATM
+
+#Lucky Block R4
+item.speaker.name=Haut Parleur
+item.power_helmet.name=Casque de Puissance
+item.vision_helmet.name=Monocle
+item.faux.name=Faux
+item.foreuse.name=Foreuse
+item.boatfurnace.name=TurboBoat
+
+#Black Lucky Block
+item.sonic_boots.name=Sonic Boots
+item.flasque.name=Flask
+item.missile_meteo.name=Meteo Missile
+item.gadgeto.name=Gadgeto
+item.water_pistol.name=Water Pistol
+item.flasque.name=Flask
+tile.sifflet.name=Sifflet
+
+##############
+## Halloween
+##############
+item.halloween.name=CD d’Halloween
+item.halloween.desc=c418 - bouh
+item.pumpkinshear.name=Tailleur de Citrouilles
+tile.halloweenLuckyBlock.name=LuckyBlock d'Halloween
+item.halloweenstone.name=Halloween Stone
+item.spiderglove.name=Gant de Spiderman
+tile.trophyhalloween.name=Trophé Citrouille
+item.witchbroom.name=Balais de sorcier
+item.survivingstone.name=Pierre de Survie
+item.pumpkincrush.name=Citrouilles écrasées
+tile.pumpkincustom_1.name=Citrouille
+tile.pumpkincustom_2.name=Citrouille
+tile.pumpkincustom_3.name=Citrouille
+tile.pumpkincustom_4.name=Citrouille
+tile.pumpkincustom_5.name=Citrouille
+tile.pumpkincustom_6.name=Citrouille
+tile.pumpkincustom_7.name=Citrouille
+tile.pumpkincustom_8.name=Citrouille
+tile.devilxp.name=Pacte avec le Diable
+item.ghostcape.name=Cape de fantôme
+
+entity.zombiehalloween.name=Zombitrouille
+entity.entityPumpkinGolem.name=CitrouGolem
+entity.ghosthalloween.name=Fantôme
+
+item.halloweenhat.name=Chapeau arachna
+item.job_candy.name=BonBon à déballer
+item.job_candy_GREEN.name=BonBon §aVert§f
+item.job_candy_YELLOW.name=BonBon §eJaune§f
+item.job_candy_BLUE.name=BonBon §9Bleu§f
+item.job_candy_PINK.name=BonBon §dMauve§f
+item.job_candy_RAINBOW.name=BonBon §aMu§elti§9col§dor§f
+item.halloween_sword.name=Épée Citrouille
+item.halloween_pickaxe.name=Pioche Citrouille
+item.halloween_shovel.name=Pelle Citrouille
+item.halloween_axe.name=Hache de Jack'O'Lantern
+item.halloween_axe.desc=Cette hache était autrefois la hache la plus puissante du royaume. Cependant, un jour, Jack'O'Lantern la fit maudire, de peur que sa force ne se retourne un jour contre lui.
+
+tile.halloween_commu.name=Citrouille de §4Rex14-0§f
+tile.halloween_commu.desc=Citrouille du concours §6Halloween 2021§f
+tile.halloween_commu_on.name=Citrouille Communautaire
+tile.colored_lentern.name=Jack o'Lantern
+
+item.halloween.helmet.name=Casque Squelette
+item.halloween.chestplate.name=Plastron Squelette
+item.halloween.leggings.name=Jambières Squelette
+item.halloween.boots.name=Bottes Squelette
+
+item.candy.name=Candy
+item.candy_bag.name=Candy Bag
+item.candy_piece.name=Piece of candy
+item.halloween_candy.name=Candy
+item.halloween_candy_bag.name=Candy Bag
+item.halloween_candy_piece.name=Piece of candy
+item.daemon_amulet.name=Demonic Amulet
+tile.halloween_trade.name=Halloween Trade Block
+
+##############
+## Noel
+##############
+item.noel.name=CD de Noël
+item.noel.desc=C418 - jingle bells
+item.paladium.chrismas_hammer.name=Marteau de Noël
+item.cosmetic_skin_noel.name=Déguisement de golem de noel
+
+
+##############
+## Temp UNAMED
+##############
+tile.connectedDirt.name=Fertilized Dirt
+tile.lit_forge.name=Palaforge
+tile.lit_paladium_furnace_block.name=Palafurnace
+tile.angelicwater.name=Angelic Water
+tile.obsidianBlockDoor.name=Obsidian Block Door
+tile.collide_invisible_block.name=Invisible Block
+tile.palamod.log_stripped_0.name=Oak stripped log
+tile.palamod.log2_stripped_0.name=Acacia stripped log
+tile.palamod.bark_0.name=Oak bark
+tile.palamod.pressure_plate_spruce.name=Spruce pressure plate
+tile.palamod.pressure_plate_birch.name=Birch pressure plate
+tile.palamod.pressure_plate_jungle.name=Jungle pressure plate
+tile.palamod.pressure_plate_acacia.name=Acacia pressure plate
+tile.palamod.pressure_plate_dark_oak.name=Dark oak pressure plate
+tile.palamod.button_spruce.name=Spruce button
+tile.palamod.button_birch.name=Birch button
+tile.palamod.button_jungle.name=Jungle button
+tile.palamod.button_acacia.name=Acacia button
+tile.palamod.button_dark_oak.name=Dark oak button
+tile.palamod.trapdoor_spruce.name=Spruce trapdoor
+tile.palamod.trapdoor_birch.name=Birch trapdoor
+tile.palamod.trapdoor_jungle.name=Jungle trapdoor
+tile.palamod.trapdoor_acacia.name=Acacia trapdoor
+tile.palamod.trapdoor_dark_oak.name=Dark oak trapdoor
+tile.chisel.bloodmagic.name=Chiseled Blood Magic
+tile.chisel.redstonelamp.name=Redstone Lamp
+tile.chisel.templemossy.name=Chiseled Temple Mossy
+tile.alchimiste.wood.name=Alchemist wood
+tile.poisonous_web.name=Poisonous Web
+tile.mailbox.name=Mailbox
+tile.petrock.name=Pet Rock <3
+tile.jawstrap.name=Jaws Trap
+item.bowrangemodifier.name=Bow Range Modifier
+item.bowspeedmodifier.name=Bow Speed Modifier
+item.obsidianItemDoor.name=Obsidian Door
+item.jobs.farmer.name=Farmer Job
+item.jobs.miner.name=Miner Job
+item.jobs.hunter.name=Hunter Job
+item.jobs.alchemist.name=Alchemist Job
+item.jobs.job.name=Jobs
+item.Points Boutiques.name=Shop Point
+splashpotion.sicknesspotion.name=Splash Sickness Potion
+item.plate.name=Print Plate
+item.dummy.name=Dummy
+item.talisman_calm.name=Calm Talisman
+item.superman_cape.name= Superman Cape
+
+item.job_bottle_miner.name=Miner Experience Bottle
+item.job_bottle_farmer.name=Farmer Experience Bottle
+item.job_bottle_hunter.name=Hunter Experience Bottle
+item.job_bottle_alchemist.name=Alchemist Experience Bottle
+
+##############
+## Easter LB
+##############
+item.chocolate_egg.name=Chocolate egg
+item.fake_chocolate_egg.name=Chocolate egg
+item.golden_egg.name=Golden egg
+item.easter_bunny_helmet.name=Easter bunny Helmet
+item.easter_bunny_chestplate.name=Easter bunny Chestplate
+item.easter_bunny_leggings.name=Easter bunny Leggings
+item.easter_bunny_boots.name=Easter bunny Boots
+item.april_fish.name=April fish
+item.easter_egg.name=Easter egg
+tile.easterLuckyBlock.name=Easter Lucky Block
+tile.yellow_easter_egg.name=Yellow easter egg
+tile.blue_easter_egg.name=Blue easter egg
+tile.easter_gift.name=Easter gift
+tile.fake_easter_gift.name=Easter gift
+tile.magic_bell.name=Magic bell
+tile.easter_trophy.name=Easter trophy
+potion.h4ck3d=Hackerman
+potion.flip=Freaking out
+
+item.rainbow_coloring.name=Rainbow dye
+item.sheep_noise_box.name=Sheep noise box
+item.rainbow_leather.name=Rainbow leather
+item.rainbow_leather_helmet.name=Rainbow helmet
+item.rainbow_leather_chestplate.name=Rainbow chestplate
+item.rainbow_leather_leggings.name=Rainbow leggings
+item.rainbow_leather_boots.name=Rainbow boots
+item.resurrection_stone.name=Resurrection stone
+item.giant_fish.name=Giant fish
+item.cursed_chocolate_egg.name=Cursed chocolate egg
+item.easter_ticket.name=Easter ticket
+item.easter_totem.name=Easter totem
+tile.endium_magic_bell.name=Endium magic bell
+tile.bunny_plush.name=Bunny plush
+tile.egg_of_plenty.name=Egg of plenty
+potion.fish_one.name=Fish
+potion.fish_two.name=Fish
+potion.fish_three.name=Fish
+
+##############
+## May LB
+##############
+tile.lily_of_the_valley.name=Lily of the valley
+tile.fake_blockGold.name=Fake block of Gold
+tile.digicode.name=Digicode
+potion.pink=La vie en rose
+potion.cancel_forward=No progress
+item.old_story_0.name=Old story blue
+item.old_story_1.name=Old story green
+item.old_story_2.name=Old story yellow
+item.dark_knight_helmet.name=Dark Knight Helmet
+item.may_ticket.name=May Ticket
+item.strange_metal_piece.name=Strange piece of metal
+item.sword_too_big.name=Sword too big
+item.iron_skull_hammer.name=Iron skull Hammer
+item.runic_axe.name=Runic Axe
+item.energetic_bow_sword.name=Energetic Bow-sword
+item.magnetic_compass.name=Magnetic compass
+tile.mayLuckyBlock.name=May Lucky Block
+tile.may_trophy.name=May trophy
+tile.magnetic_compass_chest.name=Magnetic compass chest
+tile.timed_bedrock.name=Fake bedrock
+
+item.light_saber.name=Black Knight's saber
+item.pet_snack.name=Pet Snack
+item.pet_xp_small.name=Small Pet XP Potion
+item.pet_xp_medium.name=Medium Pet XP Potion
+item.pet_xp_big.name=Big Pet XP Potion
+item.monstrous_sword.name=Monstrous sword
+item.may_ticket_blacksmith.name=May Ticket
+
+tile.endium_hearth.name=Endium Stone Heart
+tile.stone_hearth.name=Stone Heart
+tile.creeper_plush.name=Creeper Plush
+tile.golden_cage.name=Golden Cage
+tile.trash.name=Trash
+tile.random_statue.name=Random Statue
+
+entity.EntityCowSuit.name=Cow Suit
+potion.pink_effect.name=Pink
+
+##############
+## June LB
+##############
+item.trumpet.name=Trumpet
+item.gold_record.name=Gold record
+item.record.gold_record.desc=Gold record
+item.electric_guitar.name=Electric guitar
+item.radio.name=Radio
+item.paralyzing_radio.name=Paralyzing radio
+item.sound_detector.name=Sound detector
+item.sitar.name=Sitar : chord XIII
+item.sword_guitar_of_the_apocalypse.name=Sword-Guitar of the Apocalypse
+tile.shark_plush.name=Shark plush
+item.roulette_paladienne.name=Musical Classic Disc 1
+item.roulette_paladienne.desc=FuzeIII - C'est la roulette paladienne
+item.nations_glory.name=Pala VS NG Disc 1
+item.nations_glory.desc=FuzeIII - La Fin de Nations Glory
+item.clash_kumiz.name=Musical Classic Disc 2
+item.clash_kumiz.desc=FuzeIII - Clash Kumiz
+item.anti_fuze.name=Musical Classic Disc 3
+item.anti_fuze.desc=FuzeIII - Le clash des anti-fuze
+item.paladium_best_sound.name=Paladium best sound effect
+item.record.paladium_best_sound.desc=Paladium best sound effect
+item.june_ticket.name=June Ticket
+tile.alarm_clock.name=Alarm clock
+item.admin_radio.name=Admin radio
+item.foghorn.name=Foghorn
+tile.juneLuckyBlock.name=June Lucky Block
+tile.bright_sound.name=Bright sound Block
+tile.sound_test_block.0.name=Sound block test 1
+tile.sound_test_block.1.name=Sound block test 2
+tile.sound_test_block.2.name=Sound block test 3
+tile.real_jukebox.name=Real jukebox
+potion.quack=Quack
+potion.cinema_muet=Mute cinema
+potion.gangnam_style=Gangnam style
+potion.fire_walk=Fire walk
+potion.pouet_pouet=Pouet Pouet
+potion.radio=Radio
+
+##############
+## July LB
+##############
+item.ghostly_sword.name=Ghostly sword
+tile.tooth_skeleton_skull.name=Tooth skeleton skull
+item.king_skull.name=King skull
+item.treasure_map.name=Treasure map
+tile.encrypted_computer.name=Encrypted computer
+tile.decrypted_computer.name=Decrypted computer
+tile.parrot_plush.name=Parrot plush
+item.dutch_boat.name=The Flying Dutchman
+tile.barrel.name=Barrel
+item.telescope.name=Telescope
+item.pipe.name=Pipe
+item.wooden_leg.name=Wooden leg
+item.accordion.name=Accordion
+item.drum.name=Drum
+item.sea_bottle.name=Sea bottle
+item.dry_message.name=Dry message
+item.pirate_king_message.name=Pirate king message
+item.invulnerability_potion.name=Invulnerability potion
+item.sailor_tooth.name=Sailor tooth
+item.orange_consumable.name=Orange
+item.eye_patch.name=Eye patch
+item.july_ticket.name=July Ticket
+item.skull_cursed_king.name=Skull of the cursed king
+potion.invulnerability=Invulnerability
+potion.eye_patch=Eye patch
+item.parrot_seeds.name=Parrot seeds
+item.blunderbuss.name=Blunderbuss
+item.sword_pistol.name=Sword-pistol
+item.tooth_skeleton_skull.name=Toothless skeleton skull
+item.flint_egg.name=Captain Flint's egg
+item.banner.corsair.name=Corsair banner
+tile.july_trophy.name=July trophy
+tile.powder_barrel.name=Powder barrel
+tile.expirable_bedrock.name=Expirable bedrock
+tile.july_lucky_block.name=July Lucky Block
+
+##############
+## August LB
+##############
+item.summer_water_bottle.name=Water bottle
+item.solar_cream.name=Sunscreen
+item.ice_cream.name=Ice cream
+item.double_ice_cream.name=Double ice cream
+item.ice_cream_egg.name=Ice cream seller egg
+item.job_quest_potion.name=Job quest potion
+item.summer_instructions.name=Summer instructions
+item.summer_amulet.name=Summer amulet
+item.community_amulet.name=Community amulet
+item.suitcase.name=Suitcase
+item.armor_bag.name=Armor bag
+item.perfect_helmet.name=Perfect helmet
+item.august_fake_money.name=Money
+item.empty_water_bottle.name=Empty water bottle
+item.volley_ball.name=Volley ball
+item.portable_volley_court.name=Portable volley court
+item.crab_egg.name=Crab egg
+item.august_ticket.name=August ticket
+item.particle.green.paladium.name=Green Paladium particle
+
+#blocks
+tile.quick_sand.name=Quicksand
+tile.lead.name=Lead
+tile.primary_crab_egg.name=Primary crab egg
+tile.ventilator.name=Fan
+tile.dolphin_plush.name=Dolphin plush
+tile.august_trophy.name=August trophy
+tile.august_lucky_block.name=August Lucky Block
+tile.running_treadmill.name=Running treadmill
+tile.crab_cobble_breaker.name=Crab cobble breaker
+
+#potions
+potion.hay_fever=Hay fever
+potion.sunburn=Sunburn
+potion.solar_cream=Solar cream
+potion.baking=Baking
+potion.summer_body=Summer body
+
+##############
+## September LB
+##############
+item.job_offer.name=Job offer
+item.trade_file.name=Job trade file
+item.empty_trade_file.name=Empty job trade file
+item.boss_suitcase.name=Final boss suitcase
+item.job_chunk_analyzer.name=Job chunk analyzer
+item.paper_airplane.name=Paper airplane
+item.taupiko_egg.name=Taupiko egg
+item.butcher_knife.name=Butcher knife
+item.job_transferor.name=Job experience transferor
+item.september_ticket.name=September ticket
+item.welding_glasses.name=Welding glasses
+item.banner.september.name=Astronaut banner
+
+#blocks
+tile.primary_taupiko_egg.name=Primary taupiko egg
+tile.september_trophy.name=September trophy
+tile.september_lucky_block.name=September Lucky Block
+
+#potions
+potion.monk=Monk
+potion.monk_second=Monk
+potion.work=Work
+
+#Enchantments
+enchantment.experience=Experience
+
+##############
+## NOVEMBER LB
+##############
+item.corrupted_chrono.name=CHRONO.CORRUPTED
+item.corrupted_splash_potion.name=CORRUPTION.SPLASH
+item.corrupted_sword.name=SWORD.CORRUPTED
+item.poison_corrupted.name=POISON.POTION.CORRUPTED
+item.corrupted_legendary_stone.name=LEGENDARYSTONE.CORRUPTED
+item.corrupted_ticket.name=TICKET.CORRUPTED
+item.slayer_egg.name=CORRUPTION.SLAYER.EGG
+item.item_corrupted_bed.name=BED.CORRUPTED
+
+#blocks
+tile.corrupted_ore.name=ORE.CORRUPTED
+tile.corrupted_bed.name=BED.CORRUPTED
+tile.corrupted_hunter_plant.name=FLOWER.CORRUPTED
+tile.corrupted_plant.name=CORRUPTED.PLANT
+tile.fake_corrupted_chest.name=CHEST.CORRUPTED
+tile.corrupted_luckydrawer.name=LUCKYDRAWER.CORRUPTED
+tile.corrupted_enchanting_table.name=ENCHANTINGTABLE.CORRUPTED
+tile.primary_slayer_egg.name=CORRUPTION.SLAYER.PRIMAL.EGG
+tile.november_trophy.name=TROPHY.CORRUPTED
+
+#potions
+potion.corrupted_poison.name=POISON.CORRUPTED
+
+##############
+## DECEMBER LB
+##############
+
+tile.gift_chest.name=Gift chest
+tile.fire_place.name=Fire place
+tile.christmas_wreath.name=Christmas wreath
+
+item.potion_job_x10.name=Job XP x10 potion
+
+potion.x10_job_xp.name=Job XP x10
+potion.invincibility.name=Invincibility
+
+##
+
+####################
+## Community Events
+####################
+
+## PIRATES
+
+tile.rainbowskull.name=Rainbow Skull
+item.piratechest.name=Pirate Chest
+tile.barrelwood.name=Barrel
+
+
+## GALETTE DES ROIS
+
+item.galette.name=King's Cake
+item.lucky_beans.name=Lucky Beans
+item.random_beans.name=Random Beans
+tile.feve_arty.name=Statue 1 of Arty
+tile.feve_dancarok.name=Statue 2 of Dancarok
+tile.feve_tedarok.name=Statue 3 of Tedarok
+tile.feve_ravirok.name=Statue 4 of Ravirok
+
+##############
+## MARCH LB
+##############
+item.personal_thruster.name=Personal Thruster
+item.moon_boots.name=Moon Boots
+item.black_hole.name=Black Hole
+item.universal_dollar_stone.name=Universal Dollar Stone
+item.laser_gun.name=Laser Gun
+item.mars_trophy.name=Mars Trophy
+item.mars_ticket.name=Mars Ticket
+item.endium_battery.name=Endium Battery
+item.war_star.name=War Star
+item.star_helmet.name=Star Helmet
+item.supersonic_rocket.name=Supersonic Rocket
+item.galactic_pile.name=Galactic Pile
+item.splash_potion_moon_gravity.name=Splash Potion of Lunar Gravity
+item.splash_potion_mars_gravity.name=Splash Potion of Martian Gravity
+item.splash_potion_jupiter_gravity.name=Splash Potion of Jupiter Gravity
+
+tile.falling_snow.name=Falling Snow
+tile.alien_plush.name=Alien Plush
+tile.monster_black_hole.name=Black Hole
+tile.march_trophy.name=March Trophy
+tile.telescope.name=Telescope
+tile.march_lucky_block.name=March Lucky Block
+
+potion.mars_gravity.name=Martian Gravity
+potion.moon_gravity.name=Lunar Gravity
+potion.jupiter_gravity.name=Jupiter Gravity
+potion.alien_effect.name=Alien Effect
+potion.star_invincibility.name=Star Invincibility
+potion.star.name=Star
+potion.war_star.name=War Star
+potion.zero_gravity.name=Zero Gravity
+potion.no_oxygen.name=No Oxygen
+potion.item_magnet.name=Item Magnet
+
+item.funny_wither_gem.name=Funny Wither Gem
+entity.palawither.EntityFunnyWither.name=Funny Wither
+
+##############
+## PALADIUM APOCALYPSE
+##############
+item.apocalypse_friendly_candy.name=Friendly Candy
+item.apocalypse_scythe_of_chaos.name=Scythe Of Chaos
+item.apocalypse_portable_base.name=Portable Base

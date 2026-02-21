@@ -1,0 +1,146 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.bodyguard",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 4.5,
+				"visible_bounds_offset": [0, 1.75, 0]
+			},
+			"bones": [
+				{
+					"name": "wholebody",
+					"pivot": [0, 3, 0]
+				},
+				{
+					"name": "Bodypartup",
+					"parent": "wholebody",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "body",
+					"parent": "Bodypartup",
+					"pivot": [0, 3, 0]
+				},
+				{
+					"name": "upperbody",
+					"parent": "body",
+					"pivot": [0, 23.5, 0.5],
+					"cubes": [
+						{"origin": [-8, 21, -5], "size": [16, 12, 11], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "down_body",
+					"parent": "upperbody",
+					"pivot": [0, 16, 0.5],
+					"cubes": [
+						{"origin": [-5, 13, -3], "size": [10, 8, 7], "uv": [0, 23]},
+						{"origin": [-4, 10, -3], "size": [8, 3, 7], "uv": [74, 0]}
+					]
+				},
+				{
+					"name": "right_arm",
+					"parent": "Bodypartup",
+					"pivot": [9, 27, 0],
+					"cubes": [
+						{"origin": [7, 25, -3], "size": [6, 6, 7], "uv": [50, 21]}
+					]
+				},
+				{
+					"name": "right_before_arm",
+					"parent": "right_arm",
+					"pivot": [11, 25, 0],
+					"cubes": [
+						{"origin": [8, 16, -4], "size": [6, 9, 9], "uv": [0, 38]}
+					]
+				},
+				{
+					"name": "right_fore_arm",
+					"parent": "right_before_arm",
+					"pivot": [11, 16, 0.5],
+					"cubes": [
+						{"origin": [8, 10, -3], "size": [4, 6, 7], "uv": [54, 39]}
+					]
+				},
+				{
+					"name": "wallet",
+					"parent": "right_fore_arm",
+					"pivot": [10.5, 11.4, 0.5],
+					"rotation": [12.5, 0, 0],
+					"cubes": [
+						{"origin": [8, 1, -5.5], "size": [4, 8, 12], "uv": [0, 56]},
+						{"origin": [9, 9, -4.5], "size": [2, 3, 1], "uv": [0, 56]},
+						{"origin": [9, 9, 4.5], "size": [2, 3, 1], "uv": [0, 56]},
+						{"origin": [9, 10, -3.5], "size": [2, 2, 8], "uv": [0, 76]},
+						{"origin": [12, 3, -0.5], "size": [1, 4, 2], "uv": [12, 76]}
+					]
+				},
+				{
+					"name": "left_arm",
+					"parent": "Bodypartup",
+					"pivot": [-9, 27, 0],
+					"cubes": [
+						{"origin": [-13, 25, -3], "size": [6, 6, 7], "uv": [50, 21], "mirror": true}
+					]
+				},
+				{
+					"name": "left_before_arm",
+					"parent": "left_arm",
+					"pivot": [-11, 25, 0],
+					"cubes": [
+						{"origin": [-14, 16, -4], "size": [6, 9, 9], "uv": [0, 38], "mirror": true}
+					]
+				},
+				{
+					"name": "left_fore_arm",
+					"parent": "left_before_arm",
+					"pivot": [-11, 16, 0.5],
+					"cubes": [
+						{"origin": [-12, 10, -3], "size": [4, 6, 7], "uv": [54, 39], "mirror": true}
+					]
+				},
+				{
+					"name": "head",
+					"parent": "wholebody",
+					"pivot": [0, 33, 0],
+					"cubes": [
+						{"origin": [-4, 33, -4], "size": [8, 8, 8], "uv": [30, 46]}
+					]
+				},
+				{
+					"name": "glasses",
+					"parent": "head",
+					"pivot": [0, 37, 0],
+					"cubes": [
+						{"origin": [-4, 33, -4], "size": [8, 8, 8], "inflate": 0.5, "uv": [26, 30]}
+					]
+				},
+				{
+					"name": "right_leg",
+					"parent": "wholebody",
+					"pivot": [4, 15, 0],
+					"cubes": [
+						{"origin": [2, 0, -2], "size": [5, 16, 5], "uv": [54, 0]}
+					]
+				},
+				{
+					"name": "left_leg",
+					"parent": "wholebody",
+					"pivot": [-4.5, 16, 0.5],
+					"cubes": [
+						{"origin": [-7, 0, -2], "size": [5, 16, 5], "uv": [54, 0], "mirror": true}
+					]
+				},
+				{
+					"name": "bone3",
+					"parent": "left_leg",
+					"pivot": [0, 0, 0]
+				}
+			]
+		}
+	]
+}

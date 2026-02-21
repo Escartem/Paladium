@@ -1,0 +1,8 @@
+{
+	"name": "Observatus",
+	"desc": "Gives a wallhack effect to the player for 3 seconds",
+	"maxLevel": 3,
+	"cost": 2,
+	"cooldown": 30,
+	"spellIcon": "batum"
+}

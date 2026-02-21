@@ -1,0 +1,17 @@
+tile.dungeon_hub.name=Dungeon Hub
+tile.dungeon_chest.name=Dungeon Chest
+
+tile.dungeon_room_chest.name=Dungeon Room Chest
+tile.dungeon_room_spawn.name=Dungeon Room Spawn
+tile.dungeon_room_join_power.name=Dungeon Room Join Power
+tile.dungeon_room_active_power.name=Dungeon Room Active Power
+tile.dungeon_room_start_trigger.name=Dungeon Room Start Trigger
+tile.dungeon_room_finish_trigger.name=Dungeon Room Finish Trigger
+
+tile.dungeon_room_entity.name=Dungeon Room Entity
+
+tile.dungeon_room_puzzle_player_trigger.name=Dungeon Room Puzzle Player Trigger
+tile.dungeon_room_puzzle_redstone_trigger.name=Dungeon Room Puzzle Redstone Trigger
+tile.dungeon_room_puzzle_reset_action.name=Dungeon Room Puzzle Reset Action
+
+item.dungeon_keyring.name=Trousseau de clés de donjon

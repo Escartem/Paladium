@@ -1,0 +1,40 @@
+{
+  "sizeMultiplier": 3,
+  "movementSpeed": 0.4,
+  "maxHealth": 6500.0,
+  "knockbackResistance": 0.5,
+  "attackDamage": 10.0,
+  "attacks": [
+    {
+      "attackName": "throwProjectile",
+      "projectileTypeClass": "fr.paladium.palamod.modules.palaboss.common.entity.projectiles.EntityGear",
+      "attackDamage": 10,
+      "minRange": 5,
+      "maxRange": 40
+    },
+    {
+      "attackName": "earthQuake",
+      "attackDamage": 80.0,
+      "minRange": 0,
+      "maxRange": 5
+    },
+    {
+      "attackName": "punch",
+      "attackDamage": 25.0,
+      "knockback": 6,
+      "minRange": 0,
+      "maxRange": 6
+    }
+  ],
+  "loots": [
+    {
+      "lootItemID": "diamond",
+      "count": 4
+    },
+    {
+      "lootItemID": "palamod:tile.paladium_block",
+      "count": 2
+    }
+  ]
+
+}

@@ -1,0 +1,41 @@
+{
+  "sizeMultiplier": 2,
+  "movementSpeed": 0.3,
+  "maxHealth": 6500.0,
+  "knockbackResistance": 0.5,
+  "attackDamage": 16.0,
+  "attacks": [
+    {
+      "attackName": "sand",
+      "attackDamage": 60.0,
+      "knockback": 2,
+      "minRange": 0,
+      "maxRange": 50
+    },
+    {
+      "attackName": "earthQuake",
+      "attackDamage": 60.0,
+      "minRange": 0,
+      "maxRange": 5
+    },
+    {
+      "attackName": "djinn",
+      "attackDamage": 80.0,
+      "attackRange": 90,
+      "minRange": 0,
+      "maxRange": 90
+    }
+
+  ],
+  "loots": [
+    {
+      "lootItemID": "diamond",
+      "count": 4
+    },
+    {
+      "lootItemID": "palamod:tile.paladium_block",
+      "count": 2
+    }
+  ]
+
+}

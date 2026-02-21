@@ -1,0 +1,8 @@
+{
+	"name": "Explode",
+	"desc": "Creates an explosion arround the player",
+	"maxLevel": 1,
+	"cost": 1,
+	"cooldown": 300,
+	"spellIcon": "explode"
+}

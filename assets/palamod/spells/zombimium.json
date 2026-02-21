@@ -1,0 +1,8 @@
+{
+	"name": "Zombimium",
+	"desc": "Spawns zombies arround the player",
+	"maxLevel": 3,
+	"cost": 1,
+	"cooldown": 3600,
+	"spellIcon": "batum"
+}

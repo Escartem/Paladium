@@ -1,0 +1,40 @@
+{
+  "sizeMultiplier": 1,
+  "movementSpeed": 0.25,
+  "chargeDamages": 75.0,
+  "maxHealth": 6500.0,
+  "knockbackResistance": 1,
+  "attackDamage": 10.0,
+  "attacks": [
+    {
+      "attackName": "teethShockwave",
+      "attackDamage": 55.0,
+      "minRange": 0,
+      "maxRange": 35
+    },
+    {
+      "attackName": "morsulaCharge",
+      "attackDamage": 75.0,
+      "knockback": 4,
+      "minRange": 30,
+      "maxRange": 180
+    },
+    {
+      "attackName": "iceProjectile",
+      "attackDamage": 4,
+      "minRange": 80,
+      "maxRange": 300
+    }
+  ],
+  "loots": [
+    {
+      "lootItemID": "diamond",
+      "count": 4
+    },
+    {
+      "lootItemID": "palamod:tile.paladium_block",
+      "count": 2
+    }
+  ]
+
+}

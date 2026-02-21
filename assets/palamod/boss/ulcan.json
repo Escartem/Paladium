@@ -1,0 +1,41 @@
+{
+  "sizeMultiplier": 1,
+  "movementSpeed": 0.2,
+  "chargeDamages": 30.0,
+  "maxHealth": 6500.0,
+  "knockbackResistance": 1,
+  "attackDamage": 15.0,
+  "attacks": [
+    {
+      "attackName": "electrocution",
+      "attackDamage": 100.5,
+      "attackRange": 70,
+      "minRange": 15,
+      "maxRange": 120
+    },
+    {
+      "attackName": "punch",
+      "attackDamage": 45.0,
+      "knockback": 3,
+      "minRange": 0,
+      "maxRange": 40
+    },
+    {
+      "attackName": "earthQuake",
+      "attackDamage": 45.0,
+      "minRange": 0,
+      "maxRange": 5
+    }
+  ],
+  "loots": [
+    {
+      "lootItemID": "diamond",
+      "count": 4
+    },
+    {
+      "lootItemID": "palamod:tile.paladium_block",
+      "count": 2
+    }
+  ]
+
+}

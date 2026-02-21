@@ -1,0 +1,8 @@
+{
+	"name": "Mentalis",
+	"desc": "Gives the ability to quit your own body and explore arround",
+	"maxLevel": 3,
+	"cost": 5,
+	"cooldown": 600,
+	"spellIcon": "batum"
+}

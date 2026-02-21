@@ -1,0 +1,8 @@
+{
+	"name": "Repulsion",
+	"desc": "Push away all the players that are arround you",
+	"maxLevel": 3,
+	"cost": 2,
+	"cooldown": 600,
+	"spellIcon": "repulsion"
+}

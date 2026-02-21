@@ -1,0 +1,685 @@
+{
+  "mob.rabbit.hop": {
+    "category": "neutral",
+    "sounds": [
+      "mob/rabbit/hop1",
+      "mob/rabbit/hop2",
+      "mob/rabbit/hop3",
+      "mob/rabbit/hop4"
+    ]
+  },
+  "mob.rabbit.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "mob/rabbit/hurt1",
+      "mob/rabbit/hurt2",
+      "mob/rabbit/hurt3",
+      "mob/rabbit/hurt4"
+    ]
+  },
+  "mob.rabbit.idle": {
+    "category": "neutral",
+    "sounds": [
+      "mob/rabbit/idle1",
+      "mob/rabbit/idle2",
+      "mob/rabbit/idle3",
+      "mob/rabbit/idle4"
+    ]
+  },
+  "mob.rabbit.death": {
+    "category": "neutral",
+    "sounds": [
+      "mob/rabbit/bunnymurder"
+    ]
+  },
+  "block.brewing_stand.brew": {
+    "category": "block",
+    "sounds": [
+      "block/brewing_stand/brew1",
+      "block/brewing_stand/brew2"
+    ]
+  },
+  "golem_living": {
+    "category": "hostile",
+    "sounds": [
+      "entity/Golem/golem_living_1",
+      "entity/Golem/golem_living_2",
+      "entity/Golem/golem_living_3"
+    ]
+  },
+  "golem_build": {
+    "category": "hostile",
+    "sounds": [
+      "entity/Golem/golem_build"
+    ]
+  },
+  "golem_roll": {
+    "category": "hostile",
+    "sounds": [
+      "entity/Golem/golem_roll"
+    ]
+  },
+  "boulder_hit": {
+    "category": "hostile",
+    "sounds": [
+      "entity/Golem/boulder_hit"
+    ]
+  },
+  "dolphin_noise_box": {
+    "category": "neutral",
+    "sounds": [
+      "items/dolphin_noise_box"
+    ]
+  },
+  "mousetrap": {
+    "category": "neutral",
+    "sounds": [
+      "items/mousetrap"
+    ]
+  },
+  "ancient_armor_equip": {
+    "category": "player",
+    "sounds": [
+      "items/ancient_armor/equip"
+    ]
+  },
+  "ancient_armor_unequip": {
+    "category": "player",
+    "sounds": [
+      "items/ancient_armor/unequip"
+    ]
+  },
+  "sifflet": {
+    "category": "neutral",
+    "sounds": [
+      "block/sifflet"
+    ]
+  },
+  "step_fart": {
+    "category": "neutral",
+    "sounds": [
+      "step/step_fart_1",
+      "step/step_fart_2",
+      "step/step_fart_3"
+    ]
+  },
+  "alarm": {
+    "category": "neutral",
+    "sounds": [
+      "alarm"
+    ]
+  },
+  "naruto": {
+    "category": "neutral",
+    "sounds": [
+      "cosme/naruto"
+    ]
+  },
+  "chicken": {
+    "category": "neutral",
+    "sounds": [
+      "cosme/chicken"
+    ]
+  },
+  "spooky": {
+    "category": "neutral",
+    "sounds": [
+      "halloween/spooky"
+    ]
+  },
+  "bell": {
+    "category": "neutral",
+    "sounds": [
+      "easter/bell"
+    ]
+  },
+  "sheep": {
+    "category": "ambient",
+    "sounds": [
+      "easter/sheep"
+    ]
+  },
+  "endium_bell": {
+    "category": "ambient",
+    "sounds": [
+      "easter/endium_bell"
+    ]
+  },
+  "vader_breathing": {
+    "category": "player",
+    "sounds": [
+      "may/vader_breathing"
+    ]
+  },
+  "quack": {
+    "category": "block",
+    "sounds": [
+      "june/quack"
+    ]
+  },
+  "gangnam_style": {
+    "category": "music",
+    "sounds": [
+      "june/gangnam_style"
+    ]
+  },
+  "trumpet": {
+    "category": "record",
+    "sounds": [
+      "june/trumpet"
+    ]
+  },
+  "low_battery": {
+    "category": "player",
+    "sounds": [
+      "june/low_battery"
+    ]
+  },
+  "alarm_clock": {
+    "category": "record",
+    "sounds": [
+      "june/alarm_clock"
+    ]
+  },
+  "radio": {
+    "category": "player",
+    "sounds": [
+      "june/radio"
+    ]
+  },
+  "admin_radio": {
+    "category": "record",
+    "sounds": [
+      "june/admin_radio"
+    ]
+  },
+  "paralyzing_radio": {
+    "category": "player",
+    "sounds": [
+      "june/paralyzing_radio"
+    ]
+  },
+  "pouet_pouet": {
+    "category": "player",
+    "sounds": [
+      "june/pouet_pouet"
+    ]
+  },
+  "leger_start": {
+    "category": "player",
+    "sounds": [
+      "june/leger_start"
+    ]
+  },
+  "leger_bip": {
+    "category": "player",
+    "sounds": [
+      "june/leger_bip"
+    ]
+  },
+  "leger_end": {
+    "category": "player",
+    "sounds": [
+      "june/leger_end"
+    ]
+  },
+  "elevator_music": {
+    "category": "player",
+    "sounds": [
+      "june/elevator_music"
+    ]
+  },
+  "foghorn": {
+    "category": "player",
+    "sounds": [
+      "june/foghorn"
+    ]
+  },
+  "jaws": {
+    "category": "neutral",
+    "sounds": [
+      "june/jaws"
+    ]
+  },
+  "boop": {
+    "category": "block",
+    "sounds": [
+      "june/boop"
+    ]
+  },
+  "failure": {
+    "category": "block",
+    "sounds": [
+      "june/failure"
+    ]
+  },
+  "gold_record": {
+    "category": "record",
+    "sounds": [
+      "june/gold_record"
+    ]
+  },
+  "records.anti_fuze": {
+    "sounds": [
+      {
+        "name": "records/anti_fuze",
+        "stream": true
+      }
+    ],
+    "category": "record"
+  },
+  "records.clash_kumiz": {
+    "sounds": [
+      {
+        "name": "records/clash_kumiz",
+        "stream": true
+      }
+    ],
+    "category": "record"
+  },
+  "records.roulette_paladienne": {
+    "sounds": [
+      {
+        "name": "records/roulette_paladienne",
+        "stream": true
+      }
+    ],
+    "category": "record"
+  },
+  "records.nations_glory": {
+    "sounds": [
+      {
+        "name": "records/nations_glory",
+        "stream": true
+      }
+    ],
+    "category": "record"
+  },
+  "records.paladium_best_sound": {
+    "sounds": [
+      {
+        "name": "records/paladium_best_sound",
+        "stream": true
+      }
+    ],
+    "category": "record"
+  },
+  "records.fuzeiii": {
+    "sounds": [
+      {
+        "name": "records/fuzeiii",
+        "stream": true
+      }
+    ],
+    "category": "record"
+  },
+  "records.halloween": {
+    "sounds": [
+      {
+        "name": "records/halloween",
+        "stream": true
+      }
+    ],
+    "category": "record"
+  },
+  "records.halloween2": {
+    "sounds": [
+      {
+        "name": "records/halloween2",
+        "stream": true
+      }
+    ],
+    "category": "record"
+  },
+  "records.noel": {
+    "sounds": [
+      {
+        "name": "records/noel",
+        "stream": true
+      }
+    ],
+    "category": "record"
+  },
+  "records.fuzeiii_chimp": {
+    "sounds": [
+      {
+        "name": "records/fuze4",
+        "stream": true
+      }
+    ],
+    "category": "record"
+  },
+  "records.miichallenge": {
+    "sounds": [
+      {
+        "name": "records/miichallenge",
+        "stream": true
+      }
+    ],
+    "category": "record"
+  },
+  "mob.crab.neytoxss.death": {
+    "category": "neutral",
+    "sounds": [
+      "mob/crab/neytoxss/crab_death"
+    ]
+  },
+  "mob.crab.neytoxss.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "mob/crab/neytoxss/crab_hurt"
+    ]
+  },
+  "mob.crab.neytoxss.living": {
+    "category": "neutral",
+    "sounds": [
+      "mob/crab/neytoxss/crab_living"
+    ]
+  },
+  "mob.panda.neytoxss.death": {
+    "category": "neutral",
+    "sounds": [
+      "mob/panda/neytoxss/panda_death"
+    ]
+  },
+  "mob.panda.neytoxss.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "mob/panda/neytoxss/panda_hurt"
+    ]
+  },
+  "mob.panda.neytoxss.living": {
+    "category": "neutral",
+    "sounds": [
+      "mob/panda/neytoxss/panda_living"
+    ]
+  },
+  "mob.snake.neytoxss.death": {
+    "category": "neutral",
+    "sounds": [
+      "mob/snake/neytoxss/snake_death"
+    ]
+  },
+  "mob.snake.neytoxss.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "mob/snake/neytoxss/snake_hurt"
+    ]
+  },
+  "mob.snake.neytoxss.living": {
+    "category": "neutral",
+    "sounds": [
+      "mob/snake/neytoxss/snake_living"
+    ]
+  },
+  "electric_guitar_01": {
+    "category": "record",
+    "sounds": [
+      "june/electric_guitar/01"
+    ]
+  },
+  "electric_guitar_02": {
+    "category": "record",
+    "sounds": [
+      "june/electric_guitar/02"
+    ]
+  },
+  "electric_guitar_03": {
+    "category": "record",
+    "sounds": [
+      "june/electric_guitar/03"
+    ]
+  },
+  "electric_guitar_04": {
+    "category": "record",
+    "sounds": [
+      "june/electric_guitar/04"
+    ]
+  },
+  "electric_guitar_05": {
+    "category": "record",
+    "sounds": [
+      "june/electric_guitar/05"
+    ]
+  },
+  "electric_guitar_06": {
+    "category": "record",
+    "sounds": [
+      "june/electric_guitar/06"
+    ]
+  },
+  "electric_guitar_07": {
+    "category": "record",
+    "sounds": [
+      "june/electric_guitar/07"
+    ]
+  },
+  "electric_guitar_08": {
+    "category": "record",
+    "sounds": [
+      "june/electric_guitar/08"
+    ]
+  },
+  "electric_guitar_09": {
+    "category": "record",
+    "sounds": [
+      "june/electric_guitar/09"
+    ]
+  },
+  "parrot0": {
+    "category": "record",
+    "sounds": [
+      "july/parrot0"
+    ]
+  },
+  "parrot1": {
+    "category": "record",
+    "sounds": [
+      "july/parrot1"
+    ]
+  },
+  "parrot2": {
+    "category": "record",
+    "sounds": [
+      "july/parrot2"
+    ]
+  },
+  "parrot3": {
+    "category": "record",
+    "sounds": [
+      "july/parrot3"
+    ]
+  },
+  "parrot4": {
+    "category": "record",
+    "sounds": [
+      "july/parrot4"
+    ]
+  },
+  "parrot5": {
+    "category": "record",
+    "sounds": [
+      "july/parrot5"
+    ]
+  },
+  "musicians": {
+    "category": "record",
+    "sounds": [
+      "july/musicians"
+    ]
+  },
+  "blunderbuss": {
+    "category": "record",
+    "sounds": [
+      "july/blunderbuss"
+    ]
+  },
+  "sword_pistol": {
+    "category": "record",
+    "sounds": [
+      "july/sword_pistol"
+    ]
+  },
+  "drum_01": {
+    "category": "record",
+    "sounds": [
+      "july/drum/01"
+    ]
+  },
+  "drum_02": {
+    "category": "record",
+    "sounds": [
+      "july/drum/02"
+    ]
+  },
+  "drum_03": {
+    "category": "record",
+    "sounds": [
+      "july/drum/03"
+    ]
+  },
+  "drum_04": {
+    "category": "record",
+    "sounds": [
+      "july/drum/04"
+    ]
+  },
+  "drum_05": {
+    "category": "record",
+    "sounds": [
+      "july/drum/05"
+    ]
+  },
+  "drum_06": {
+    "category": "record",
+    "sounds": [
+      "july/drum/06"
+    ]
+  },
+  "drum_07": {
+    "category": "record",
+    "sounds": [
+      "july/drum/07"
+    ]
+  },
+  "drum_08": {
+    "category": "record",
+    "sounds": [
+      "july/drum/08"
+    ]
+  },
+  "drum_09": {
+    "category": "record",
+    "sounds": [
+      "july/drum/09"
+    ]
+  },
+  "accordion_01": {
+    "category": "record",
+    "sounds": [
+      "july/accordion/01"
+    ]
+  },
+  "accordion_02": {
+    "category": "record",
+    "sounds": [
+      "july/accordion/02"
+    ]
+  },
+  "accordion_03": {
+    "category": "record",
+    "sounds": [
+      "july/accordion/03"
+    ]
+  },
+  "accordion_04": {
+    "category": "record",
+    "sounds": [
+      "july/accordion/04"
+    ]
+  },
+  "accordion_05": {
+    "category": "record",
+    "sounds": [
+      "july/accordion/05"
+    ]
+  },
+  "accordion_06": {
+    "category": "record",
+    "sounds": [
+      "july/accordion/06"
+    ]
+  },
+  "mess": {
+    "category": "record",
+    "sounds": [
+      "august/mess"
+    ]
+  },
+  "panic": {
+    "category": "record",
+    "sounds": [
+      "august/panic"
+    ]
+  },
+  "sandman": {
+    "category": "record",
+    "sounds": [
+      "september/sandman"
+    ]
+  },
+  "real_final_boss": {
+    "category": "record",
+    "sounds": [
+      "september/real_final_boss"
+    ]
+  },
+  "rocket": {
+    "category": "record",
+    "sounds": [
+      "september/rocket"
+    ]
+  },
+  "soft_fail": {
+    "category": "record",
+    "sounds": [
+      "march/soft_fail"
+    ]
+  },
+  "alien_kidnapping": {
+    "category": "record",
+    "sounds": [
+      "march/alien_kidnapping"
+    ]
+  },
+  "alien_talk": {
+    "category": "record",
+    "sounds": [
+      "march/alien_talk"
+    ]
+  },
+  "spatial_1": {
+    "category": "record",
+    "sounds": [
+      "march/spatial_1"
+    ]
+  },
+  "spatial_2": {
+    "category": "record",
+    "sounds": [
+      "march/spatial_2"
+    ]
+  },
+  "spatial_3": {
+    "category": "record",
+    "sounds": [
+      "march/spatial_3"
+    ]
+  },
+  "like_a_rocket": {
+    "category": "record",
+    "sounds": [
+      "march/like_a_rocket"
+    ]
+  }
+}

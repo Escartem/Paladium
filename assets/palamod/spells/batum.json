@@ -1,0 +1,8 @@
+{
+	"name": "Batum",
+	"desc": "Place a boat in the world",
+	"maxLevel": 1,
+	"cost": 1,
+	"cooldown": 30,
+	"spellIcon": "batum"
+}

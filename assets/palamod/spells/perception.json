@@ -1,0 +1,8 @@
+{
+	"name": "Perception",
+	"desc": "Gives the ability to show to the player the number of surrounding players",
+	"maxLevel": 3,
+	"cost": 1,
+	"cooldown": 3600,
+	"spellIcon": "batum"
+}

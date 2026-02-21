@@ -1,0 +1,8 @@
+{
+	"name": "Aerum",
+	"desc": "Teleports you to the highest place of the Minecraft world at the position you are standing at",
+	"maxLevel": 1,
+	"cost": 1,
+	"cooldown": 600,
+	"spellIcon": "aerum"
+}

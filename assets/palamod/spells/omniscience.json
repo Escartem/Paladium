@@ -1,0 +1,8 @@
+{
+	"name": "Omnisciene",
+	"desc": "Gives the ability to see into other players's inventory",
+	"maxLevel": 1,
+	"cost": 2,
+	"cooldown": 1200,
+	"spellIcon": "batum"
+}

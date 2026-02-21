@@ -1,0 +1,41 @@
+{
+  "sizeMultiplier": 1,
+  "movementSpeed": 0.3,
+  "chargeDamages": 100.0,
+  "thornDamages": 40.0,
+  "maxHealth": 6500.0,
+  "knockbackResistance": 1,
+  "attackDamage": 12.0,
+  "attacks": [
+    {
+      "attackName": "tobaltCharge",
+      "attackDamage": 70,
+      "minRange": 80,
+      "maxRange": 350
+    },
+    {
+      "attackName": "eruption",
+      "attackDamage": 40.0,
+      "minRange": 0,
+      "maxRange": 45
+    },
+    {
+      "attackName": "punch",
+      "attackDamage": 35.0,
+      "knockback": 3,
+      "minRange": 0,
+      "maxRange": 50
+    }
+  ],
+  "loots": [
+    {
+      "lootItemID": "diamond",
+      "count": 4
+    },
+    {
+      "lootItemID": "palamod:tile.paladium_block",
+      "count": 2
+    }
+  ]
+
+}

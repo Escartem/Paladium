@@ -1,0 +1,8 @@
+{
+	"name": "Inertium",
+	"desc": "Transforms the player into a block for a given time",
+	"maxLevel": 3,
+	"cost": 3,
+	"cooldown": 600,
+	"spellIcon": "inertium"
+}

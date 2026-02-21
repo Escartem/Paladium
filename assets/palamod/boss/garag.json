@@ -1,0 +1,35 @@
+{
+  "sizeMultiplier": 1,
+  "movementSpeed": 0.3,
+  "chargeDamages": 30.0,
+  "maxHealth": 6500.0,
+  "knockbackResistance": 1,
+  "attackDamage": 10.0,
+  "attacks": [
+    {
+      "attackName": "throwProjectile",
+      "projectileTypeClass": "fr.paladium.palamod.modules.palaboss.common.entity.projectiles.EntityEgg",
+      "attackDamage": 10.0,
+      "minRange": 5,
+      "maxRange": 40
+    },
+    {
+      "attackName": "punch",
+      "attackDamage": 25.0,
+      "knockback": 6,
+      "minRange": 0,
+      "maxRange": 6
+    }
+  ],
+  "loots": [
+    {
+      "lootItemID": "diamond",
+      "count": 4
+    },
+    {
+      "lootItemID": "palamod:tile.paladium_block",
+      "count": 2
+    }
+  ]
+
+}

@@ -1,0 +1,37 @@
+{
+  "sizeMultiplier": 1,
+  "movementSpeed": 0.5,
+  "chargeDamages": 40.0,
+  "maxHealth": 6500.0,
+  "knockbackResistance": 1,
+  "attackDamage": 15.0,
+  "attacks": [
+    {
+      "attackName": "exploseWeb",
+      "attackDamage": 25.0,
+      "minRange": 0,
+      "maxRange": 60
+    },
+    {
+      "attackName": "arachnaRush",
+      "minRange": 20,
+      "maxRange": 350
+    },
+    {
+      "attackName": "webLaunch",
+      "minRange": 80,
+      "maxRange": 450
+    }
+  ],
+  "loots": [
+    {
+      "lootItemID": "diamond",
+      "count": 4
+    },
+    {
+      "lootItemID": "palamod:tile.paladium_block",
+      "count": 2
+    }
+  ]
+
+}
