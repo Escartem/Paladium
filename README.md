@@ -1,3 +1,3 @@
 # Paladium
 
-that french mod or something
+that mod based on a mineral
