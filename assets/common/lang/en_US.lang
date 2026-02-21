@@ -1,0 +1,83 @@
+## Keybind
+keybind.conflict.single=Conflict with: §8[§c%s§8]
+keybind.conflict=Conflict with:
+
+## Helios
+key.helios.wiki=Open Wiki Page
+
+module.itemtooltip.name=item tooltip
+module.itemtooltip.description=customize the item tooltip.
+
+module.setting.showDescription.name=description
+module.setting.showDescription.description=
+module.setting.showWiki.name=wiki
+module.setting.showWiki.description=
+module.setting.showCraft.name=craft
+module.setting.showCraft.description=
+module.setting.showUsage.name=usages
+module.setting.showUsage.description=
+
+## Server Name
+bbd975a9-f524-4bc3-bc8b-95d385a1dbe2=Minage01
+32590136-2854-478e-8422-196b1508085a=Minage02
+9c228cf0-b672-4eb0-bd5b-a021e76ab09a=Minage03
+899d0e5c-d3f4-465b-ada3-ab3e450b1da8=Minage04
+6d579f47-b759-4371-81ca-72d9df0c6b46=Minage05
+5e566d2a-66c0-4888-bb31-799dab2c934f=Minage06
+5df34d25-231d-42ac-808e-c8ed3052a4d9=Minage07
+f07ba7f0-d88d-4ed5-8984-4fad55334ed9=Minage08
+637daacd-f92a-4f6e-b353-720ef4fcc25d=Minage09
+a9a8b852-53b0-428d-803f-7c0daf9e447e=Minage10
+
+5c9ba11c-7699-4c3b-9849-f12d29dceb86=Minage11
+92bf56bf-da20-43bb-a22b-cf41dd1ec335=Minage12
+4034d609-fac2-4b59-9475-f6b3658ceaf5=Minage13
+05ce545a-e918-4d86-91a6-ccba4861ad06=Minage14
+a7691196-ca99-4183-bae9-9bbd86b1a47d=Minage15
+ee83612b-fe64-4915-95fe-6ddeb3f48298=Minage16
+5a53b46c-bc19-42c2-9ac6-1b945e309c3c=Minage17
+047a23bf-80ed-40e5-8738-98328a3c5178=Minage18
+b6eb943a-1d61-4ce3-9124-d146f1245757=Minage19
+9d12d84a-c598-40f7-9563-ebf113f0987e=Minage20
+
+c882beee-2db3-4fb8-8575-7e82480cfad0=Minage21
+3694ee95-74a1-4639-8645-3f8475330203=Minage22
+48fb1616-d6ee-4a57-8247-605584417b9a=Minage23
+aa8ec73c-c6c4-4e6e-9a65-5c1e97367194=Minage24
+eda53556-6d68-49e2-b981-1e8349a3898e=Minage25
+e4385733-a4bb-4519-9223-a64e3ad0b5a3=Minage26
+093f9ee9-1ea3-47aa-a80e-0939a3f90386=Minage27
+fc9ef640-d9e8-445b-a79f-9fb415f3190b=Minage28
+be95c5b4-e3a1-44f2-b52d-21f2e1bd5a11=Minage29
+73a1051d-47c2-4ca0-8938-d0705afc85de=Minage30
+
+4af48638-fc1b-4655-aa3d-bc1a29b00297=Minage31
+1cfbccaf-d4eb-4675-9dc0-ee4d331a1a4f=Minage32
+07a2a41a-ec3b-4221-8808-33340d0840e9=Minage34
+a96e36c2-02ae-4faf-a614-84d46ff72192=Minage35
+80e71108-09c2-450a-a7e0-20c4acc02c40=Minage36
+d4f0ea97-80cf-4fb5-8c06-61dfc1d789fa=Minage37
+ccbd87f3-7eb1-4004-bd79-8b4d2372520c=Minage38
+b9075759-8658-4f77-ba16-d84bf9be6896=Minage39
+b6bbb3ec-4531-484a-95aa-250a9e6ecd22=Minage40
+
+a759b8d4-40e6-4ffa-897a-3c34a9babb10=Minage41
+8bf82f53-683d-49ee-a5aa-f4d2f083c1f3=Minage42
+b5194c44-3bb5-49fe-8ed4-4a17639fa72d=Minage43
+20bc1c09-4b7f-4e58-8ebd-8ffe6b6b60f5=Minage44
+15ba5ddf-b279-487b-a060-3a09f46e1fe8=Minage45
+4ce306d5-6e7e-43d6-b424-59c089acd00a=Minage46
+fcfb385f-3e11-480e-8ce1-d75433e9e46b=Minage47
+a62cf63a-7b24-4ad1-afcd-d78dae4f98b0=Minage48
+634ccc1a-22c0-4a54-b575-5f11611a3f16=Minage49
+05e1b1a0-8c8f-42c0-b21e-90f62e110e1c=Minage50
+
+34ab6fa6-0d20-4d29-b043-0685ff83862d=Minage51
+4ee77195-3506-48a2-a6cc-3dc97954b7fb=Minage52
+0a6b1806-3828-44b9-9e41-b7c5ed44abc2=Minage53
+316ae329-2de5-4aa6-b1e8-39400510907c=Minage54
+4e6cfaa1-8dad-4505-b169-f18bab948e21=Minage55
+9e72e7f3-155a-4c38-9703-a79b109a66e3=Minage56
+7261ca3d-48fe-4b26-87e5-5968b1aea11f=Minage57
+1e3ab241-f661-4ed6-9d8f-eac6c258634a=Minage59
+6dbbff00-9291-414b-a7b1-eb425cd809cb=Minage60

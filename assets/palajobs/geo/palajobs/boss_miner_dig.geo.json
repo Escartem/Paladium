@@ -1,0 +1,208 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 256,
+				"texture_height": 256,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "foreuse",
+					"pivot": [-0.05, -0.25, 0],
+					"rotation": [180, 0, 0],
+					"cubes": [
+						{
+							"origin": [-4.05, -2.25, -4],
+							"size": [8, 2, 8],
+							"uv": {
+								"north": {"uv": [0, 202], "uv_size": [8, 2]},
+								"east": {"uv": [0, 208], "uv_size": [8, 2]},
+								"south": {"uv": [0, 206], "uv_size": [8, 2]},
+								"west": {"uv": [0, 204], "uv_size": [8, 2]},
+								"up": {"uv": [16, 210], "uv_size": [-8, -8]},
+								"down": {"uv": [8, 218], "uv_size": [-8, -8]}
+							}
+						},
+						{
+							"origin": [-6.05, -4.25, -6],
+							"size": [12, 2, 12],
+							"uv": {
+								"north": {"uv": [8, 170], "uv_size": [12, 2]},
+								"east": {"uv": [0, 176], "uv_size": [12, 2]},
+								"south": {"uv": [0, 174], "uv_size": [12, 2]},
+								"west": {"uv": [8, 172], "uv_size": [12, 2]},
+								"up": {"uv": [12, 202], "uv_size": [-12, -12]},
+								"down": {"uv": [12, 190], "uv_size": [-12, -12]}
+							}
+						}
+					]
+				},
+				{
+					"name": "foret1",
+					"parent": "foreuse",
+					"pivot": [0.01667, -4.25, 0],
+					"cubes": [
+						{
+							"origin": [-4.05, -9.25, -4],
+							"size": [8, 5, 8],
+							"uv": {
+								"north": {"uv": [0, 154], "uv_size": [8, 5]},
+								"east": {"uv": [0, 169], "uv_size": [8, 5]},
+								"south": {"uv": [0, 164], "uv_size": [8, 5]},
+								"west": {"uv": [0, 159], "uv_size": [8, 5]},
+								"up": {"uv": [16, 162], "uv_size": [-8, -8]},
+								"down": {"uv": [16, 170], "uv_size": [-8, -8]}
+							}
+						},
+						{
+							"origin": [-4.95, -7.75, -5],
+							"size": [10, 0, 10],
+							"uv": {
+								"north": {"uv": [0, 218], "uv_size": [10, 0]},
+								"east": {"uv": [0, 218], "uv_size": [10, 0]},
+								"south": {"uv": [0, 218], "uv_size": [10, 0]},
+								"west": {"uv": [0, 218], "uv_size": [10, 0]},
+								"up": {"uv": [0, 228], "uv_size": [10, -10]},
+								"down": {"uv": [0, 218], "uv_size": [10, 10]}
+							}
+						},
+						{
+							"origin": [-4.95, -5.75, -5],
+							"size": [10, 0, 10],
+							"uv": {
+								"north": {"uv": [0, 218], "uv_size": [10, 0]},
+								"east": {"uv": [0, 218], "uv_size": [10, 0]},
+								"south": {"uv": [0, 218], "uv_size": [10, 0]},
+								"west": {"uv": [0, 218], "uv_size": [10, 0]},
+								"up": {"uv": [10, 228], "uv_size": [-10, -10]},
+								"down": {"uv": [10, 218], "uv_size": [-10, 10]}
+							}
+						}
+					]
+				},
+				{
+					"name": "foret2",
+					"parent": "foreuse",
+					"pivot": [-0.05, -9.18333, 0],
+					"cubes": [
+						{
+							"origin": [-3.05, -14.25, -3],
+							"size": [6, 5, 6],
+							"uv": {
+								"north": {"uv": [12, 174], "uv_size": [6, 5]},
+								"east": {"uv": [12, 189], "uv_size": [6, 5]},
+								"south": {"uv": [12, 184], "uv_size": [6, 5]},
+								"west": {"uv": [12, 179], "uv_size": [6, 5]},
+								"up": {"uv": [24, 180], "uv_size": [-6, -6]},
+								"down": {"uv": [24, 186], "uv_size": [-6, -6]}
+							}
+						},
+						{
+							"origin": [-4.05, -12.65, -4],
+							"size": [8, 0, 8],
+							"uv": {
+								"north": {"uv": [0, 218], "uv_size": [10, 0]},
+								"east": {"uv": [0, 218], "uv_size": [10, 0]},
+								"south": {"uv": [0, 218], "uv_size": [10, 0]},
+								"west": {"uv": [0, 218], "uv_size": [10, 0]},
+								"up": {"uv": [8, 236], "uv_size": [-8, -8]},
+								"down": {"uv": [8, 228], "uv_size": [-8, 8]}
+							}
+						},
+						{
+							"origin": [-4.05, -10.65, -4],
+							"size": [8, 0, 8],
+							"uv": {
+								"north": {"uv": [0, 218], "uv_size": [10, 0]},
+								"east": {"uv": [0, 218], "uv_size": [10, 0]},
+								"south": {"uv": [0, 218], "uv_size": [10, 0]},
+								"west": {"uv": [0, 218], "uv_size": [10, 0]},
+								"up": {"uv": [0, 236], "uv_size": [8, -8]},
+								"down": {"uv": [0, 228], "uv_size": [8, 8]}
+							}
+						}
+					]
+				},
+				{
+					"name": "foret3",
+					"parent": "foreuse",
+					"pivot": [-0.05, -14.375, 0],
+					"cubes": [
+						{
+							"origin": [-3.05, -15.25, -3],
+							"size": [6, 0, 6],
+							"uv": {
+								"north": {"uv": [0, 218], "uv_size": [6, 0]},
+								"east": {"uv": [0, 218], "uv_size": [6, 0]},
+								"south": {"uv": [0, 218], "uv_size": [6, 0]},
+								"west": {"uv": [0, 218], "uv_size": [6, 0]},
+								"up": {"uv": [6, 242], "uv_size": [-6, -6]},
+								"down": {"uv": [6, 236], "uv_size": [-6, 6]}
+							}
+						},
+						{
+							"origin": [-3.05, -16.85, -3],
+							"size": [6, 0, 6],
+							"uv": {
+								"north": {"uv": [0, 218], "uv_size": [6, 0]},
+								"east": {"uv": [0, 218], "uv_size": [6, 0]},
+								"south": {"uv": [0, 218], "uv_size": [6, 0]},
+								"west": {"uv": [0, 218], "uv_size": [6, 0]},
+								"up": {"uv": [0, 242], "uv_size": [6, -6]},
+								"down": {"uv": [0, 236], "uv_size": [6, 6]}
+							}
+						},
+						{
+							"origin": [-2.05, -18.25, -2],
+							"size": [4, 4, 4],
+							"uv": {
+								"north": {"uv": [12, 194], "uv_size": [4, 4]},
+								"east": {"uv": [16, 206], "uv_size": [4, 4]},
+								"south": {"uv": [16, 202], "uv_size": [4, 4]},
+								"west": {"uv": [12, 198], "uv_size": [4, 4]},
+								"up": {"uv": [20, 198], "uv_size": [-4, -4]},
+								"down": {"uv": [20, 202], "uv_size": [-4, -4]}
+							}
+						},
+						{
+							"origin": [-2.55, -23.25, 0],
+							"size": [5, 5, 0],
+							"uv": {
+								"north": {"uv": [0, 242], "uv_size": [5, 5]},
+								"east": {"uv": [0, 242], "uv_size": [0, 5]},
+								"south": {"uv": [5, 242], "uv_size": [-5, 5]},
+								"west": {"uv": [0, 242], "uv_size": [0, 5]},
+								"up": {"uv": [4, 242], "uv_size": [-4, 0]},
+								"down": {"uv": [4, 242], "uv_size": [-4, 0]}
+							}
+						}
+					]
+				},
+				{
+					"name": "hitbox",
+					"parent": "foreuse",
+					"pivot": [-0.05, -11.35, 0],
+					"cubes": [
+						{
+							"origin": [-6.05, -22.35, -6],
+							"size": [12, 22, 12],
+							"uv": {
+								"north": {"uv": [244, 234], "uv_size": [12, 22]},
+								"east": {"uv": [244, 234], "uv_size": [12, 22]},
+								"south": {"uv": [244, 234], "uv_size": [12, 22]},
+								"west": {"uv": [244, 234], "uv_size": [12, 22]},
+								"up": {"uv": [256, 246], "uv_size": [-12, -12]},
+								"down": {"uv": [256, 246], "uv_size": [-12, -12]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

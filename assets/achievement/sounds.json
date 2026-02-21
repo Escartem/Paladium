@@ -1,0 +1,8 @@
+{
+    "achievement.unlock": {
+      "category": "neutral",
+      "sounds": [
+        "unlock"
+      ]
+    }
+  }

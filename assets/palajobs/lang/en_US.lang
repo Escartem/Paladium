@@ -1,0 +1,82 @@
+item.root_sappling.name=Seed of root tree
+item.bamboo_boat.name=Bamboo boat
+item.amethyst_radius_hoe.name=Large amethyst hoe
+item.titane_radius_hoe.name=Large titane hoe
+item.paladium_radius_hoe.name=Large paladium hoe
+item.green_paladium_radius_hoe.name=Large paladium green hoe
+item.endium_radius_hoe.name=Large endium hoe
+item.paladium_rod.name=Paladium fishing rod
+item.endium_rod.name=Endium fishing rod
+item.inspiring_powder.name=Inspiring powder
+item.obsidianFlowerPot.name=Obsidian flower pot
+item.paladium_key.name=Paladium key
+item.root_item.name=Seed of root tree
+item.carp.name=Carp
+item.moonfish.name=Moonfish
+item.exp_fish.name=Exp Fish
+item.red_tuna.name=Red Tuna
+item.bass.name=Bass
+item.kraken.name=Kraken
+item.whale.name=Whale
+item.ray.name=Manta Ray
+
+tile.root_leaves.name=Root Leaves
+tile.root_log.name=Root log
+tile.root_planks.name=Root plank
+tile.root_inferior.name=Root
+tile.root_last.name=Lower root
+tile.obsidian_flower_pot.name=Obsidian flower pot
+tile.verveine.name=Verbena
+tile.root_seeds.name=Seed of root tree
+tile.flowerPotObsidian.name=Obsidian flower pot
+
+tile.colored_grass_seeds.black.name=Black colored grass seeds
+tile.colored_grass_seeds.red.name=Red colored grass seeds
+tile.colored_grass_seeds.darkgreen.name=Dark green colored grass seeds
+tile.colored_grass_seeds.brown.name=Brown colored grass seeds
+tile.colored_grass_seeds.blue.name=Blue colored grass seeds
+tile.colored_grass_seeds.purple.name=Purple colored grass seeds
+tile.colored_grass_seeds.yellow.name=Yellow colored grass seeds
+tile.colored_grass_seeds.orange.name=Orange colored grass seeds
+tile.colored_grass_seeds.pink.name=Pink colored grass seeds
+tile.colored_grass_seeds.green.name=Green colored grass seeds
+tile.colored_grass_seeds.white.name=White colored grass seeds
+
+tile.colored_grass.black.name=Black colored grass
+tile.colored_grass.red.name=Red colored grass
+tile.colored_grass.darkgreen.name=Dark green colored grass
+tile.colored_grass.brown.name=Brown colored grass
+tile.colored_grass.blue.name=Blue colored grass
+tile.colored_grass.purple.name=Purple colored grass
+tile.colored_grass.yellow.name=Yellow colored grass
+tile.colored_grass.orange.name=Orange colored grass
+tile.colored_grass.pink.name=Pink colored grass
+tile.colored_grass.green.name=Green colored grass
+tile.colored_grass.white.name=White colored grass
+
+tile.tallgrass.black.name=Black colored tall grass
+tile.tallgrass.red.name=Red colored tall grass
+tile.tallgrass.darkgreen.name=Dark green colored tall grass
+tile.tallgrass.brown.name=Brown colored tall grass
+tile.tallgrass.blue.name=Blue colored tall grass
+tile.tallgrass.purple.name=Purple colored tall grass
+tile.tallgrass.yellow.name=Yellow colored tall grass
+tile.tallgrass.orange.name=Orange colored tall grass
+tile.tallgrass.pink.name=Pink colored tall grass
+tile.tallgrass.green.name=Green colored tall grass
+tile.tallgrass.white.name=White colored tall grass
+tile.bramble.name=Brambles
+
+key.open.jobs=Open Jobs Menu
+key.categories.jobs=Jobs
+
+## Entities ##
+entity.entityJobMinerBoss.name=Miner Boss
+entity.entityJobHunterBoss.name=Hunter Boss
+entity.entityJobFarmerBoss.name=Farmer Boss
+entity.entityJobFarmerPlantBoss.name=Agressive Plant
+entity.entityJobAlchimistBoss.name=Alchimist Boss
+
+## Helios ##
+module.jobs.name=Jobs
+module.jobs.description=display your last job progression.

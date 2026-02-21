@@ -1,0 +1,14 @@
+itemGroup.palaspawner=PalaSpawner
+
+item.spawner_upgrade_speed.name=Amélioration de vitesse
+item.spawner_upgrade_more.name=Amélioration de capacité
+item.spawner_upgrade_looting.name=Amélioration de butin
+item.spawner_upgrade_slime.name=Amélioration de slime
+
+tile.empty_mob_spawner.name=Spawner vide
+tile.empty_broken_mob_spawner.name=Spawner cassé
+tile.spawn_controller.name=Contrôleur de spawner
+tile.spawner_structure_one.name=Obsidienne infusée (Diamant)
+tile.spawner_structure_two.name=Obsidienne infusée (Améthyste)
+tile.spawner_structure_three.name=Obsidienne infusée (Titane)
+tile.spawner_structure_four.name=Obsidienne infusée (Paladium)

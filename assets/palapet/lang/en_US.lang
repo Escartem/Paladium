@@ -1,0 +1,10 @@
+# Items
+item.bait.name=Bait
+
+# Blocks
+tile.pet_cage.name=Pet Cage
+
+# KeyBindings
+key.categories.pet=Pet
+key.categories.pet.none=Pet
+pet.key.skill_roll=Open Pet Skill Wheel

@@ -1,0 +1,10 @@
+# Items
+item.bait.name=Appât
+
+# Blocks
+tile.pet_cage.name=Cage à familier
+
+# KeyBindings
+key.categories.pet=Familier
+key.categories.pet.none=Familier
+pet.key.skill_roll=Ouvrir la roue des compétences familier

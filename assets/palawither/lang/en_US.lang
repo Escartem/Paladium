@@ -1,0 +1,28 @@
+itemGroup.palawither=Wither
+tile.wither_receptacle.name=Wither Receptacle
+
+item.vanilla_wither_gem.name=Wither Gem
+item.baby_wither_gem.name=Baby Wither Gem
+item.passive_wither_gem.name=Passive Wither Gem
+item.thirsty_wither_gem.name=Thirsty Wither Gem
+item.predator_wither_gem.name=Predator Wither Gem
+item.supreme_wither_gem.name=Supreme Wither Gem
+
+item.baby_wither_head.name=Baby Wither Head
+item.passive_wither_head.name=Passive Wither Head
+item.thirsty_wither_head.name=Thirsty Wither Head
+item.predator_wither_head.name=Predator Wither Head
+item.supreme_wither_head.name=Supreme Wither Head
+
+item.furtive_wither_upgrade.name=Furtive Wither Upgrade
+item.resistance_wither_upgrade.name=Resistance Wither Upgrade
+item.slimy_wither_upgrade.name=Slimy Wither Upgrade
+
+item.wither_target_point.name=Wither Target Point
+item.wither_target_laser_system.name=Wither Target Laser System
+
+entity.palawither.EntityBabyWither.name=Baby Wither
+entity.palawither.EntityPassiveWither.name=Passive Wither
+entity.palawither.EntityThirstyWither.name=Thirsty Wither
+entity.palawither.EntityPredatorWither.name=Predator Wither
+entity.palawither.EntitySupremeWither.name=Supreme Wither

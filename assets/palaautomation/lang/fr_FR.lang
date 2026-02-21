@@ -1,0 +1,10 @@
+itemGroup.palaautomation=Automatisation
+
+tile.pipe_mixed_endium.name=Tuyau d'Endium mixé
+tile.pipe_green_paladium.name=Tuyau de Paladium Vert
+tile.pipe_paladium.name=Tuyau de Paladium
+
+tile.injector.name=Injecteur
+tile.receiver.name=Récepteur
+tile.crafter.name=Crafteur
+tile.giver.name=Distributeur

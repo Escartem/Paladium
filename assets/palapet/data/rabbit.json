@@ -1,0 +1,19 @@
+{
+  "name": "rabbit",
+  "fish": false,
+  "uiPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "shoulderPosition": {
+    "x": -2.9,
+    "y": -0.95,
+    "z": -0.05
+  },
+  "scaleFactor": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 0.5
+  }
+}

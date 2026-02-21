@@ -1,0 +1,166 @@
+{
+  "palajobs.levelup": {
+    "category": "neutral",
+    "sounds": [
+      "levelup"
+    ]
+  },
+  "palajobs.quest.complete": {
+    "category": "neutral",
+    "sounds": [
+      "quest_complete"
+    ]
+  },
+
+  "palajobs.boss.activate": {
+    "category": "player",
+    "sounds": [
+      "boss/activate"
+    ]
+  },
+  "palajobs.boss.damage": {
+    "category": "player",
+    "sounds": [
+      "boss/damage01",
+      "boss/damage02"
+    ]
+  },
+  "palajobs.boss.death": {
+    "category": "player",
+    "sounds": [
+      "boss/death"
+    ]
+  },
+  "palajobs.boss.idle": {
+    "category": "player",
+    "sounds": [
+      "boss/idle01",
+      "boss/idle02"
+    ]
+  },
+  "palajobs.boss.step": {
+    "category": "player",
+    "sounds": [
+      "boss/step01",
+      "boss/step02"
+    ]
+  },
+
+  "palajobs.boss.alchemist.invocation": {
+    "category": "player",
+    "sounds": [
+      "boss/alchemist/invocation"
+    ]
+  },
+  "palajobs.boss.alchemist.punch": {
+    "category": "player",
+    "sounds": [
+      "boss/alchemist/punch"
+    ]
+  },
+  "palajobs.boss.alchemist.shot": {
+    "category": "player",
+    "sounds": [
+      "boss/alchemist/shot"
+    ]
+  },
+
+  "palajobs.boss.farmer.down": {
+    "category": "player",
+    "sounds": [
+      "boss/farmer/down"
+    ]
+  },
+  "palajobs.boss.farmer.explode": {
+    "category": "player",
+    "sounds": [
+      "boss/farmer/explode"
+    ]
+  },
+  "palajobs.boss.farmer.launch": {
+    "category": "player",
+    "sounds": [
+      "boss/farmer/launch"
+    ]
+  },
+  "palajobs.boss.farmer.punch": {
+    "category": "player",
+    "sounds": [
+      "boss/farmer/punch"
+    ]
+  },
+  "palajobs.boss.farmer.plant.attack": {
+    "category": "player",
+    "sounds": [
+      "boss/farmer/plant_attack"
+    ]
+  },
+
+  "palajobs.boss.hunter.invocation": {
+    "category": "player",
+    "sounds": [
+      "boss/hunter/invocation"
+    ]
+  },
+  "palajobs.boss.hunter.punch": {
+    "category": "player",
+    "sounds": [
+      "boss/hunter/punch"
+    ]
+  },
+  "palajobs.boss.hunter.shot.black": {
+    "category": "player",
+    "sounds": [
+      "boss/hunter/shot_black"
+    ]
+  },
+  "palajobs.boss.hunter.shot.green": {
+    "category": "player",
+    "sounds": [
+      "boss/hunter/shot_green"
+    ]
+  },
+  "palajobs.boss.hunter.shot.red": {
+    "category": "player",
+    "sounds": [
+      "boss/hunter/shot_red"
+    ]
+  },
+  "palajobs.boss.hunter.shot.orange": {
+    "category": "player",
+    "sounds": [
+      "boss/hunter/shot_orange"
+    ]
+  },
+
+  "palajobs.boss.miner.dig": {
+    "category": "player",
+    "sounds": [
+      "boss/miner/dig"
+    ]
+  },
+  "palajobs.boss.miner.drillplayer": {
+    "category": "player",
+    "sounds": [
+      "boss/miner/drill_player"
+    ]
+  },
+  "palajobs.boss.miner.punch1": {
+    "category": "player",
+    "sounds": [
+      "boss/miner/punch1"
+    ]
+  },
+  "palajobs.boss.miner.punch2": {
+    "category": "player",
+    "sounds": [
+      "boss/miner/punch2"
+    ]
+  },
+  "palajobs.boss.miner.shot": {
+    "category": "player",
+    "sounds": [
+      "boss/miner/shot"
+    ]
+  }
+}

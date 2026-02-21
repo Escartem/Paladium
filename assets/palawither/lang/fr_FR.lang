@@ -1,0 +1,28 @@
+itemGroup.palawither=Wither
+tile.wither_receptacle.name=Réceptacle à Wither
+
+item.vanilla_wither_gem.name=Gemme de Wither
+item.baby_wither_gem.name=Gemme de Bébé Wither
+item.passive_wither_gem.name=Gemme de Wither Passif
+item.thirsty_wither_gem.name=Gemme de Wither Assoiffé
+item.predator_wither_gem.name=Gemme de Wither Prédateur
+item.supreme_wither_gem.name=Gemme de Wither Suprême
+
+item.baby_wither_head.name=Tête de Bébé Wither
+item.passive_wither_head.name=Tête de Wither Passif
+item.thirsty_wither_head.name=Tête de Wither Assoiffé
+item.predator_wither_head.name=Tête de Wither Prédateur
+item.supreme_wither_head.name=Tête de Wither Suprême
+
+item.furtive_wither_upgrade.name=Amélioration Furtive de Wither
+item.resistance_wither_upgrade.name=Amélioration Résistance de Wither
+item.slimy_wither_upgrade.name=Amélioration Visqueuse de Wither
+
+item.wither_target_point.name=Balise de ciblage du Wither
+item.wither_target_laser_system.name=Laser de ciblage du Wither
+
+entity.palawither.EntityBabyWither.name=Bébé Wither
+entity.palawither.EntityPassiveWither.name=Wither Passif
+entity.palawither.EntityThirstyWither.name=Wither Assoiffé
+entity.palawither.EntityPredatorWither.name=Wither Prédateur
+entity.palawither.EntitySupremeWither.name=Wither Suprême

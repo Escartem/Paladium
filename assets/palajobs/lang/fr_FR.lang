@@ -1,0 +1,82 @@
+item.root_sappling.name=Graine de racinier
+item.bamboo_boat.name=Bateau en Bamboo
+item.amethyst_radius_hoe.name=Grande houe en amethyste
+item.titane_radius_hoe.name=Grande houe en titane
+item.paladium_radius_hoe.name=Grande houe en paladium
+item.green_paladium_radius_hoe.name=Grande houe en paladium vert
+item.endium_radius_hoe.name=Grande houe en endium
+item.paladium_rod.name=Canne a peche en paladium
+item.endium_rod.name=Canne a peche en endium
+item.inspiring_powder.name=Poudre inspirante
+item.obsidianFlowerPot.name=Pot de fleur en obsidienne
+item.paladium_key.name=Clé en paladium
+item.root_item.name=Graine de racinier
+item.carp.name=Carpe
+item.moonfish.name=Poisson lune
+item.exp_fish.name=Poisson à exp
+item.red_tuna.name=Thon rouge
+item.bass.name=Bar
+item.kraken.name=Kraken
+item.whale.name=Baleine
+item.ray.name=Raie Manta
+
+tile.root_leaves.name=Feuillage de racinier
+tile.root_log.name=Bois de racinier
+tile.root_planks.name=Planche de racinier
+tile.root_inferior.name=Racine
+tile.root_last.name=Racine inférieur
+tile.obsidian_flower_pot.name=Pot de fleur en obsidienne
+tile.verveine.name=Verveine
+tile.root_seeds.name=Graine de racinier
+tile.flowerPotObsidian.name=Pot de fleur en obsidienne
+
+tile.colored_grass_seeds.black.name=Graine d'herbe colorée noire
+tile.colored_grass_seeds.red.name=Graine d'herbe colorée rouge
+tile.colored_grass_seeds.darkgreen.name=Graine d'herbe colorée verte foncé
+tile.colored_grass_seeds.brown.name=Graine d'herbe colorée brune
+tile.colored_grass_seeds.blue.name=Graine d'herbe colorée bleu
+tile.colored_grass_seeds.purple.name=Graine d'herbe colorée violette
+tile.colored_grass_seeds.yellow.name=Graine d'herbe colorée jaune
+tile.colored_grass_seeds.orange.name=Graine d'herbe colorée orange
+tile.colored_grass_seeds.pink.name=Graine d'herbe colorée rose
+tile.colored_grass_seeds.green.name=Graine d'herbe colorée verte
+tile.colored_grass_seeds.white.name=Graine d'herbe colorée blanche
+
+tile.colored_grass.black.name=Herbe colorée noire
+tile.colored_grass.red.name=Herbe colorée rouge
+tile.colored_grass.darkgreen.name=Herbe colorée verte foncé
+tile.colored_grass.brown.name=Herbe colorée brune
+tile.colored_grass.blue.name=Herbe colorée bleu
+tile.colored_grass.purple.name=Herbe colorée violette
+tile.colored_grass.yellow.name=Herbe colorée jaune
+tile.colored_grass.orange.name=Herbe colorée orange
+tile.colored_grass.pink.name=Herbe colorée rose
+tile.colored_grass.green.name=Herbe colorée verte
+tile.colored_grass.white.name=Herbe colorée blanche
+
+tile.tallgrass.black.name=Haute herbe colorée noire
+tile.tallgrass.red.name=Haute herbe colorée rouge
+tile.tallgrass.darkgreen.name=Haute herbe colorée verte foncée
+tile.tallgrass.brown.name=Haute herbe colorée brune
+tile.tallgrass.blue.name=Haute herbe colorée bleu
+tile.tallgrass.purple.name=Haute herbe colorée violette
+tile.tallgrass.yellow.name=Haute herbe colorée jaune
+tile.tallgrass.orange.name=Haute herbe colorée orange
+tile.tallgrass.pink.name=Haute herbe colorée rose
+tile.tallgrass.green.name=Haute herbe colorée verte
+tile.tallgrass.white.name=Haute herbe colorée blanche
+tile.bramble.name=Ronces
+
+key.open.jobs=Ouvrir le menu métier
+key.categories.jobs=Métiers
+
+## Entities ##
+entity.entityJobMinerBoss.name=Boss Mineur
+entity.entityJobHunterBoss.name=Boss Hunter
+entity.entityJobFarmerBoss.name=Boss Farmeur
+entity.entityJobFarmerPlantBoss.name=Plante Agressive
+entity.entityJobAlchimistBoss.name=Boss Alchimiste
+
+## HELIOS ##
+module.jobs.name=Métiers
+module.jobs.description=affiche votre progression de métier.

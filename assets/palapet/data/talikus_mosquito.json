@@ -1,0 +1,19 @@
+{
+  "name": "talikus_mosquito",
+  "fish": false,
+  "uiPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "shoulderPosition": {
+    "x": -3.1,
+    "y": -0.95,
+    "z": -0.1
+  },
+  "scaleFactor": {
+    "x": 1,
+    "y": 1,
+    "z": 1
+  }
+}

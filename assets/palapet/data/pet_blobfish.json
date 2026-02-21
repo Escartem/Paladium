@@ -1,0 +1,9 @@
+{
+  "name": "pet_blobfish",
+  "fish": false,
+  "shoulderPosition": {
+    "x": -2.7,
+    "y": -0.899,
+    "z": 0.0
+  }
+}

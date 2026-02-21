@@ -1,0 +1,14 @@
+itemGroup.palaspawner=PalaSpawner
+
+item.spawner_upgrade_speed.name=Speed Upgrade
+item.spawner_upgrade_more.name=More Upgrade
+item.spawner_upgrade_looting.name=Looting Upgrade
+item.spawner_upgrade_slime.name=Slime Upgrade
+
+tile.empty_mob_spawner.name=Empty Spawner
+tile.empty_broken_mob_spawner.name=Broken Spawner
+tile.spawn_controller.name=Spawner Controller
+tile.spawner_structure_one.name=Infused Obsidian (Diamond)
+tile.spawner_structure_two.name=Infused Obsidian (Amethyst)
+tile.spawner_structure_three.name=Infused Obsidian (Titane)
+tile.spawner_structure_four.name=Infused Obsidian (Paladium)

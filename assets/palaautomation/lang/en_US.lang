@@ -1,0 +1,10 @@
+itemGroup.palaautomation=Automation
+
+tile.pipe_mixed_endium.name=Mixed Endium Pipe
+tile.pipe_green_paladium.name=Green Paladium Pipe
+tile.pipe_paladium.name=Paladium Pipe
+
+tile.injector.name=Injector
+tile.receiver.name=Receiver
+tile.crafter.name=Crafter
+tile.giver.name=Giver

@@ -1,0 +1,9 @@
+{
+  "name": "pet_arty",
+  "fish": false,
+  "shoulderPosition": {
+    "x": -3.1,
+    "y": -0.95,
+    "z": -0.1
+  }
+}
