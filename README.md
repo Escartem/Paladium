@@ -1,4 +1,4 @@
-# Paladium
+# Paladium (imported from https://git.escartem.moe/Escartem/Paladium)
 
 that mod based on a mineral
 
